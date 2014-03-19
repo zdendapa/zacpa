@@ -1,0 +1,2608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+      <title>17. listopadu: Na rejdišti &gt; nám. Jana Palacha - 1</title>
+      <title>17. listopadu: Na rejdišti &gt; Pařížská - 1</title>
+      <title>17. listopadu: nám. Jana Palacha &gt; Na rejdišti - 1</title>
+      <title>17. listopadu: Pařížská &gt; Na rejdišti - 1</title>
+      <title>5. května: Hvězdova &gt; Na strži - 1</title>
+      <title>5. května: Jižní spojka &gt; Ryšavého - 1</title>
+      <title>5. května: Jižní spojka &gt; Vyskočilova - 1</title>
+      <title>5. května: Kongresové centrum &gt; Lounských - 1</title>
+      <title>5. května: Lounských &gt; Kongresové centrum - 1</title>
+      <title>5. května: Lounských &gt; nám. Hrdinů - 1</title>
+      <title>5. května: Na strži &gt; nám. Hrdinů - 1</title>
+      <title>5. května: Na strži &gt; Vyskočilova - 1</title>
+      <title>5. května: nám. Hrdinů &gt; Lounských - 1</title>
+      <title>5. května: OMV-5. května &gt; Na strži - 1</title>
+      <title>5. května: Ryšavého &gt; Jižní spojka - 1</title>
+      <title>5. května: Ryšavého &gt; Spořilov - 1</title>
+      <title>5. května: Spořilov &gt; Ryšavého - 1</title>
+      <title>5. května: Vyskočilova &gt; Jižní spojka - 1</title>
+      <title>5. května: Vyskočilova &gt; OMV-5. května - 1</title>
+      <title>Ambrožova: Jeseniova &gt; Malešická - 1</title>
+      <title>Ambrožova: Malešická &gt; Jeseniova - 1</title>
+      <title>Anglická: Bělehradská &gt; Legerova - 1</title>
+      <title>Anglická: nám. Míru &gt; Bělehradská - 1</title>
+      <title>Ankarská: Bělohorská &gt; Na Vypichu - 1</title>
+      <title>Ankarská: Brunclíkova &gt; Na Petřinách - 1</title>
+      <title>Ankarská: Brunclíkova &gt; Na Vypichu - 1</title>
+      <title>Ankarská: Na Petřinách &gt; Brunclíkova - 1</title>
+      <title>Ankarská: Na Vypichu &gt; Bělohorská - 1</title>
+      <title>Ankarská: Na Vypichu &gt; Brunclíkova - 1</title>
+      <title>Antala Staška: Budějovická &gt; Na strži - 1</title>
+      <title>Antala Staška: Hudečkova &gt; Na strži - 1</title>
+      <title>Antala Staška: Na strži &gt; Budějovická - 1</title>
+      <title>Antala Staška: Na strži &gt; Hudečkova - 1</title>
+      <title>Argentinská: Bubenské nábř. &gt; Za viaduktem - 1</title>
+      <title>Argentinská: Dělnická &gt; U průhonu - 1</title>
+      <title>Argentinská: Jankovcova &gt; Plynární - 1</title>
+      <title>Argentinská: Plynární &gt; Jankovcova - 1</title>
+      <title>Argentinská: Plynární &gt; U průhonu - 1</title>
+      <title>Argentinská: U průhonu &gt; Dělnická - 1</title>
+      <title>Argentinská: U průhonu &gt; Plynární - 1</title>
+      <title>Argentinská: Za viaduktem &gt; Dělnická - 1</title>
+      <title>Archimédova: Bellova &gt; Novopetrovická - 1</title>
+      <title>Archimédova: Bellova &gt; Ohmova - 1</title>
+      <title>Archimédova: Novopetrovická &gt; Bellova - 1</title>
+      <title>Archimédova: Ohmova &gt; Bellova - 1</title>
+      <title>Armády: Kovářova &gt; Pod Kulturním domem - 1</title>
+      <title>Armády: Pod Hranicí &gt; Pod Kulturním domem - 1</title>
+      <title>Armády: Pod Kulturním domem &gt; Kovářova - 1</title>
+      <title>Armády: Pod Kulturním domem &gt; Pod Hranicí - 1</title>
+      <title>Atletická: Pod stadiony &gt; Skokanská - 1</title>
+      <title>Atletická: Skokanská &gt; Pod stadiony - 1</title>
+      <title>Aviatická: Letiště &gt; Letiště Praha-Ruzyně - 1</title>
+      <title>Aviatická: Letiště Praha-Ruzyně &gt; Letiště - 1</title>
+      <title>Badeniho: Chotkovy sady &gt; Na valech - 1</title>
+      <title>Badeniho: Milady Horákové &gt; Na valech - 1</title>
+      <title>Badeniho: Na valech &gt; Chotkovy sady - 1</title>
+      <title>Badeniho: Na valech &gt; Milady Horákové - 1</title>
+      <title>Barrandovský most: Jižní spojka &gt; Strakonická - 1</title>
+      <title>Barrandovský most: Strakonická &gt; Jižní spojka - 2</title>
+      <title>Bartoškova: K podjezdu &gt; Petrohradská - 1</title>
+      <title>Bartoškova: K podjezdu &gt; V Horkách - 1</title>
+      <title>Bartoškova: Petrohradská &gt; K podjezdu - 1</title>
+      <title>Bartoškova: Rostislavova &gt; V Horkách - 1</title>
+      <title>Bartoškova: V Horkách &gt; K podjezdu - 1</title>
+      <title>Bartoškova: V Horkách &gt; Rostislavova - 1</title>
+      <title>Bavorská: Jeremiášova &gt; K Hájům - 1</title>
+      <title>Bavorská: K Hájům &gt; Jeremiášova - 1</title>
+      <title>Bavorská: K Hájům &gt; Nárožní - 1</title>
+      <title>Bavorská: Nárožní &gt; K Hájům - 1</title>
+      <title>Bečovská: Dubeč-K vilkám &gt; Uhříněves-Přátelství - 1</title>
+      <title>Bečovská: Uhříněves-Přátelství &gt; Dubeč-K vilkám - 1</title>
+      <title>Beladova: Mladoboleslavská &gt; Tupolevova - 1</title>
+      <title>Beladova: Tupolevova &gt; Mladoboleslavská - 1</title>
+      <title>Bělehradská: Bruselská &gt; Fričová - 1</title>
+      <title>Bělehradská: Bruselská &gt; Rumunská - 1</title>
+      <title>Bělehradská: Fričová &gt; Bruselská - 1</title>
+      <title>Bělehradská: Fričová &gt; Vršovická - 1</title>
+      <title>Bělehradská: Jugoslávská &gt; Anglická - 1</title>
+      <title>Bělehradská: Jugoslávská &gt; Rumunská - 1</title>
+      <title>Bělehradská: Rumunská &gt; Bruselská - 1</title>
+      <title>Bělehradská: Rumunská &gt; Jugoslávská - 1</title>
+      <title>Bělehradská: Vršovická &gt; Fričová - 1</title>
+      <title>Bellova: Archimédova &gt; Edisonova - 1</title>
+      <title>Bellova: Edisonova &gt; Archimédova - 1</title>
+      <title>Bělocerkevská: Ruská &gt; Vršovická - 1</title>
+      <title>Bělocerkevská: Vršovická &gt; Ruská - 1</title>
+      <title>Bělohorská: Falcká &gt; Karlovarská - 1</title>
+      <title>Bělohorská: Falcká &gt; Na Vypichu - 1</title>
+      <title>Bělohorská: Karlovarská &gt; Falcká - 1</title>
+      <title>Bělohorská: Myslbekova &gt; Vaníčkova - 1</title>
+      <title>Bělohorská: Na Vypichu &gt; Falcká - 1</title>
+      <title>Bělohorská: Na Vypichu &gt; Tomanova - 1</title>
+      <title>Bělohorská: Patočkova &gt; Na Vypichu - 1</title>
+      <title>Bělohorská: Patočkova &gt; Pod Královkou - 1</title>
+      <title>Bělohorská: Pod Královkou &gt; Patočkova - 1</title>
+      <title>Bělohorská: Pod Královkou &gt; Vaníčkova - 1</title>
+      <title>Bělohorská: Tomanova &gt; Patočkova - 1</title>
+      <title>Bělohorská: Vaníčkova &gt; Myslbekova - 1</title>
+      <title>Bělohorská: Vaníčkova &gt; Pod Královkou - 1</title>
+      <title>Benátská: Kateřinská &gt; Na slupi - 1</title>
+      <title>Benátská: Na slupi &gt; Kateřinská - 1</title>
+      <title>Benešovská: Korunní &gt; Vlašimská - 1</title>
+      <title>Benešovská: Ruská &gt; U zdravotního ústavu - 1</title>
+      <title>Benešovská: U zdravotního ústavu &gt; Ruská - 1</title>
+      <title>Benešovská: U zdravotního ústavu &gt; Vlašimská - 1</title>
+      <title>Benešovská: Vlašimská &gt; Korunní - 1</title>
+      <title>Benešovská: Vlašimská &gt; U zdravotního ústavu - 1</title>
+      <title>Beranových: Křivoklátská &gt; Křivoklátská - 1</title>
+      <title>Beranových: Křivoklátská &gt; Křivoklátská - 1</title>
+      <title>Beranových: Křivoklátská &gt; Tupolevova - 1</title>
+      <title>Beranových: Tupolevova &gt; Křivoklátská - 1</title>
+      <title>Beranových: Veselská &gt; Toužimská - 1</title>
+      <title>Blanická: Francouzská &gt; Korunní - 1</title>
+      <title>Blanická: Korunní &gt; Slezská - 1</title>
+      <title>Blanická: Slezská &gt; Vinohradská - 1</title>
+      <title>Bohdalecká: Chodovská &gt; U vršovického hřbitova - 1</title>
+      <title>Bohdalecká: Moskevská &gt; U vršovického hřbitova - 1</title>
+      <title>Bohdalecká: U vršovického hřbitova &gt; Chodovská - 1</title>
+      <title>Bohdalecká: U vršovického hřbitova &gt; Moskevská - 1</title>
+      <title>Bohdanečská: Ďáblická &gt; Jilemnické - 1</title>
+      <title>Bohdanečská: Jilemnické &gt; Ďáblická - 1</title>
+      <title>Bohdanečská: Jilemnické &gt; Semilská - 1</title>
+      <title>Bohdanečská: Semilská &gt; Jilemnické - 1</title>
+      <title>Boleslavská: Korunní &gt; Slezská - 1</title>
+      <title>Boleslavská: Slezská &gt; Korunní - 1</title>
+      <title>Boleslavská: Slezská &gt; Vinohradská - 1</title>
+      <title>Boleslavská: Vinohradská &gt; Slezská - 1</title>
+      <title>Bondyho: Argentinská &gt; Vrbenského - 1</title>
+      <title>Bondyho: Vrbenského &gt; Argentinská - 1</title>
+      <title>Božanovská: Na svěcence &gt; Náchodská - 1</title>
+      <title>Božanovská: Na svěcence &gt; Ve Žlíbku - 1</title>
+      <title>Božanovská: Náchodská &gt; Na svěcence - 1</title>
+      <title>Božanovská: Ve Žlíbku &gt; Na svěcence - 1</title>
+      <title>Branická: Branické nám. &gt; Vlitá - 1</title>
+      <title>Branická: Jiskrova &gt; Mezivrší - 1</title>
+      <title>Branická: K Ryšánce &gt; Na strži - 1</title>
+      <title>Branická: K Ryšánce &gt; Vlitá - 1</title>
+      <title>Branická: Ke Krči &gt; Jiskrova - 1</title>
+      <title>Branická: Ke Krči &gt; Modřanská - 1</title>
+      <title>Branická: Mezivrší &gt; Branické nám. - 1</title>
+      <title>Branická: Mezivrší &gt; Jiskrova - 1</title>
+      <title>Branická: Modřanská &gt; Ke Krči - 1</title>
+      <title>Branická: Na strži &gt; K Ryšánce - 1</title>
+      <title>Branická: Vlitá &gt; Branické nám. - 1</title>
+      <title>Branická: Vlitá &gt; K Ryšánce - 1</title>
+      <title>Broumarská: Cíglerova &gt; Kolbenova - 1</title>
+      <title>Broumarská: Cíglerova &gt; Ocelkova - 1</title>
+      <title>Broumarská: Českobrodská &gt; Rožmberská - 1</title>
+      <title>Broumarská: Hodějovská &gt; Lednická - 1</title>
+      <title>Broumarská: Hodějovská &gt; Vaigarská - 1</title>
+      <title>Broumarská: Kolbenova &gt; Cíglerova - 1</title>
+      <title>Broumarská: Lednická &gt; Hodějovská - 1</title>
+      <title>Broumarská: Lednická &gt; Rožmberská - 1</title>
+      <title>Broumarská: Ocelkova &gt; Cíglerova - 1</title>
+      <title>Broumarská: Ocelkova &gt; Vaigarská - 1</title>
+      <title>Broumarská: Rožmberská &gt; Českobrodská - 1</title>
+      <title>Broumarská: Rožmberská &gt; Lednická - 1</title>
+      <title>Broumarská: Vaigarská &gt; Hodějovská - 1</title>
+      <title>Broumarská: Vaigarská &gt; Ocelkova - 1</title>
+      <title>Bubenská: Heřmanova &gt; Hlávkův most - 1</title>
+      <title>Bubenská: Heřmanova &gt; Veletržní - 1</title>
+      <title>Bubenská: Hlávkův most &gt; Heřmanova - 1</title>
+      <title>Bubenská: Strojnická &gt; Veletržní - 1</title>
+      <title>Bubenská: Strojnická &gt; Železničářů - 1</title>
+      <title>Bubenská: U Výstaviště &gt; Železničářů - 1</title>
+      <title>Bubenská: Veletržní &gt; Heřmanova - 1</title>
+      <title>Bubenská: Veletržní &gt; Strojnická - 1</title>
+      <title>Bubenská: Železničářů &gt; Strojnická - 1</title>
+      <title>Bubenská: Železničářů &gt; U Výstaviště - 1</title>
+      <title>Bubenské nábřeží: Argentinská &gt; Komunardů - 1</title>
+      <title>Bubenské nábřeží: Komunardů &gt; Argentinská - 1</title>
+      <title>Bubenské nábřeží: Za viaduktem &gt; Argentinská - 2</title>
+      <title>Budějovická: Antala Staška &gt; Olbrachtova - 1</title>
+      <title>Budějovická: Antala Staška &gt; Sedlčanská - 1</title>
+      <title>Budějovická: Hanusova &gt; Na Strži / Na Pankráci - 1</title>
+      <title>Budějovická: Hanusova &gt; Olbrachtova - 1</title>
+      <title>Budějovická: Jižní spojka &gt; Sedlčanská - 1</title>
+      <title>Budějovická: Na Strži / Na Pankráci &gt; Hanusova - 1</title>
+      <title>Budějovická: Olbrachtova &gt; Antala Staška - 1</title>
+      <title>Budějovická: Olbrachtova &gt; Hanusova - 1</title>
+      <title>Budějovická: Sedlčanská &gt; Antala Staška - 1</title>
+      <title>Budějovická: Sedlčanská &gt; Jižní spojka - 1</title>
+      <title>Budovatelská: K viaduktu &gt; Satalice-východ - 1</title>
+      <title>Budovatelská: Satalice-východ &gt; K viaduktu - 1</title>
+      <title>Budovatelská: Satalice-východ &gt; Trabantská - 1</title>
+      <title>Budovatelská: Trabantská &gt; Satalice-východ - 1</title>
+      <title>Bucharova: K Hájům &gt; Plzeňská - 1</title>
+      <title>Bucharova: K Hájům &gt; Rozvadovská spojka - 1</title>
+      <title>Bucharova: Plzeňská &gt; K Hájům - 1</title>
+      <title>Bucharova: Radlická &gt; Tichnova - 1</title>
+      <title>Bucharova: Rozvadovská spojka &gt; K Hájům - 1</title>
+      <title>Bucharova: Rozvadovská spojka &gt; Tichnova - 1</title>
+      <title>Bucharova: Tichnova &gt; Radlická - 1</title>
+      <title>Bucharova: Tichnova &gt; Rozvadovská spojka - 1</title>
+      <title>Butovická: Karlštejnská &gt; Pod Vidoulí - 1</title>
+      <title>Butovická: Pod Vidoulí &gt; Karlštejnská - 1</title>
+      <title>Butovická: Pod Vidoulí &gt; Radlická - 1</title>
+      <title>Butovická: Radlická &gt; Pod Vidoulí - 1</title>
+      <title>Cementářská: Lochkov &gt; Pod Lochkovem - 1</title>
+      <title>Cementářská: Pod Lochkovem &gt; Lochkov - 1</title>
+      <title>Cementářská: Pod Lochkovem &gt; Radotín-cementárna - 1</title>
+      <title>Cementářská: Radotín-cementárna &gt; Pod Lochkovem - 1</title>
+      <title>Cínovecká: Ďáblice &gt; hranice hl. m. Prahy - 1</title>
+      <title>Cínovecká: Ďáblice &gt; Kostelecká - 1</title>
+      <title>Cínovecká: hranice hl. m. Prahy &gt; Ďáblice - 1</title>
+      <title>Cínovecká: Kbelská &gt; Kostelecká - 1</title>
+      <title>Cínovecká: Kostelecká &gt; Ďáblice - 1</title>
+      <title>Cínovecká: Kostelecká &gt; Kbelská - 1</title>
+      <title>Cukrovarská: Čakovice-Schoellerova &gt; Čakovice-Tryskovická - 1</title>
+      <title>Cukrovarská: Čakovice-Schoellerova &gt; Semilská - 1</title>
+      <title>Cukrovarská: Čakovice-Tryskovická &gt; Čakovice-Schoellerova - 1</title>
+      <title>Cukrovarská: Semilská &gt; Čakovice-Schoellerova - 1</title>
+      <title>Čakovická: Kbelská &gt; Letňanská - 1</title>
+      <title>Čakovická: Letňanská &gt; Kbelská - 1</title>
+      <title>Čakovická: Letňanská &gt; Prosecká - 1</title>
+      <title>Čakovická: Prosecká &gt; Letňanská - 1</title>
+      <title>Čechův most: Dvořákovo nábřeží &gt; nábř. Edvarda Beneše - 1</title>
+      <title>Čechův most: nábř. Edvarda Beneše &gt; Dvořákovo nábřeží - 1</title>
+      <title>Černokostelecká: Bečvářova &gt; Solidarity - 1</title>
+      <title>Černokostelecká: Bečvářova &gt; Starostrašnická - 1</title>
+      <title>Černokostelecká: Dřevčická &gt; Sazečská - 1</title>
+      <title>Černokostelecká: Dřevčická &gt; Úvalská - 1</title>
+      <title>Černokostelecká: Průmyslová &gt; U vozovny - 1</title>
+      <title>Černokostelecká: Sazečská &gt; Dřevčická - 1</title>
+      <title>Černokostelecká: Sazečská &gt; U vozovny - 1</title>
+      <title>Černokostelecká: Solidarity &gt; Bečvářova - 1</title>
+      <title>Černokostelecká: Solidarity &gt; Úvalská - 1</title>
+      <title>Černokostelecká: Starostrašnická &gt; Bečvářova - 1</title>
+      <title>Černokostelecká: U vozovny &gt; Průmyslová - 1</title>
+      <title>Černokostelecká: U vozovny &gt; Sazečská - 1</title>
+      <title>Černokostelecká: Úvalská &gt; Dřevčická - 1</title>
+      <title>Černokostelecká: Úvalská &gt; Solidarity - 1</title>
+      <title>Českobrodská: Běchovice &gt; Do Říčan - 1</title>
+      <title>Českobrodská: Běchovice &gt; K Horním Počernicím - 1</title>
+      <title>Českobrodská: Broumarská &gt; Národních hrdinů - 1</title>
+      <title>Českobrodská: Broumarská &gt; Průmyslová - 1</title>
+      <title>Českobrodská: Do panenek &gt; Mladých Běchovic/Ve Žlíbku - 1</title>
+      <title>Českobrodská: Do Říčan &gt; Běchovice - 1</title>
+      <title>Českobrodská: Do Říčan &gt; Mladých Běchovic/Ve Žlíbku - 1</title>
+      <title>Českobrodská: K Horním Počernicím &gt; Běchovice - 1</title>
+      <title>Českobrodská: K Horním Počernicím &gt; Národních hrdinů - 1</title>
+      <title>Českobrodská: Koněvova/Spojovací &gt; Pod Táborem - 1</title>
+      <title>Českobrodská: Mladých Běchovic/Ve Žlíbku &gt; Do panenek - 1</title>
+      <title>Českobrodská: Mladých Běchovic/Ve Žlíbku &gt; Do Říčan - 1</title>
+      <title>Českobrodská: Národních hrdinů &gt; Broumarská - 1</title>
+      <title>Českobrodská: Národních hrdinů &gt; K Horním Počernicím - 1</title>
+      <title>Českobrodská: Pod Táborem &gt; Koněvova/Spojovací - 1</title>
+      <title>Českobrodská: Pod Táborem &gt; Průmyslová - 1</title>
+      <title>Českobrodská: Průmyslová &gt; Broumarská - 1</title>
+      <title>Českobrodská: Průmyslová &gt; Pod Táborem - 1</title>
+      <title>Českobrodská: Starokolínská &gt; Do panenek - 1</title>
+      <title>Českomoravská: Na Balabence &gt; Sazka Arena - 1</title>
+      <title>Českomoravská: Praha Libeň &gt; Sazka Arena - 1</title>
+      <title>Českomoravská: Sazka Arena &gt; Na Balabence - 1</title>
+      <title>Českomoravská: Sazka Arena &gt; Praha Libeň - 1</title>
+      <title>Československého exilu: Generála Šišky &gt; Povodňová - 1</title>
+      <title>Československého exilu: Krouzova &gt; Lhotecká - 1</title>
+      <title>Československého exilu: Krouzova &gt; Povodňová - 1</title>
+      <title>Československého exilu: Lhotecká &gt; Krouzova - 1</title>
+      <title>Československého exilu: Lhotecká &gt; Modřanská - 1</title>
+      <title>Československého exilu: Modřanská &gt; Lhotecká - 1</title>
+      <title>Československého exilu: Platónova &gt; Generála Šišky - 1</title>
+      <title>Československého exilu: Platónova &gt; Hornocholupická - 1</title>
+      <title>Československého exilu: Povodňová &gt; Generála Šišky - 1</title>
+      <title>Československého exilu: Povodňová &gt; Krouzova - 1</title>
+      <title>Čestmírova: Rostislavova &gt; Nuselská - 1</title>
+      <title>Čiklova: Na Vítězné pláni &gt; Táborská - 1</title>
+      <title>Čiklova: Na Vítězné pláni &gt; Vnislavova - 1</title>
+      <title>Čiklova: Táborská &gt; Na Vítězné pláni - 1</title>
+      <title>Čiklova: Vnislavova &gt; Na Vítězné pláni - 2</title>
+      <title>Čimická: K Ládví &gt; Lodžská - 1</title>
+      <title>Čimická: K Ládví &gt; Spořická - 1</title>
+      <title>Čimická: K Pazderkám &gt; Lodžská - 1</title>
+      <title>Čimická: K Pazderkám &gt; Přemyšlenská - 1</title>
+      <title>Čimická: Kobyliské nám. &gt; Přemyšlenská - 1</title>
+      <title>Čimická: Lodžská &gt; K Ládví - 1</title>
+      <title>Čimická: Lodžská &gt; K Pazderkám - 2</title>
+      <title>Čimická: Přemyšlenská &gt; K Pazderkám - 1</title>
+      <title>Čimická: Přemyšlenská &gt; Kobyliské nám. - 1</title>
+      <title>Čimická: Spořická &gt; K Ládví - 1</title>
+      <title>Čistovická: Karlovarská &gt; Na Bělohorské pláni - 1</title>
+      <title>Čistovická: Na Bělohorské pláni &gt; Karlovarská - 1</title>
+      <title>Čistovická: Na Bělohorské pláni &gt; Slánská - 1</title>
+      <title>Čistovická: Slánská &gt; Na Bělohorské pláni - 1</title>
+      <title>Čs. armády: Bubenečská &gt; Eliášova - 1</title>
+      <title>Čs. armády: Bubenečská &gt; Pod Kaštany - 1</title>
+      <title>Čs. armády: Eliášova &gt; Bubenečská - 1</title>
+      <title>Čs. armády: Eliášova &gt; nám. Svobody - 1</title>
+      <title>Čs. armády: nám. Svobody &gt; Eliášova - 1</title>
+      <title>Čs. armády: nám. Svobody &gt; Národní obrany - 1</title>
+      <title>Čs. armády: Národní obrany &gt; nám. Svobody - 1</title>
+      <title>Čs. armády: Národní obrany &gt; Vítězné nám. - 1</title>
+      <title>Čs. armády: Pod Kaštany &gt; Bubenečská - 1</title>
+      <title>Čs. armády: Vítězné nám. &gt; Národní obrany - 1</title>
+      <title>Čumpelíkova: Přemyšlenská &gt; Střelničná - 1</title>
+      <title>Čumpelíkova: Přemyšlenská &gt; Žernosecká - 1</title>
+      <title>Čumpelíkova: Střelničná &gt; Přemyšlenská - 1</title>
+      <title>Čumpelíkova: Žernosecká &gt; Přemyšlenská - 1</title>
+      <title>Čuprova: Na Balabence &gt; Spojovací - 1</title>
+      <title>Čuprova: Povltavská &gt; Prosecká - 1</title>
+      <title>Čuprova: Povltavská &gt; Spojovací - 1</title>
+      <title>Čuprova: Spojovací &gt; Na Balabence - 1</title>
+      <title>D1: Chodov &gt; Spořilov - 1</title>
+      <title>D1: km 3 &gt; Chodov - 1</title>
+      <title>D1: km 3 &gt; Újezd u Průhonic - 1</title>
+      <title>D1: Průhonice &gt; Újezd u Průhonic - 1</title>
+      <title>D1: Spořilov &gt; Chodov - 1</title>
+      <title>D1: Spořilov &gt; Spořilov - 1</title>
+      <title>D1: Újezd u Průhonic &gt; Průhonice - 1</title>
+      <title>D11: Horní Počernice &gt; Horní Počernice - 1</title>
+      <title>D11: Horní Počernice &gt; Horní Počernice - 1</title>
+      <title>D11: km 6 &gt; Horní Počernice - 1</title>
+      <title>D5: km 2 &gt; Drahelčice - 1</title>
+      <title>D5: km 2 &gt; Třebonice - 1</title>
+      <title>Ďáblická: Cínovecká &gt; Kostelecká - 1</title>
+      <title>Ďáblická: Kostelecká &gt; Cínovecká - 1</title>
+      <title>Ďáblická: Kostelecká &gt; Žernosecká - 1</title>
+      <title>Ďáblická: Střelničná &gt; Žernosecká - 1</title>
+      <title>Ďáblická: Žernosecká &gt; Kostelecká - 1</title>
+      <title>Ďáblická: Žernosecká &gt; Střelničná - 1</title>
+      <title>Davídkova: nám. Na Stráži &gt; Liberecká - 1</title>
+      <title>Davídkova: Pod vodárenskou věží &gt; Liberecká - 1</title>
+      <title>Davídkova: Pod vodárenskou věží &gt; Střelničná - 1</title>
+      <title>Dělnická: Argentinská &gt; Komunardů - 1</title>
+      <title>Dělnická: Jankovcova &gt; Komunardů - 1</title>
+      <title>Dělnická: Komunardů &gt; Argentinská - 1</title>
+      <title>Dělnická: Komunardů &gt; Jankovcova - 1</title>
+      <title>Divadelní: Betlémská &gt; Smetanovo nábř. - 1</title>
+      <title>Divadelní: Masarykovo nábřeží &gt; Národní - 1</title>
+      <title>Divadelní: Národní &gt; Betlémská - 1</title>
+      <title>Dlabačov: Myslbekova &gt; Pohořelec - 1</title>
+      <title>Dlabačov: Pohořelec &gt; Myslbekova - 1</title>
+      <title>Do Chuchle: Slivenec &gt; K Homolce - 1</title>
+      <title>Dobronická: Libušská &gt; Vídeňská - 1</title>
+      <title>Dobronická: Vídeňská &gt; Libušská - 1</title>
+      <title>Dobříšská: tunel Mrázovka &gt; Zlíchovský tunel-severní portál - 1</title>
+      <title>Dobříšská: Zlíchovský tunel-jižní portál &gt; Zlíchovský tunel-severní portál - 1</title>
+      <title>Dolnoměcholupská: Kutnohorská &gt; Městská - 1</title>
+      <title>Dolnoměcholupská: Kutnohorská &gt; U továren - 1</title>
+      <title>Dolnoměcholupská: Městská &gt; Kutnohorská - 1</title>
+      <title>Dolnoměcholupská: U továren &gt; Kutnohorská - 1</title>
+      <title>Dostihová: Radotínská &gt; Strahonická - 1</title>
+      <title>Dostihová: Strahonická &gt; Radotínská - 1</title>
+      <title>Drnovská: Ruzyně &gt; Stochovská - 1</title>
+      <title>Drnovská: Ruzyně &gt; Vlastina - 1</title>
+      <title>Drnovská: Stochovská &gt; Ruzyně - 1</title>
+      <title>Drnovská: Stochovská &gt; U Prioru - 1</title>
+      <title>Drnovská: U Prioru &gt; Stochovská - 1</title>
+      <title>Drnovská: U Prioru &gt; Vlastina - 1</title>
+      <title>Drnovská: Vlastina &gt; Ruzyně - 1</title>
+      <title>Drnovská: Vlastina &gt; U Prioru - 1</title>
+      <title>Dřevčická/Pod Táborem: Černokostelecká &gt; Počernická - 1</title>
+      <title>Dřevčická/Pod Táborem: Českobrodská &gt; Malešická - 1</title>
+      <title>Dřevčická/Pod Táborem: Malešická &gt; Českobrodská - 1</title>
+      <title>Dřevčická/Pod Táborem: Malešická &gt; Počernická - 1</title>
+      <title>Dřevčická/Pod Táborem: Počernická &gt; Černokostelecká - 1</title>
+      <title>Dřevčická/Pod Táborem: Počernická &gt; Malešická - 1</title>
+      <title>Dukelských hrdinů: Heřmanova &gt; Milady Horákové - 1</title>
+      <title>Dukelských hrdinů: Heřmanova &gt; Veletržní - 1</title>
+      <title>Dukelských hrdinů: Kostelní &gt; Milady Horákové - 1</title>
+      <title>Dukelských hrdinů: Kostelní &gt; nábř. Kapitána Jaroše - 1</title>
+      <title>Dukelských hrdinů: Milady Horákové &gt; Heřmanova - 1</title>
+      <title>Dukelských hrdinů: Milady Horákové &gt; Kostelní - 1</title>
+      <title>Dukelských hrdinů: nábř. Kapitána Jaroše &gt; Kostelní - 1</title>
+      <title>Dukelských hrdinů: U Výstaviště &gt; Veletržní - 1</title>
+      <title>Dukelských hrdinů: Veletržní &gt; Heřmanova - 1</title>
+      <title>Dukelských hrdinů: Veletržní &gt; U Výstaviště - 1</title>
+      <title>Durychova: Libušská &gt; Novodvorská - 1</title>
+      <title>Durychova: Novodvorská &gt; Libušská - 1</title>
+      <title>Durychova: Novodvorská &gt; U Kamýku - 1</title>
+      <title>Durychova: U Kamýku &gt; Novodvorská - 1</title>
+      <title>Duškova: Tomáškova &gt; Mozartova - 1</title>
+      <title>Duškova: U Trojice &gt; Tomáškova - 1</title>
+      <title>Duškova: Vrchlického &gt; U Trojice - 1</title>
+      <title>Dvořákovo nábřeží: Čechův most &gt; Dušní - 1</title>
+      <title>Dvořákovo nábřeží: Čechův most &gt; Rudolfinum - 1</title>
+      <title>Dvořákovo nábřeží: Dušní &gt; Čechův most - 1</title>
+      <title>Dvořákovo nábřeží: Dušní &gt; Klášterská - 1</title>
+      <title>Dvořákovo nábřeží: Klášterská &gt; Dušní - 1</title>
+      <title>Dvořákovo nábřeží: Klášterská &gt; Nové mlýny - 1</title>
+      <title>Dvořákovo nábřeží: Nové mlýny &gt; Klášterská - 1</title>
+      <title>Edisonova: Bellova &gt; Euklidova - 1</title>
+      <title>Edisonova: Euklidova &gt; Bellova - 1</title>
+      <title>Engelmüllerova: Makovského &gt; Žalanského - 1</title>
+      <title>Engelmüllerova: Žalanského &gt; Makovského - 1</title>
+      <title>Euklidova: Edisonova &gt; Výstavní - 1</title>
+      <title>Euklidova: Výstavní &gt; Edisonova - 1</title>
+      <title>Evropská: Etiopská &gt; Horoměřická - 1</title>
+      <title>Evropská: Etiopská &gt; Praha Veleslavín - 1</title>
+      <title>Evropská: Horoměřická &gt; Etiopská - 1</title>
+      <title>Evropská: Horoměřická &gt; Na pískách - 1</title>
+      <title>Evropská: José Martího &gt; Libocká - 1</title>
+      <title>Evropská: José Martího &gt; Praha Veleslavín - 1</title>
+      <title>Evropská: Libocká &gt; José Martího - 1</title>
+      <title>Evropská: Libocká &gt; Vlastina - 1</title>
+      <title>Evropská: Na pískách &gt; Horoměřická - 1</title>
+      <title>Evropská: Na pískách &gt; Starodejvická - 1</title>
+      <title>Evropská: Praha Veleslavín &gt; Etiopská - 1</title>
+      <title>Evropská: Praha Veleslavín &gt; José Martího - 1</title>
+      <title>Evropská: Ruzyně &gt; Vlastina - 1</title>
+      <title>Evropská: Starodejvická &gt; Na pískách - 1</title>
+      <title>Evropská: Starodejvická &gt; Šárecká - 1</title>
+      <title>Evropská: Šárecká &gt; Starodejvická - 1</title>
+      <title>Evropská: Šárecká &gt; Thákurova - 1</title>
+      <title>Evropská: Thákurova &gt; Šárecká - 1</title>
+      <title>Evropská: Thákurova &gt; Vítězné nám. - 1</title>
+      <title>Evropská: Vítězné nám. &gt; Thákurova - 1</title>
+      <title>Evropská: Vlastina &gt; Libocká - 1</title>
+      <title>Evropská: Vlastina &gt; Ruzyně - 1</title>
+      <title>Filosofská: Na dlouhé mezi &gt; Vavřenova - 1</title>
+      <title>Filosofská: Vavřenova &gt; Na dlouhé mezi - 1</title>
+      <title>Formanská: hranice hl. m. Prahy &gt; Josefa Bíbrdlíka - 1</title>
+      <title>Formanská: Újezd &gt; Vodnická - 1</title>
+      <title>Formanská: Vodnická &gt; Újezd - 1</title>
+      <title>Francouzská: Blanická &gt; Jana Masaryka - 1</title>
+      <title>Francouzská: Blanická &gt; nám. Míru - 1</title>
+      <title>Francouzská: Donská &gt; Máchova - 1</title>
+      <title>Francouzská: Donská &gt; Moskevská - 1</title>
+      <title>Francouzská: Jana Masaryka &gt; Blanická - 1</title>
+      <title>Francouzská: Jana Masaryka &gt; Máchova - 1</title>
+      <title>Francouzská: Máchova &gt; Donská - 1</title>
+      <title>Francouzská: Máchova &gt; Jana Masaryka - 1</title>
+      <title>Francouzská: Moskevská &gt; Donská - 1</title>
+      <title>Francouzská: nám. Míru &gt; Blanická - 1</title>
+      <title>Františka Diviše: Hornoměcholupská &gt; Podleská - 1</title>
+      <title>Františka Diviše: Podleská &gt; Hornoměcholupská - 1</title>
+      <title>Freyova: Praha Libeň &gt; Sokolovská - 1</title>
+      <title>Freyova: Sokolovská &gt; Praha Libeň - 1</title>
+      <title>Generála Šišky: Československého exilu &gt; Levského - 1</title>
+      <title>Generála Šišky: Československého exilu &gt; Na Havránce - 1</title>
+      <title>Generála Šišky: Dolnocholupická &gt; Na Havránce - 1</title>
+      <title>Generála Šišky: Komořanská &gt; Dolnocholupická - 1</title>
+      <title>Generála Šišky: Levského &gt; Československého exilu - 1</title>
+      <title>Generála Šišky: Levského &gt; Novodvorská - 1</title>
+      <title>Generála Šišky: Na Havránce &gt; Československého exilu - 1</title>
+      <title>Generála Šišky: Na Havránce &gt; Komořanská - 1</title>
+      <title>Generála Šišky: Novodvorská &gt; Levského - 1</title>
+      <title>Gorazdova: Na Moráni &gt; Trojanova - 1</title>
+      <title>Gorazdova: Trojanova &gt; Resslova - 1</title>
+      <title>Gymnasijní/Pevnostní: Dělostřelecká &gt; Generála Píky - 1</title>
+      <title>Gymnasijní/Pevnostní: Dělostřelecká &gt; Na Ořechovce - 2</title>
+      <title>Gymnasijní/Pevnostní: Evropská &gt; Generála Píky - 1</title>
+      <title>Gymnasijní/Pevnostní: Generála Píky &gt; Dělostřelecká - 1</title>
+      <title>Gymnasijní/Pevnostní: Generála Píky &gt; Evropská - 1</title>
+      <title>Gymnasijní/Pevnostní: Na Ořechovce &gt; Dělostřelecká - 1</title>
+      <title>Gymnasijní/Pevnostní: Na Ořechovce &gt; Patočkova - 1</title>
+      <title>Gymnasijní/Pevnostní: Patočkova &gt; Na Ořechovce - 1</title>
+      <title>Havelkova: Seifertova &gt; U Rajské zahrady - 1</title>
+      <title>Havelkova: U Rajské zahrady &gt; Seifertova - 1</title>
+      <title>Heřmanova: Bubenská &gt; Dukelských hrdinů - 1</title>
+      <title>Heřmanova: Dukelských hrdinů &gt; Bubenská - 1</title>
+      <title>Hlávkův most: nábř. Kapitána Jaroše &gt; Wilsonova - 2</title>
+      <title>Hlávkův most: Wilsonova &gt; nábř. Kapitána Jaroše - 2</title>
+      <title>Hlavní: Boční I &gt; Boční II - 1</title>
+      <title>Hlavní: Boční I &gt; Severní III - 1</title>
+      <title>Hlavní: Boční II &gt; Boční I - 1</title>
+      <title>Hlavní: Boční II &gt; Severní XI - 1</title>
+      <title>Hlavní: Jižní spojka &gt; Severní XI - 1</title>
+      <title>Hlavní: Na Chodovci &gt; Senohrabská - 1</title>
+      <title>Hlavní: Senohrabská &gt; Na Chodovci - 1</title>
+      <title>Hlavní: Senohrabská &gt; Severní I - 1</title>
+      <title>Hlavní: Severní I &gt; Senohrabská - 1</title>
+      <title>Hlavní: Severní I &gt; Severní III - 1</title>
+      <title>Hlavní: Severní III &gt; Boční I - 1</title>
+      <title>Hlavní: Severní III &gt; Severní I - 1</title>
+      <title>Hlavní: Severní XI &gt; Boční II - 1</title>
+      <title>Hlavní: Severní XI &gt; Jižní spojka - 1</title>
+      <title>Hlubočepská: Hlubočepy-ul. Na Zlíchově &gt; Slivenecká - 1</title>
+      <title>Hlubočepská: Slivenecká &gt; Hlubočepy-ul. Na Zlíchově - 1</title>
+      <title>Holečkova: Drtinova &gt; nám. Kinských - 1</title>
+      <title>Holečkova: Drtinova &gt; Švédská - 1</title>
+      <title>Holečkova: Erbenova &gt; U Tyrše - 1</title>
+      <title>Holečkova: Erbenova &gt; Zapova - 1</title>
+      <title>Holečkova: nám. Kinských &gt; Drtinova - 1</title>
+      <title>Holečkova: Švédská &gt; Drtinova - 1</title>
+      <title>Holečkova: Švédská &gt; Zapova - 1</title>
+      <title>Holečkova: U Tyrše &gt; Plzeňská - 1</title>
+      <title>Holečkova: Zapova &gt; Erbenova - 1</title>
+      <title>Holečkova: Zapova &gt; Švédská - 1</title>
+      <title>Horňátecká: K Ládví &gt; Žernosecká - 1</title>
+      <title>Horňátecká: Kobyliské nám. &gt; Přemyšlenská - 1</title>
+      <title>Horňátecká: Přemyšlenská &gt; Kobyliské nám. - 1</title>
+      <title>Horňátecká: Přemyšlenská &gt; Žernosecká - 1</title>
+      <title>Horňátecká: Žernosecká &gt; K Ládví - 1</title>
+      <title>Horňátecká: Žernosecká &gt; Přemyšlenská - 1</title>
+      <title>Hornoměcholupská: K Měcholupům &gt; Milánská - 1</title>
+      <title>Hornoměcholupská: K Měcholupům &gt; Novopetrovická - 1</title>
+      <title>Hornoměcholupská: Milánská &gt; K Měcholupům - 1</title>
+      <title>Hornoměcholupská: Milánská &gt; Průmyslová - 1</title>
+      <title>Hornoměcholupská: Novopetrovická &gt; K Měcholupům - 1</title>
+      <title>Hornoměcholupská: Průmyslová &gt; Milánská - 1</title>
+      <title>Hornopočernická: Kbely &gt; Trabantská - 1</title>
+      <title>Hornopočernická: Trabantská &gt; Kbely - 1</title>
+      <title>Horoměřická: Evropská &gt; V Šáreckém údolí - 1</title>
+      <title>Horoměřická: hranice hl. m. Prahy &gt; Nebušická - 1</title>
+      <title>Horoměřická: Nebušická &gt; hranice hl. m. Prahy - 1</title>
+      <title>Horoměřická: Nebušická &gt; V Šáreckém údolí - 1</title>
+      <title>Horoměřická: V Šáreckém údolí &gt; Evropská - 1</title>
+      <title>Horoměřická: V Šáreckém údolí &gt; Nebušická - 1</title>
+      <title>Hořejší nábřeží: Strakonická &gt; Vltavská - 2</title>
+      <title>Hořejší nábřeží: Vltavská &gt; Nábřežní - 1</title>
+      <title>Hostivická: hranice hl. m. Prahy &gt; Ke Břvům - 1</title>
+      <title>Hostivická: Hrozenkovská &gt; Sobín - 1</title>
+      <title>Hostivická: Sobín &gt; Hrozenkovská - 1</title>
+      <title>Hrozenkovská: Hostivická &gt; Strojírenská - 1</title>
+      <title>Hrozenkovská: Na Radosti &gt; Strojírenská - 1</title>
+      <title>Hrozenkovská: Strojírenská &gt; Hostivická - 1</title>
+      <title>Hrozenkovská: Strojírenská &gt; Na Radosti - 1</title>
+      <title>Husitská: Prokopova &gt; Trocnovská - 1</title>
+      <title>Husitská: Seifertova &gt; Trocnovská - 1</title>
+      <title>Husitská: Trocnovská &gt; Prokopova - 1</title>
+      <title>Husitská: Trocnovská &gt; Seifertova - 1</title>
+      <title>Hvězdova: 5. května &gt; Na Pankráci - 1</title>
+      <title>Hvězdova: Na Pankráci &gt; 5. května - 1</title>
+      <title>Hvězdova: Na Pankráci &gt; Pujmanové - 1</title>
+      <title>Hvězdova: Pujmanové &gt; Na Pankráci - 1</title>
+      <title>Hviezdoslavova: Chilká &gt; U modré školy - 1</title>
+      <title>Hviezdoslavova: U modré školy &gt; Chilká - 1</title>
+      <title>Hviezdoslavova: U modré školy &gt; Výstavní - 1</title>
+      <title>Hviezdoslavova: Výstavní &gt; U modré školy - 1</title>
+      <title>Hybernská: Havlíčkova &gt; Opletalova - 1</title>
+      <title>Hybernská: Na Příkopech &gt; Havlíčkova - 1</title>
+      <title>Hybernská: Opletalova &gt; Wilsonova - 1</title>
+      <title>Hybernská: Wilsonova &gt; Opletalova - 1</title>
+      <title>Chilská: Brněnská &gt; Opatovská - 1</title>
+      <title>Chilská: Litochlebské nám. &gt; Opatovská - 1</title>
+      <title>Chilská: Opatovská &gt; Brněnská - 1</title>
+      <title>Chilská: Opatovská &gt; Litochlebské nám. - 1</title>
+      <title>Chlumecká: Broumarská &gt; Kolbenova - 1</title>
+      <title>Chlumecká: Broumarská &gt; Ocelkova - 1</title>
+      <title>Chlumecká: Chlumecká &gt; odb. Černý Most - 1</title>
+      <title>Chlumecká: Kolbenova &gt; Broumarská - 1</title>
+      <title>Chlumecká: odb. Černý Most &gt; Chlumecká - 1</title>
+      <title>Chlumecká: odb. Černý Most &gt; Vodňanská - 1</title>
+      <title>Chlumecká: Vodňanská &gt; Broumarská - 1</title>
+      <title>Choceradská: Hlavní &gt; Senohrabská - 1</title>
+      <title>Choceradská: Senohrabská &gt; Hlavní - 1</title>
+      <title>Chodovská: Jižní spojka &gt; Záběhlická - 2</title>
+      <title>Chodovská: Záběhlická &gt; Jižní spojka - 1</title>
+      <title>Chorvatská: Korunní &gt; Ruská - 1</title>
+      <title>Chorvatská: Ruská &gt; Korunní - 1</title>
+      <title>Chotkova: Chotkovy sady &gt; Klárov - 1</title>
+      <title>Chotkova: Chotkovy sady &gt; Mariánské hradby - 1</title>
+      <title>Chotkova: Klárov &gt; Chotkovy sady - 1</title>
+      <title>Chotkova: Mariánské hradby &gt; Chotkovy sady - 1</title>
+      <title>II/102: Měchenice &gt; Žitavského - 1</title>
+      <title>II/102: Zbraslav &gt; Žitavského - 1</title>
+      <title>II/102: Žitavského &gt; Měchenice - 1</title>
+      <title>II/102: Žitavského &gt; Zbraslav - 1</title>
+      <title>II/115: Radotín-Staňkovka &gt; Černošice - 1</title>
+      <title>II/242: Kamýcká &gt; Sedlec - 1</title>
+      <title>II/242: Roztoky &gt; Sedlec - 1</title>
+      <title>II/242: Sedlec &gt; Kamýcká - 1</title>
+      <title>II/242: Sedlec &gt; Roztoky - 1</title>
+      <title>II/611: Praha-Bártlova &gt; Zeleneč - 1</title>
+      <title>II/611: Zeleneč &gt; Praha-Bártlova - 1</title>
+      <title>III/00311: Pitkovice &gt; Čestlice-odb. Benice - 1</title>
+      <title>III/0058: Chrášťany &gt; odb. Jinočany - 1</title>
+      <title>III/0058: odb. Jinočany &gt; Chrášťany - 1</title>
+      <title>III/1154: Ořech &gt; Ořech-Baarovo nám. - 1</title>
+      <title>III/1154: Ořech-Baarovo nám. &gt; Ořech - 1</title>
+      <title>III/2403: hranice hl. m. Prahy &gt; Horoměřice - 1</title>
+      <title>Italská: Anglická &gt; Vinohradská - 1</title>
+      <title>Italská: Mánesova &gt; Na Smetance - 1</title>
+      <title>Italská: Mánesova &gt; Vinohradská - 1</title>
+      <title>Italská: Na Smetance &gt; Mánesova - 1</title>
+      <title>Italská: Na Smetance &gt; Vozová - 1</title>
+      <title>Italská: Seifertova &gt; Vozová - 1</title>
+      <title>Italská: Vinohradská &gt; Anglická - 1</title>
+      <title>Italská: Vinohradská &gt; Mánesova - 1</title>
+      <title>Italská: Vozová &gt; Na Smetance - 1</title>
+      <title>Italská: Vozová &gt; Seifertova - 1</title>
+      <title>Jabloňová: Topolová &gt; V korytech - 1</title>
+      <title>Jabloňová: V korytech &gt; Topolová - 1</title>
+      <title>Jáchymovská: Jeremiášova &gt; Řeporyje-Smíchovská - 1</title>
+      <title>Jáchymovská: Řeporyje-Smíchovská &gt; Jeremiášova - 1</title>
+      <title>Jana Želivského: Basilejské nám. &gt; Jeseniova - 1</title>
+      <title>Jana Želivského: Basilejské nám. &gt; Nákladové nádraží Praha Žižkov - 1</title>
+      <title>Jana Želivského: Jeseniova &gt; Basilejské nám. - 1</title>
+      <title>Jana Želivského: Jeseniova &gt; Koněvova - 1</title>
+      <title>Jana Želivského: Koněvova &gt; Jeseniova - 1</title>
+      <title>Jana Želivského: Nákladové nádraží Praha Žižkov &gt; Basilejské nám. - 1</title>
+      <title>Jana Želivského: Nákladové nádraží Praha Žižkov &gt; U nákladového nádraží - 1</title>
+      <title>Jana Želivského: U nákladového nádraží &gt; Nákladové nádraží Praha Žižkov - 1</title>
+      <title>Jana Želivského: U nákladového nádraží &gt; Vinohradská - 1</title>
+      <title>Jana Želivského: Vinohradská &gt; U nákladového nádraží - 1</title>
+      <title>Janáčkovo nábřeží: Hořejší nábřeží &gt; Jiráskův most - 1</title>
+      <title>Janáčkovo nábřeží: Jiráskův most &gt; Nábřežní - 1</title>
+      <title>Janáčkovo nábřeží: Nábřežní &gt; Vodní - 1</title>
+      <title>Janáčkovo nábřeží: Petřínská &gt; Most legií - 1</title>
+      <title>Janáčkovo nábřeží: Vodní &gt; Petřínská - 1</title>
+      <title>Jankovcova: Argentinská &gt; Plynární - 1</title>
+      <title>Jankovcova: Jateční &gt; Libeňský most - 1</title>
+      <title>Jankovcova: Libeňský most &gt; Jateční - 1</title>
+      <title>Jankovcova: Libeňský most &gt; U Uranie - 1</title>
+      <title>Jankovcova: U Uranie &gt; Libeňský most - 1</title>
+      <title>Jaromírova: Křesomyslova &gt; Nezamyslova - 1</title>
+      <title>Jaromírova: Nezamyslova &gt; Křesomyslova - 1</title>
+      <title>Jaromírova: Nezamyslova &gt; Ostrčilovo nám. - 1</title>
+      <title>Jaromírova: Ostrčilovo nám. &gt; Nezamyslova - 1</title>
+      <title>Jateční: Argentinská &gt; Komunardů - 1</title>
+      <title>Jateční: Jankovcova &gt; Komunardů - 1</title>
+      <title>Jateční: Komunardů &gt; Argentinská - 1</title>
+      <title>Jateční: Komunardů &gt; Jankovcova - 1</title>
+      <title>Ječná: Fakultní poliklinika &gt; Štěpánská - 1</title>
+      <title>Ječná: Karlovo nám. &gt; Fakultní poliklinika - 1</title>
+      <title>Ječná: Kateřinská &gt; Sokolská - 1</title>
+      <title>Ječná: Ke Karlovu &gt; Kateřinská - 3</title>
+      <title>Ječná: Sokolská &gt; Legerova - 1</title>
+      <title>Ječná: Štěpánská &gt; Ke Karlovu - 1</title>
+      <title>Jelení: U Brusnice &gt; U Prašného mostu - 1</title>
+      <title>Jelení: U Prašného mostu &gt; U Brusnice - 1</title>
+      <title>Jeremenkova: Dvorecká &gt; Modřanská - 1</title>
+      <title>Jeremenkova: Dvorecká &gt; V křovinách - 1</title>
+      <title>Jeremenkova: Modřanská &gt; Dvorecká - 1</title>
+      <title>Jeremenkova: Na strži &gt; V rovinách - 1</title>
+      <title>Jeremenkova: Na vrstvách &gt; V křovinách - 1</title>
+      <title>Jeremenkova: Na vrstvách &gt; V rovinách - 1</title>
+      <title>Jeremenkova: V křovinách &gt; Dvorecká - 1</title>
+      <title>Jeremenkova: V křovinách &gt; Na vrstvách - 1</title>
+      <title>Jeremenkova: V rovinách &gt; Na strži - 1</title>
+      <title>Jeremenkova: V rovinách &gt; Na vrstvách - 1</title>
+      <title>Jeremiášova: Archeologická &gt; Červeňanského - 1</title>
+      <title>Jeremiášova: Archeologická &gt; Pod Hranicí - 1</title>
+      <title>Jeremiášova: Červeňanského &gt; Archeologická - 1</title>
+      <title>Jeremiášova: Červeňanského &gt; Mukařovského - 1</title>
+      <title>Jeremiášova: Jáchymovská &gt; Mukařovského - 1</title>
+      <title>Jeremiášova: Jáchymovská &gt; Oistrachova - 1</title>
+      <title>Jeremiášova: Mukařovského &gt; Červeňanského - 1</title>
+      <title>Jeremiášova: Mukařovského &gt; Jáchymovská - 1</title>
+      <title>Jeremiášova: odb. Jinočany &gt; Oistrachova - 1</title>
+      <title>Jeremiášova: odb. Jinočany &gt; Rozvadovská spojka - 1</title>
+      <title>Jeremiášova: Oistrachova &gt; Jáchymovská - 1</title>
+      <title>Jeremiášova: Plzeňská &gt; Rozvadovská spojka - 1</title>
+      <title>Jeremiášova: Pod Hranicí &gt; Archeologická - 1</title>
+      <title>Jeremiášova: Pod Hranicí &gt; Radlická - 1</title>
+      <title>Jeremiášova: Radlická &gt; Pod Hranicí - 1</title>
+      <title>Jeremiášova: Rozvadovská spojka &gt; Plzeňská - 1</title>
+      <title>Jeseniova: Ambrožova &gt; Koněvova - 1</title>
+      <title>Jeseniova: Domažlická &gt; Jana Želivského - 1</title>
+      <title>Jeseniova: Jana Želivského &gt; Ambrožova - 1</title>
+      <title>Jeseniova: Ostroměřická &gt; Domažlická - 1</title>
+      <title>Jeseniova: Prokopova &gt; Ostroměřická - 1</title>
+      <title>Jičínská: Korunní &gt; Slezská - 1</title>
+      <title>Jičínská: Lucemburská &gt; Olšanské nám. - 1</title>
+      <title>Jičínská: Lucemburská &gt; Vinohradská - 1</title>
+      <title>Jičínská: Olšanské nám. &gt; Lucemburská - 1</title>
+      <title>Jičínská: Slezská &gt; Korunní - 1</title>
+      <title>Jičínská: Slezská &gt; Vinohradská - 1</title>
+      <title>Jičínská: Vinohradská &gt; Lucemburská - 1</title>
+      <title>Jičínská: Vinohradská &gt; Slezská - 1</title>
+      <title>Jinonická: Peroutkova &gt; Vrchlického - 1</title>
+      <title>Jinonická: Plzeňská &gt; Vrchlického - 1</title>
+      <title>Jinonická: Vrchlického &gt; Peroutkova - 1</title>
+      <title>Jinonická: Vrchlického &gt; Plzeňská - 1</title>
+      <title>Jiráskův most: Janáčkovo nábřeží &gt; Jiráskovo nám. - 2</title>
+      <title>Jiráskův most: Jiráskovo nám. &gt; Janáčkovo nábřeží - 1</title>
+      <title>jižní rampa do SAT: Radlická &gt; Strahovský - 1</title>
+      <title>Jižní spojka: 5. května &gt; Spořilovská - 1</title>
+      <title>Jižní spojka: 5. května &gt; Vídeňská - 1</title>
+      <title>Jižní spojka: Lanový most &gt; Průmyslová - 1</title>
+      <title>Jižní spojka: Lanový most &gt; Švehlova - 1</title>
+      <title>Jižní spojka: Modřanská &gt; Modřanská-Braník - 1</title>
+      <title>Jižní spojka: Modřanská-Braník &gt; Modřanská - 1</title>
+      <title>Jižní spojka: Modřanská-Braník &gt; V podzámčí - 1</title>
+      <title>Jižní spojka: Průmyslová &gt; Lanový most - 1</title>
+      <title>Jižní spojka: Spořilovská &gt; 5. května - 1</title>
+      <title>Jižní spojka: Spořilovská &gt; V korytech - 2</title>
+      <title>Jižní spojka: Švehlova &gt; Lanový most - 1</title>
+      <title>Jižní spojka: Švehlova &gt; V korytech - 1</title>
+      <title>Jižní spojka: V korytech &gt; Spořilovská - 1</title>
+      <title>Jižní spojka: V korytech &gt; Švehlova - 1</title>
+      <title>Jižní spojka: V podzámčí &gt; Modřanská-Braník - 1</title>
+      <title>Jižní spojka: V podzámčí &gt; Vídeňská - 1</title>
+      <title>Jižní spojka: Vídeňská &gt; 5. května - 1</title>
+      <title>Jižní spojka: Vídeňská &gt; V podzámčí - 1</title>
+      <title>Jugoslávských partyzánů: Podbabská &gt; Zelená - 1</title>
+      <title>Jugoslávských partyzánů: Šolínova &gt; Velflíkova - 1</title>
+      <title>Jugoslávských partyzánů: Šolínova &gt; Vítězné nám. - 1</title>
+      <title>Jugoslávských partyzánů: Velflíkova &gt; Šolínova - 1</title>
+      <title>Jugoslávských partyzánů: Velflíkova &gt; Zelená - 1</title>
+      <title>Jugoslávských partyzánů: Vítězné nám. &gt; Šolínova - 1</title>
+      <title>Jugoslávských partyzánů: Zelená &gt; Podbabská - 1</title>
+      <title>Jugoslávských partyzánů: Zelená &gt; Velflíkova - 1</title>
+      <title>K Austisu: Ke Smíchovu &gt; odb. Řeporyje - 1</title>
+      <title>K Austisu: odb. Řeporyje &gt; Ke Smíchovu - 1</title>
+      <title>K Barrandovu: Barrandovský most &gt; Pod Habrovou - 1</title>
+      <title>K Barrandovu: Geologická &gt; Lamačova - 1</title>
+      <title>K Barrandovu: Geologická &gt; Pod Habrovou - 1</title>
+      <title>K Barrandovu: K Holyni &gt; Ke Smíchovu - 1</title>
+      <title>K Barrandovu: K Holyni &gt; Wassermannova - 1</title>
+      <title>K Barrandovu: Ke Smíchovu &gt; K Holyni - 1</title>
+      <title>K Barrandovu: Ke Smíchovu &gt; Slivenec - 1</title>
+      <title>K Barrandovu: Lamačova &gt; Geologická - 1</title>
+      <title>K Barrandovu: Lamačova &gt; Štěpařská - 1</title>
+      <title>K Barrandovu: odb. Slivenec &gt; Štěpařská - 1</title>
+      <title>K Barrandovu: Pod Habrovou &gt; Barrandovský most - 1</title>
+      <title>K Barrandovu: Pod Habrovou &gt; Geologická - 1</title>
+      <title>K Barrandovu: Slivenec &gt; Ke Smíchovu - 1</title>
+      <title>K Barrandovu: Štěpařská &gt; Lamačova - 2</title>
+      <title>K Barrandovu: Štěpařská &gt; Wassermannova - 1</title>
+      <title>K Barrandovu: Wassermannova &gt; K Holyni - 1</title>
+      <title>K Barrandovu: Wassermannova &gt; odb. Slivenec - 1</title>
+      <title>K Bohnicím: K Pazderkám &gt; Pod Hrachovkou - 1</title>
+      <title>K Bohnicím: Pod Hrachovkou &gt; K Pazderkám - 1</title>
+      <title>K cementárně: Radotín-cementárna &gt; V sudech - 1</title>
+      <title>K cementárně: Strážovská &gt; V sudech - 1</title>
+      <title>K cementárně: V sudech &gt; Radotín-cementárna - 1</title>
+      <title>K cementárně: V sudech &gt; Strážovská - 1</title>
+      <title>K Černému dvoru: Počernická &gt; U Krbu - 1</title>
+      <title>K Černému dvoru: U Krbu &gt; Počernická - 1</title>
+      <title>K Černému dvoru: U Krbu &gt; U nákladového nádraží - 1</title>
+      <title>K Černému dvoru: U nákladového nádraží &gt; U Krbu - 1</title>
+      <title>K Dubči: Pod Jankovem &gt; Ke kolodějskému zámku - 1</title>
+      <title>K Dubečku: Dol. Měch.-Kutnohorská &gt; Dubeč-K vilkám - 1</title>
+      <title>K Dubečku: Dubeč-K vilkám &gt; Dol. Měch.-Kutnohorská - 1</title>
+      <title>K Hájům: Bavorská &gt; v Borovičkách - 1</title>
+      <title>K Hájům: Bucharova &gt; v Borovičkách - 1</title>
+      <title>K Hájům: v Borovičkách &gt; Bavorská - 1</title>
+      <title>K Hájům: v Borovičkách &gt; Bucharova - 1</title>
+      <title>K Homolce: Do Chuchle &gt; V dolích - 1</title>
+      <title>K Homolce: V dolích &gt; Do Chuchle - 1</title>
+      <title>K Horkám: Hostivařské nám. &gt; Mírového hnutí - 1</title>
+      <title>K Horkám: Hostivařské nám. &gt; Švehlova - 1</title>
+      <title>K Horkám: Mírového hnutí &gt; Hostivařské nám. - 1</title>
+      <title>K Horkám: Švehlova &gt; Hostivařské nám. - 1</title>
+      <title>K Ládví: Čimická &gt; Ústecká - 1</title>
+      <title>K Ládví: Ústecká &gt; Čimická - 1</title>
+      <title>K Lesíku: Slatina &gt; Štěrboholy - 1</title>
+      <title>K Lesíku: Štěrboholy &gt; Slatina - 1</title>
+      <title>K Libuši: Golčova &gt; K Zeleným domkům - 1</title>
+      <title>K Libuši: K Zeleným domkům &gt; Golčova - 1</title>
+      <title>K Libuši: K Zeleným domkům &gt; Vídeňská - 1</title>
+      <title>K Libuši: Vídeňská &gt; K Zeleným domkům - 1</title>
+      <title>K Lochkovu: Do Chuchle &gt; Ke Smíchovu - 1</title>
+      <title>K Lochkovu: Do Chuchle &gt; odb. Lochkov-D1 - 1</title>
+      <title>K Lochkovu: Ke Smíchovu &gt; Do Chuchle - 1</title>
+      <title>K Lochkovu: odb. Lochkov-D1 &gt; Do Chuchle - 1</title>
+      <title>K Měcholupům: Horní Měcholupy &gt; Kutnohorská - 1</title>
+      <title>K Měcholupům: Kutnohorská &gt; Horní Měcholupy - 1</title>
+      <title>K Pazderkám: Čimická &gt; Lodžská - 1</title>
+      <title>K Pazderkám: K Bohnicím &gt; Lodžská - 1</title>
+      <title>K Pazderkám: Lodžská &gt; Čimická - 1</title>
+      <title>K Pazderkám: Lodžská &gt; K Bohnicím - 1</title>
+      <title>K Řeporyjím: Chrášťany &gt; Třebonice - 1</title>
+      <title>K Řeporyjím: K Třebonicům &gt; Třebonice - 1</title>
+      <title>K Řeporyjím: Třebonice &gt; Chrášťany - 1</title>
+      <title>K Řeporyjím: Třebonice &gt; K Třebonicům - 1</title>
+      <title>K sídlišti: Milevská &gt; Nad Pekařkou - 1</title>
+      <title>K sídlišti: Milevská &gt; V rovinách - 1</title>
+      <title>K sídlišti: Nad Pekařkou &gt; Milevská - 1</title>
+      <title>K sídlišti: V rovinách &gt; Milevská - 1</title>
+      <title>K sjezdu Jinočany: Jinočany &gt; Jinočany - 1</title>
+      <title>K sjezdu Jinočany: Jinočany &gt; K Řeporyjím/K Třebonicům - 1</title>
+      <title>K sjezdu Jinočany: K Řeporyjím/K Třebonicům &gt; Jinočany - 1</title>
+      <title>K sjezdu Jinočany: odb. Řeporyje &gt; odb. Třebonice - 1</title>
+      <title>K Šeberáku: Golčova &gt; K Verneráku - 1</title>
+      <title>K Šeberáku: K Verneráku &gt; Golčova - 1</title>
+      <title>K Šeberáku: K Verneráku &gt; Kunratická spojka - 1</title>
+      <title>K Šeberáku: Kunratická spojka &gt; K Verneráku - 1</title>
+      <title>K Třebonicům: Jinočanská spojka &gt; Smíchovská - 1</title>
+      <title>K Uhříněvsi: Kralovice &gt; Uhříněves-ul. Přátelství - 1</title>
+      <title>K Uhříněvsi: Uhříněves-ul. Přátelství &gt; Kralovice - 1</title>
+      <title>K Verneráku: K Šeberáku &gt; U Kunratického lesa - 1</title>
+      <title>K Verneráku: U Kunratického lesa &gt; K Šeberáku - 1</title>
+      <title>K vilkám: Lipové nám. &gt; Uhříněves-Bečovská - 1</title>
+      <title>K vilkám: Uhříněves-Bečovská &gt; Lipové nám. - 1</title>
+      <title>K Vodojemu: Radlické &gt; U smíchovského hřbitova - 1</title>
+      <title>K Vodojemu: U smíchovského hřbitova &gt; Radlické - 1</title>
+      <title>K Zadní Kopanině: Cikánka &gt; Zadní Kopanina - 1</title>
+      <title>K Zadní Kopanině: odb. Ořech &gt; Řeporyjské nám. - 1</title>
+      <title>K Zadní Kopanině: odb. Ořech &gt; Zadní Kopanina - 1</title>
+      <title>K Zadní Kopanině: Řeporyjské nám. &gt; odb. Ořech - 1</title>
+      <title>K Zadní Kopanině: Zadní Kopanina &gt; Cikánka - 1</title>
+      <title>K Zadní Kopanině: Zadní Kopanina &gt; odb. Ořech - 1</title>
+      <title>K Žižkovu: Praha Libeň &gt; Spojovací - 1</title>
+      <title>K Žižkovu: Spojovací &gt; Praha Libeň - 1</title>
+      <title>Kamýcká: Budovec &gt; Sedlec - 1</title>
+      <title>Kamýcká: Budovec &gt; Suchdolská-hranice hl. m. Prahy - 1</title>
+      <title>Kamýcká: Roztocká &gt; Sedlec - 1</title>
+      <title>Kamýcká: Sedlec &gt; Budovec - 1</title>
+      <title>Kamýcká: Sedlec &gt; Roztocká - 1</title>
+      <title>Kamýcká: Suchdolská-hranice hl. m. Prahy &gt; Budovec - 1</title>
+      <title>Karlická: Horymírovo nám. &gt; nám. Osvoboditelů - 1</title>
+      <title>Karlická: nám. Osvoboditelů &gt; Horymírovo nám. - 1</title>
+      <title>Karlická: nám. Osvoboditelů &gt; Zderazská - 1</title>
+      <title>Karlická: Staňkovka &gt; Zderazská - 1</title>
+      <title>Karlická: Zderazská &gt; nám. Osvoboditelů - 1</title>
+      <title>Karlovarská: Čistovická &gt; Na Bělohorské pláni - 1</title>
+      <title>Karlovarská: Drnovská &gt; odb. Hostivice - 1</title>
+      <title>Karlovarská: Drnovská &gt; Slánská - 1</title>
+      <title>Karlovarská: Na Bělohorské pláni &gt; Čistovická - 1</title>
+      <title>Karlovarská: Na Bělohorské pláni &gt; Slánská - 1</title>
+      <title>Karlovarská: odb. Hostivice &gt; Drnovská - 1</title>
+      <title>Karlovarská: odb. Hostivice &gt; Řepy - 1</title>
+      <title>Karlovarská: Řepy &gt; odb. Hostivice - 1</title>
+      <title>Karlovarská: Slánská &gt; Drnovská - 1</title>
+      <title>Karlovarská: Slánská &gt; Na Bělohorské pláni - 1</title>
+      <title>Karlovo nám.: Resslova &gt; Na Moráni - 1</title>
+      <title>Karlovo nám.: Žitná &gt; Resslova - 1</title>
+      <title>Karlštejnská: Butovická &gt; Na Vidouli - 1</title>
+      <title>Karlštejnská: Butovická &gt; Pod Vidoulí - 1</title>
+      <title>Karlštejnská: Na Vidouli &gt; Butovická - 1</title>
+      <title>Karlštejnská: Pod Vidoulí &gt; Butovická - 1</title>
+      <title>Karlštejnská: Pod Vidoulí &gt; Puchmajerova - 1</title>
+      <title>Karlštejnská: Puchmajerova &gt; Pod Vidoulí - 1</title>
+      <title>Karmelitská: Malostranské nám. &gt; Újezd - 1</title>
+      <title>Karmelitská: Újezd &gt; Malostranské nám. - 1</title>
+      <title>Kartouzská: Radlická &gt; Plzeňská - 1</title>
+      <title>Kartouzská: Štefánikova &gt; Radlická - 1</title>
+      <title>Kateřinská: Benátská &gt; Lípová - 1</title>
+      <title>Kateřinská: Lípová &gt; Benátská - 1</title>
+      <title>Kbelská: Beranových &gt; Čakovická - 1</title>
+      <title>Kbelská: Beranových &gt; Veselská - 2</title>
+      <title>Kbelská: Cínovecká &gt; Veselská - 1</title>
+      <title>Kbelská: Čakovická &gt; Beranových - 1</title>
+      <title>Kbelská: Čakovická &gt; Vysočanská - 1</title>
+      <title>Kbelská: Kolbenova &gt; Poděbradská - 1</title>
+      <title>Kbelská: Kolbenova &gt; Vysočanská - 1</title>
+      <title>Kbelská: Poděbradská &gt; Kolbenova - 1</title>
+      <title>Kbelská: Veselská &gt; Beranových - 1</title>
+      <title>Kbelská: Veselská &gt; Cínovecká - 1</title>
+      <title>Kbelská: Vysočanská &gt; Čakovická - 1</title>
+      <title>Kbelská: Vysočanská &gt; Kolbenova - 2</title>
+      <title>Ke Kateřinkám: Opatovská &gt; Vodnická - 1</title>
+      <title>Ke Kateřinkám: Vodnická &gt; Opatovská - 1</title>
+      <title>Ke Klaudiánce: Na hřebenech II &gt; Pod Klaudiánkou - 1</title>
+      <title>Ke Klaudiánce: Na hřebenech II &gt; V rovinách - 1</title>
+      <title>Ke Klaudiánce: Pod Klaudiánkou &gt; Na hřebenech II - 1</title>
+      <title>Ke Klaudiánce: V rovinách &gt; Na hřebenech II - 1</title>
+      <title>Ke kolodějskému zámku: Dubeč &gt; K Dubči - 1</title>
+      <title>Ke kolodějskému zámku: K Dubči &gt; Dubeč - 1</title>
+      <title>Ke Krči: Branická &gt; Jiskrova - 1</title>
+      <title>Ke Krči: Branické nám. &gt; Jiskrova - 1</title>
+      <title>Ke Krči: Jiskrova &gt; Branická - 1</title>
+      <title>Ke Krči: Jiskrova &gt; Branické nám. - 1</title>
+      <title>Ke Krňovu: Strakonická &gt; Zbraslavské nám. - 1</title>
+      <title>Ke Krňovu: Zbraslavské nám. &gt; Strakonická - 1</title>
+      <title>Ke Křížkám: Běchovice-Českobrodská &gt; Dubeč-Starodubečská - 1</title>
+      <title>Ke Křížkám: Dubeč-Starodubečská &gt; Běchovice-Českobrodská - 1</title>
+      <title>Ke Slivenci: Cementářská &gt; odb. Lochkov-D1 - 1</title>
+      <title>Ke Slivenci: odb. Lochkov-D1 &gt; Cementářská - 1</title>
+      <title>Ke Smíchovu: K Barandovu &gt; K Holini - 1</title>
+      <title>Ke Smíchovu: K Barandovu &gt; K Lochkovu - 1</title>
+      <title>Ke Smíchovu: K Holini &gt; K Barandovu - 1</title>
+      <title>Ke Smíchovu: K Holini &gt; K Lochkovu - 1</title>
+      <title>Ke Smíchovu: K Lochkovu &gt; K Barandovu - 1</title>
+      <title>Ke Smíchovu: K Lochkovu &gt; K Holini - 1</title>
+      <title>Ke stáčírně: Donovalská &gt; Květnového vítězství - 1</title>
+      <title>Ke stáčírně: Donovalská &gt; Leopoldova - 1</title>
+      <title>Ke stáčírně: Květnového vítězství &gt; Donovalská - 1</title>
+      <title>Ke stáčírně: Květnového vítězství &gt; Türkova - 1</title>
+      <title>Ke stáčírně: Leopoldova &gt; Donovalská - 1</title>
+      <title>Ke stáčírně: Leopoldova &gt; Mírového hnutí - 1</title>
+      <title>Ke stáčírně: Mírového hnutí &gt; Leopoldova - 1</title>
+      <title>Ke stáčírně: Türkova &gt; Květnového vítězství - 1</title>
+      <title>Ke Štvanici: Křižíkova &gt; Sokolovská - 1</title>
+      <title>Ke Štvanici: Rohanské nábřeží &gt; Wilsonova - 1</title>
+      <title>Ke Štvanici: Sokolovská &gt; Křižíkova - 1</title>
+      <title>Ke Štvanici: Sokolovská &gt; Wilsonova - 1</title>
+      <title>Ke Štvanici: Wilsonova &gt; Rohanské nábřeží - 1</title>
+      <title>Ke Štvanici: Wilsonova &gt; Sokolovská - 1</title>
+      <title>Keplerova: Pohořelec &gt; U Brusnice - 1</title>
+      <title>Keplerova: U Brusnice &gt; Pohořelec - 1</title>
+      <title>Klapkova: Horňátecká &gt; Přemyšlenská - 1</title>
+      <title>Klapkova: Přemyšlenská &gt; Horňátecká - 1</title>
+      <title>Klapkova: Přemyšlenská &gt; Střelničná - 1</title>
+      <title>Klapkova: Střelničná &gt; Přemyšlenská - 1</title>
+      <title>Klapkova: Střelničná &gt; Zenklova - 1</title>
+      <title>Klapkova: Zenklova &gt; Střelničná - 1</title>
+      <title>Klárov: Mánesův most &gt; nábř. Edvarda Beneše - 1</title>
+      <title>Klárov: nábř. Edvarda Beneše &gt; Mánesův most - 1</title>
+      <title>Klikatá: Peroutkova &gt; Puchmajerova - 1</title>
+      <title>Klikatá: Puchmajerova &gt; Peroutkova - 1</title>
+      <title>Klimentská/Holbova: nábř. Ludvíka Svobody &gt; Wilsonova - 1</title>
+      <title>Klimentská/Holbova: Wilsonova &gt; nábř. Ludvíka Svobody - 1</title>
+      <title>Kodaňská: Moskevská &gt; Norská - 1</title>
+      <title>Kodaňská: Norská &gt; Žitomírská - 1</title>
+      <title>Kodaňská: Tolstého &gt; Vršovická - 1</title>
+      <title>Kodaňská: Tolstého &gt; Žitomírská - 1</title>
+      <title>Kodaňská: Vršovická &gt; Tolstého - 1</title>
+      <title>Kodaňská: Žitomírská &gt; Norská - 1</title>
+      <title>Kodaňská: Žitomírská &gt; Tolstého - 1</title>
+      <title>Kolbenova: Freyova &gt; Na černé strouze - 1</title>
+      <title>Kolbenova: Chlumecká &gt; Slévačská - 1</title>
+      <title>Kolbenova: Kbelská &gt; Na černé strouze - 1</title>
+      <title>Kolbenova: Kbelská &gt; Slévačská - 1</title>
+      <title>Kolbenova: Na černé strouze &gt; Freyova - 1</title>
+      <title>Kolbenova: Na černé strouze &gt; Kbelská - 1</title>
+      <title>Kolbenova: Slévačská &gt; Chlumecká - 1</title>
+      <title>Kolbenova: Slévačská &gt; Kbelská - 1</title>
+      <title>Komořanská: Břežanské údolí &gt; Komořany-Pod lesem - 1</title>
+      <title>Komořanská: Generála Šišky &gt; K Vystrkovu - 1</title>
+      <title>Komořanská: K Vystrkovu &gt; Generála Šišky - 1</title>
+      <title>Komořanská: K Vystrkovu &gt; Modřany-U soutoku - 1</title>
+      <title>Komořanská: Komořany-Krupná &gt; Komořany-Pod lesem - 1</title>
+      <title>Komořanská: Komořany-Krupná &gt; Komořany-ul. Revoluce - 1</title>
+      <title>Komořanská: Komořany-Pod lesem &gt; Břežanské údolí - 1</title>
+      <title>Komořanská: Komořany-Pod lesem &gt; Komořany-Krupná - 1</title>
+      <title>Komořanská: Komořany-ul. Revoluce &gt; Komořany-Krupná - 1</title>
+      <title>Komořanská: Komořany-ul. Revoluce &gt; Modřany-U soutoku - 1</title>
+      <title>Komořanská: Modřany-U soutoku &gt; K Vystrkovu - 1</title>
+      <title>Komořanská: Modřany-U soutoku &gt; Komořany-ul. Revoluce - 1</title>
+      <title>Komunardů: Bubenské nábř. &gt; Jateční - 1</title>
+      <title>Komunardů: Dělnická &gt; Jateční - 1</title>
+      <title>Komunardů: Dělnická &gt; U průhonu - 1</title>
+      <title>Komunardů: Jateční &gt; Bubenské nábř. - 1</title>
+      <title>Komunardů: Jateční &gt; Dělnická - 3</title>
+      <title>Komunardů: Ortenovo nám. &gt; U průhonu - 1</title>
+      <title>Komunardů: U průhonu &gt; Dělnická - 1</title>
+      <title>Komunardů: U průhonu &gt; Ortenovo nám. - 1</title>
+      <title>Koněvova: Českobrodská &gt; Na Jarově - 1</title>
+      <title>Koněvova: Domažlická &gt; Jana Želivského - 1</title>
+      <title>Koněvova: Domažlická &gt; Ostroměřická - 1</title>
+      <title>Koněvova: Husitská &gt; Rokycanova - 1</title>
+      <title>Koněvova: Jana Želivského &gt; Domažlická - 1</title>
+      <title>Koněvova: Jana Želivského &gt; Na vápence - 1</title>
+      <title>Koněvova: Jeseniova &gt; Na hlídce - 1</title>
+      <title>Koněvova: Jeseniova &gt; V zahrádkách - 1</title>
+      <title>Koněvova: Na hlídce &gt; Jeseniova - 1</title>
+      <title>Koněvova: Na hlídce &gt; Na vápence - 1</title>
+      <title>Koněvova: Na Jarově &gt; Českobrodská - 1</title>
+      <title>Koněvova: Na Jarově &gt; V zahrádkách - 1</title>
+      <title>Koněvova: Na vápence &gt; Jana Želivského - 1</title>
+      <title>Koněvova: Na vápence &gt; Na hlídce - 1</title>
+      <title>Koněvova: Ostroměřická &gt; Domažlická - 1</title>
+      <title>Koněvova: Ostroměřická &gt; Rokycanova - 1</title>
+      <title>Koněvova: Rokycanova &gt; Husitská - 1</title>
+      <title>Koněvova: Rokycanova &gt; Ostroměřická - 1</title>
+      <title>Koněvova: V zahrádkách &gt; Jeseniova - 1</title>
+      <title>Koněvova: V zahrádkách &gt; Na Jarově - 1</title>
+      <title>Korunní: Benešovská &gt; Jičínská - 1</title>
+      <title>Korunní: Benešovská &gt; Perunova - 1</title>
+      <title>Korunní: Blanická &gt; Budečská - 1</title>
+      <title>Korunní: Budečská &gt; Blanická - 1</title>
+      <title>Korunní: Budečská &gt; Šumavská - 1</title>
+      <title>Korunní: Chodská &gt; U vodárny - 1</title>
+      <title>Korunní: Jičínská &gt; Benešovská - 2</title>
+      <title>Korunní: nám. Míru &gt; Blanická - 1</title>
+      <title>Korunní: Perunova &gt; Benešovská - 1</title>
+      <title>Korunní: Perunova &gt; U vodárny - 1</title>
+      <title>Korunní: Šumavská &gt; Budečská - 1</title>
+      <title>Korunní: Šumavská &gt; Chodská - 1</title>
+      <title>Korunní: U vodárny &gt; Perunova - 1</title>
+      <title>Korunovační: Letenské nám. &gt; Sládkova - 1</title>
+      <title>Korunovační: nám. Pod Kaštany &gt; Sládkova - 1</title>
+      <title>Korunovační: Sládkova &gt; Letenské nám. - 1</title>
+      <title>Korunovační: Sládkova &gt; nám. Pod Kaštany - 1</title>
+      <title>Kostelecká: Cínovecká &gt; Ďáblická - 1</title>
+      <title>Kostelecká: Cínovecká &gt; Tupolevova - 1</title>
+      <title>Kostelecká: Čakovice-Tryskovická &gt; Tupolevova - 1</title>
+      <title>Kostelecká: Ďáblická &gt; Cínovecká - 1</title>
+      <title>Kostelecká: Tupolevova &gt; Cínovecká - 1</title>
+      <title>Kostelecká: Tupolevova &gt; Čakovice-Tryskovická - 1</title>
+      <title>Kovářova: Armády &gt; Jeremiášova - 1</title>
+      <title>Kovářova: Jeremiášova &gt; Armády - 1</title>
+      <title>Kroupova: Pod Děvínem &gt; U Dívčích hradů - 1</title>
+      <title>Křesomyslova: Nuselská &gt; Sekaninova - 1</title>
+      <title>Křesomyslova: Sekaninova &gt; Nuselská - 1</title>
+      <title>Křivoklátská: Beranových &gt; Šumperská - 1</title>
+      <title>Křivoklátská: Šumperská &gt; Beranových - 1</title>
+      <title>Křivoklátská: Šumperská &gt; Tupolevova - 1</title>
+      <title>Křivoklátská: Tupolevova &gt; Šumperská - 1</title>
+      <title>Křižíkova: Ke Štvanici &gt; Prvního pluku - 1</title>
+      <title>Křižíkova: Prvního pluku &gt; Ke Štvanici - 1</title>
+      <title>Křížová: Na Konvářce &gt; Na Zlíchově - 1</title>
+      <title>Křížová: Na Konvářce &gt; Radlická - 1</title>
+      <title>Křížová: Na Zlíchově &gt; Na Konvářce - 1</title>
+      <title>Křížová: Radlická &gt; Na Konvářce - 1</title>
+      <title>Křižovnická: Karlův most &gt; nám. Jana Palacha - 1</title>
+      <title>Křižovnická: nám. Jana Palacha &gt; Karlův most - 1</title>
+      <title>Kukulova: Na Vypichu &gt; Podbělohorská - 1</title>
+      <title>Kukulova: Nemocnice Motol &gt; Plzeňská - 1</title>
+      <title>Kukulova: Nemocnice Motol &gt; Šafránecká - 1</title>
+      <title>Kukulova: Plzeňská &gt; Nemocnice Motol - 1</title>
+      <title>Kukulova: Podbělohorská &gt; Na Vypichu - 1</title>
+      <title>Kukulova: Podbělohorská &gt; Šafránecká - 1</title>
+      <title>Kukulova: Šafránecká &gt; Nemocnice Motol - 1</title>
+      <title>Kukulova: Šafránecká &gt; Podbělohorská - 1</title>
+      <title>Kunratická spojka: K Labeškám &gt; U Kunratického lesa - 1</title>
+      <title>Kunratická spojka: K Labeškám &gt; Vídeňská - 1</title>
+      <title>Kunratická spojka: Libušská &gt; Vídeňská - 1</title>
+      <title>Kunratická spojka: U Kunratického lesa &gt; K Labeškám - 1</title>
+      <title>Kunratická spojka: Vídeňská &gt; K Labeškám - 1</title>
+      <title>Kunratická spojka: Vídeňská &gt; Libušská - 1</title>
+      <title>Kunvirtova: Radlická &gt; U Dívčích hradů - 1</title>
+      <title>Kunvirtova: U Dívčích hradů &gt; Radlická - 1</title>
+      <title>Kutnohorská: Dolnoměcholupská &gt; K Dubečku - 1</title>
+      <title>Kutnohorská: Dolnoměcholupská &gt; Ústřední - 1</title>
+      <title>Kutnohorská: K Dubečku &gt; Dolnoměcholupská - 1</title>
+      <title>Kutnohorská: Průmyslová &gt; Ústřední - 1</title>
+      <title>Kutnohorská: Ústřední &gt; Dolnoměcholupská - 1</title>
+      <title>Kutnohorská: Ústřední &gt; Průmyslová - 1</title>
+      <title>Květnového vítězství: Benkova &gt; Ke Stárčírně - 2</title>
+      <title>Květnového vítězství: Benkova &gt; Türkova - 1</title>
+      <title>Květnového vítězství: Brechtova &gt; Ke Stárčírně - 1</title>
+      <title>Květnového vítězství: Brechtova &gt; Prašná - 1</title>
+      <title>Květnového vítězství: Ke Stárčírně &gt; Benkova - 1</title>
+      <title>Květnového vítězství: Ke Stárčírně &gt; Brechtova - 1</title>
+      <title>Květnového vítězství: Mírového hnutí &gt; Prašná - 1</title>
+      <title>Květnového vítězství: Prašná &gt; Brechtova - 1</title>
+      <title>Květnového vítězství: Prašná &gt; Mírového hnutí - 1</title>
+      <title>Květnového vítězství: Türkova &gt; Benkova - 1</title>
+      <title>Lannova/Nové mlýny: nábř. Ludvíka Svobody &gt; Revoluční - 1</title>
+      <title>Lannova/Nové mlýny: Revoluční &gt; nábř. Ludvíka Svobody - 1</title>
+      <title>Legerova: Anglická &gt; Vinohradská - 1</title>
+      <title>Legerova: Fügnerovo nám. &gt; Rumunská - 1</title>
+      <title>Legerova: I.P. Pavlova &gt; Anglická - 1</title>
+      <title>Legerova: Nuselský most &gt; Fügnerovo nám. - 2</title>
+      <title>Legerova: Rumunská &gt; I.P. Pavlova - 1</title>
+      <title>Legerova: Vinohradská &gt; Hlavní nádraží - 1</title>
+      <title>Lešanská: Hlavní &gt; Jihovýchodní VI - 1</title>
+      <title>Lešanská: Jihovýchodní VI &gt; Hlavní - 1</title>
+      <title>Lešanská: Jihovýchodní VI &gt; Türkova - 1</title>
+      <title>Lešanská: Türkova &gt; Jihovýchodní VI - 1</title>
+      <title>Letenská: Malostranské nám. &gt; Mánesův most - 1</title>
+      <title>Letenský tunel: Letenské nám. &gt; Štefánikův most - 2</title>
+      <title>Letenský tunel: Štefánikův most &gt; Letenské nám. - 2</title>
+      <title>Letňanská: Čakovická &gt; Klíčovská - 1</title>
+      <title>Letňanská: Čakovická &gt; Prosecká - 1</title>
+      <title>Letňanská: Klíčovská &gt; Čakovická - 1</title>
+      <title>Letňanská: Prosecká &gt; Čakovická - 1</title>
+      <title>Lhotecká: Československého exilu &gt; U Kamýku - 1</title>
+      <title>Lhotecká: U Kamýku &gt; Československého exilu - 1</title>
+      <title>Libeňský most: Jankovcova &gt; Štorchova - 1</title>
+      <title>Libeňský most: Štorchova &gt; Jankovcova - 1</title>
+      <title>Libeňský most: Štorchova &gt; Voctářova - 1</title>
+      <title>Libeňský most: Voctářova &gt; Štorchova - 1</title>
+      <title>Liberecká: Davídkova &gt; Vysočanská - 1</title>
+      <title>Liberecká: Davídkova &gt; Zenklova - 1</title>
+      <title>Liberecká: Kbelská &gt; Veselská - 1</title>
+      <title>Liberecká: Veselská &gt; Kbelská - 1</title>
+      <title>Liberecká: Veselská &gt; Vysočanská - 1</title>
+      <title>Liberecká: Vysočanská &gt; Davídkova - 1</title>
+      <title>Liberecká: Vysočanská &gt; Veselská - 1</title>
+      <title>Liberecká: Zenklova &gt; Davídkova - 1</title>
+      <title>Libocká: Evropská &gt; U Silnice - 1</title>
+      <title>Libocká: Litovická &gt; U Silnice - 1</title>
+      <title>Libocká: Ruzyňská &gt; Litovická - 1</title>
+      <title>Libocká: Ruzyňská &gt; U Hvězdy - 1</title>
+      <title>Libocká: U Hvězdy &gt; Ruzyňská - 1</title>
+      <title>Libocká: U Silnice &gt; Evropská - 1</title>
+      <title>Libušina: Rašínovo nábř. &gt; Vnislavova - 1</title>
+      <title>Libušina: Vnislavova &gt; Rašínovo nábř. - 1</title>
+      <title>Libušská: Břežany &gt; Podchýšská - 1</title>
+      <title>Libušská: Břežany &gt; Pražská - 2</title>
+      <title>Libušská: Dobronická &gt; Jalodvorská - 1</title>
+      <title>Libušská: Dobronická &gt; Meteorologická - 1</title>
+      <title>Libušská: Durychova &gt; Jalodvorská - 1</title>
+      <title>Libušská: Durychova &gt; V Štíhlách - 1</title>
+      <title>Libušská: Jalodvorská &gt; Dobronická - 1</title>
+      <title>Libušská: Jalodvorská &gt; Durychova - 1</title>
+      <title>Libušská: Kunratická spojka &gt; Meteorologická - 1</title>
+      <title>Libušská: Kunratická spojka &gt; Podchýšská - 2</title>
+      <title>Libušská: Meteorologická &gt; Dobronická - 1</title>
+      <title>Libušská: Meteorologická &gt; Kunratická spojka - 1</title>
+      <title>Libušská: Podchýšská &gt; Břežany - 1</title>
+      <title>Libušská: Podchýšská &gt; Kunratická spojka - 1</title>
+      <title>Libušská: Pražská &gt; Břežany - 1</title>
+      <title>Libušská: V Štíhlách &gt; Durychova - 1</title>
+      <title>Lidická: Janáčkovo nábřeží &gt; Zborovská - 1</title>
+      <title>Lidická: Nádražní &gt; Preslova - 1</title>
+      <title>Lidická: Preslova &gt; Zborovská - 1</title>
+      <title>Lidická: Zborovská &gt; Janáčkovo nábřeží - 1</title>
+      <title>Limuzská: Černokostelecká &gt; Počernická - 1</title>
+      <title>Limuzská: Počernická &gt; Černokostelecká - 1</title>
+      <title>Lípová: Ječná &gt; Kateřinská - 1</title>
+      <title>Lípová: Kateřinská &gt; Ječná - 1</title>
+      <title>Lipská: Pražský okruh &gt; Letiště - 1</title>
+      <title>Litoměřická: Na Pokraji &gt; Teplická - 1</title>
+      <title>Litoměřická: Na Pokraji &gt; Veltruská - 1</title>
+      <title>Litoměřická: Teplická &gt; Na Pokraji - 1</title>
+      <title>Litoměřická: Veltruská &gt; Na Pokraji - 1</title>
+      <title>Litoměřická: Veltruská &gt; Vysočanská - 1</title>
+      <title>Litoměřická: Vysočanská &gt; Veltruská - 1</title>
+      <title>Lodžská: Čimická &gt; Zhořelecká - 1</title>
+      <title>Lodžská: K Pazderkám &gt; Zhořelecká - 1</title>
+      <title>Lodžská: Zhořelecká &gt; Čimická - 1</title>
+      <title>Lodžská: Zhořelecká &gt; K Pazderkám - 1</title>
+      <title>Lounských: 5. května &gt; Táborská - 1</title>
+      <title>Lounských: Táborská &gt; 5. května - 1</title>
+      <title>Lovosická: Prosecká &gt; Vysočanská - 1</title>
+      <title>Lovosická: Vysočanská &gt; Prosecká - 1</title>
+      <title>Lumírova: Na Pankráci &gt; Slavojova - 1</title>
+      <title>Lumírova: Slavojova &gt; Na Pankráci - 1</title>
+      <title>Makovského: Bazovského &gt; Skuteckého - 1</title>
+      <title>Makovského: Bazovského &gt; Žalanského - 1</title>
+      <title>Makovského: Na Chobotě &gt; Žalanského - 1</title>
+      <title>Makovského: Plzeňská &gt; Skuteckého - 1</title>
+      <title>Makovského: Skuteckého &gt; Bazovského - 1</title>
+      <title>Makovského: Skuteckého &gt; Plzeňská - 1</title>
+      <title>Makovského: Žalanského &gt; Bazovského - 1</title>
+      <title>Makovského: Žalanského &gt; Na Chobotě - 1</title>
+      <title>Malešická: Ambrožova &gt; Basilejské nám. - 1</title>
+      <title>Malešická: Ambrožova &gt; U nákladového nádraží - 1</title>
+      <title>Malešická: Basilejské nám. &gt; Ambrožova - 1</title>
+      <title>Malešická: Dřevčické &gt; Na Jarově - 1</title>
+      <title>Malešická: Na Jarově &gt; Dřevčické - 1</title>
+      <title>Malešická: Na Jarově &gt; U nákladového nádraží - 1</title>
+      <title>Malešická: U nákladového nádraží &gt; Ambrožova - 1</title>
+      <title>Malešická: U nákladového nádraží &gt; Na Jarově - 1</title>
+      <title>Malostranské nám.: Karmelitská &gt; Letenská - 1</title>
+      <title>Malostranské nám.: Letenská &gt; Karmelitská - 1</title>
+      <title>Mánesův most: Klárov &gt; nám. Jana Palacha - 1</title>
+      <title>Mánesův most: nám. Jana Palacha &gt; Klárov - 1</title>
+      <title>Mariánská: Novodvorská &gt; U koupadel - 1</title>
+      <title>Mariánská: U Kamýku &gt; U koupadel - 1</title>
+      <title>Mariánská: U koupadel &gt; Novodvorská - 1</title>
+      <title>Mariánská: U koupadel &gt; U Kamýku - 1</title>
+      <title>Mariánské hradby: Chotkova &gt; Jelení - 1</title>
+      <title>Mariánské hradby: Jelení &gt; Chotkova - 1</title>
+      <title>Masarykovo nábř.: Jiráskovo nám. &gt; Myslíkova - 1</title>
+      <title>Masarykovo nábř.: Myslíkova &gt; Jiráskovo nám. - 1</title>
+      <title>Masarykovo nábř.: Myslíkova &gt; Na Struze - 1</title>
+      <title>Masarykovo nábř.: Na Struze &gt; Myslíkova - 1</title>
+      <title>Masarykovo nábř.: Na Struze &gt; Národní - 1</title>
+      <title>Masarykovo nábř.: Národní &gt; Na Struze - 1</title>
+      <title>Matoušova: Preslova &gt; Zborovská - 1</title>
+      <title>Matoušova: Štefánikova &gt; Preslova - 1</title>
+      <title>Matoušova: Zborovská &gt; Jiráskův most - 1</title>
+      <title>Mělnická: Ďáblice &gt; Hovorčovická - 1</title>
+      <title>Mělnická: Hovorčovická &gt; Ďáblice - 1</title>
+      <title>Městská: Dolnoměcholupská &gt; Dubeč - 1</title>
+      <title>Městská: Dubeč &gt; Dolnoměcholupská - 1</title>
+      <title>Meteorologická: Libušská &gt; Novodvorská - 1</title>
+      <title>Meteorologická: Novodvorská &gt; Libušská - 1</title>
+      <title>Mezibranská: Václavské nám.-nájezd &gt; Václavské nám.-výjezd - 1</title>
+      <title>Mezibranská: Václavské nám.-výjezd &gt; Žitná - 1</title>
+      <title>Michelská: Baarova &gt; Prostřední - 1</title>
+      <title>Michelská: Baarova &gt; Vyskočilova - 1</title>
+      <title>Michelská: Hadovitá &gt; Ohradní - 1</title>
+      <title>Michelská: Hadovitá &gt; Prostřední - 1</title>
+      <title>Michelská: Jižní spojka &gt; metro Kačerov - 1</title>
+      <title>Michelská: metro Kačerov &gt; Jižní spojka - 1</title>
+      <title>Michelská: metro Kačerov &gt; Na záhonech - 1</title>
+      <title>Michelská: Na záhonech &gt; metro Kačerov - 1</title>
+      <title>Michelská: Na záhonech &gt; Podle Kačeorva - 1</title>
+      <title>Michelská: Nuselská &gt; Ohradní - 1</title>
+      <title>Michelská: Ohradní &gt; Hadovitá - 1</title>
+      <title>Michelská: Ohradní &gt; Nuselská - 1</title>
+      <title>Michelská: Podle Kačeorva &gt; Na záhonech - 1</title>
+      <title>Michelská: Podle Kačeorva &gt; Vyskočilova - 1</title>
+      <title>Michelská: Prostřední &gt; Baarova - 1</title>
+      <title>Michelská: Prostřední &gt; Hadovitá - 1</title>
+      <title>Michelská: Vyskočilova &gt; Baarova - 1</title>
+      <title>Michelská: Vyskočilova &gt; Podle Kačeorva - 1</title>
+      <title>Milady Horákové: Badeniho &gt; Svatovítská - 1</title>
+      <title>Milady Horákové: Badeniho &gt; U Vorlíků - 1</title>
+      <title>Milady Horákové: Dukelských hrdinů &gt; Fraňtiška Křížka - 1</title>
+      <title>Milady Horákové: Fraňtiška Křížka &gt; Dukelských hrdinů - 1</title>
+      <title>Milady Horákové: Fraňtiška Křížka &gt; Kamenická - 1</title>
+      <title>Milady Horákové: Kamenická &gt; Fraňtiška Křížka - 1</title>
+      <title>Milady Horákové: Kamenická &gt; Ovenecká - 1</title>
+      <title>Milady Horákové: Letenské nám. &gt; U Sparty - 1</title>
+      <title>Milady Horákové: Letenské nám. &gt; Veletržní - 1</title>
+      <title>Milady Horákové: Na valech &gt; Badeniho - 2</title>
+      <title>Milady Horákové: Ovenecká &gt; Kamenická - 1</title>
+      <title>Milady Horákové: Ovenecká &gt; Veletržní - 1</title>
+      <title>Milady Horákové: Patočkova &gt; Svatoplukova - 1</title>
+      <title>Milady Horákové: Svatoplukova &gt; Na valech - 1</title>
+      <title>Milady Horákové: Svatoplukova &gt; Patočkova - 1</title>
+      <title>Milady Horákové: U Sparty &gt; Letenské nám. - 2</title>
+      <title>Milady Horákové: U Sparty &gt; U Vorlíků - 1</title>
+      <title>Milady Horákové: U Vorlíků &gt; Badeniho - 1</title>
+      <title>Milady Horákové: U Vorlíků &gt; U Sparty - 1</title>
+      <title>Milady Horákové: Veletržní &gt; Letenské nám. - 1</title>
+      <title>Milady Horákové: Veletržní &gt; Ovenecká - 1</title>
+      <title>Milánská: Hornoměcholupská &gt; Ohmova - 1</title>
+      <title>Milánská: Ohmova &gt; Hornoměcholupská - 1</title>
+      <title>Mírového hnutí: Benkova &gt; K Horkám - 1</title>
+      <title>Mírového hnutí: Benkova &gt; Türkova - 1</title>
+      <title>Mírového hnutí: K Horkám &gt; Benkova - 1</title>
+      <title>Mírového hnutí: K Horkám &gt; Matúškova - 1</title>
+      <title>Mírového hnutí: Květnového vítězství &gt; Matúškova - 1</title>
+      <title>Mírového hnutí: Matúškova &gt; K Horkám - 1</title>
+      <title>Mírového hnutí: Matúškova &gt; Květnového vítězství - 1</title>
+      <title>Mírového hnutí: Türkova &gt; Benkova - 1</title>
+      <title>Mladoboleslavská: Beladova &gt; Hůlkova - 1</title>
+      <title>Mladoboleslavská: Beladova &gt; Kbelská - 1</title>
+      <title>Mladoboleslavská: Hornopočernická &gt; Vinořská - 1</title>
+      <title>Mladoboleslavská: Hornopočernická &gt; Vrchlabská - 1</title>
+      <title>Mladoboleslavská: Hůlkova &gt; Beladova - 1</title>
+      <title>Mladoboleslavská: Chaltická &gt; Rosická - 1</title>
+      <title>Mladoboleslavská: Chaltická &gt; Živanická/Bohdanečská - 1</title>
+      <title>Mladoboleslavská: Kbelská &gt; Beladova - 1</title>
+      <title>Mladoboleslavská: odb. Jenštejn &gt; Rosická - 1</title>
+      <title>Mladoboleslavská: odb. Toužimská &gt; Hůlkova - 1</title>
+      <title>Mladoboleslavská: odb. Toužimská &gt; Vrchlabská - 1</title>
+      <title>Mladoboleslavská: Rosická &gt; Chaltická - 1</title>
+      <title>Mladoboleslavská: Vinořská &gt; Hornopočernická - 1</title>
+      <title>Mladoboleslavská: Vinořská &gt; Živanická/Bohdanečská - 1</title>
+      <title>Mladoboleslavská: Vrchlabská &gt; Hornopočernická - 1</title>
+      <title>Mladoboleslavská: Živanická/Bohdanečská &gt; Chaltická - 1</title>
+      <title>Mladoboleslavská: Živanická/Bohdanečská &gt; Vinořská - 1</title>
+      <title>Modřanská: Barrandovský most &gt; Branická - 1</title>
+      <title>Modřanská: Barrandovský most &gt; Jižní spojka - 1</title>
+      <title>Modřanská: Branická &gt; Barrandovský most - 1</title>
+      <title>Modřanská: Branická &gt; Jeremenkova - 1</title>
+      <title>Modřanská: Československého exilu &gt; Chuchelská - 1</title>
+      <title>Modřanská: Československého exilu &gt; V Hodovičkách - 1</title>
+      <title>Modřanská: Generála Šišky &gt; Chuchelská - 1</title>
+      <title>Modřanská: Chuchelská &gt; Československého exilu - 1</title>
+      <title>Modřanská: Chuchelská &gt; Generála Šišky - 1</title>
+      <title>Modřanská: Jeremenkova &gt; Branická - 1</title>
+      <title>Modřanská: Jižní spojka &gt; Barrandovský most - 1</title>
+      <title>Modřanská: Jižní spojka &gt; V Hodovičkách - 1</title>
+      <title>Modřanská: V Hodovičkách &gt; Československého exilu - 1</title>
+      <title>Modřanská: V Hodovičkách &gt; Jižní spojka - 1</title>
+      <title>Moskevská: Bohdalecká &gt; U Seřadiště - 1</title>
+      <title>Moskevská: Kodaňská &gt; Ruská - 1</title>
+      <title>Moskevská: Kodaňská &gt; Vršovické nám. - 1</title>
+      <title>Moskevská: nám. Svatopluka Čecha &gt; Vršovická - 1</title>
+      <title>Moskevská: nám. Svatopluka Čecha &gt; Žitomírská - 1</title>
+      <title>Moskevská: Ruská &gt; Kodaňská - 1</title>
+      <title>Moskevská: U Seřadiště &gt; Bohdalecká - 1</title>
+      <title>Moskevská: U Seřadiště &gt; Vršovická - 1</title>
+      <title>Moskevská: Vršovická &gt; nám. Svatopluka Čecha - 1</title>
+      <title>Moskevská: Vršovická &gt; U Seřadiště - 1</title>
+      <title>Moskevská: Vršovické nám. &gt; Kodaňská - 1</title>
+      <title>Moskevská: Vršovické nám. &gt; Žitomírská - 1</title>
+      <title>Moskevská: Žitomírská &gt; nám. Svatopluka Čecha - 1</title>
+      <title>Moskevská: Žitomírská &gt; Vršovické nám. - 1</title>
+      <title>most Barikádníků: Bondyho &gt; Povltavská - 1</title>
+      <title>most Barikádníků: Povltavská &gt; Bondyho - 2</title>
+      <title>Most legií: Janáčkovo nábř. &gt; Smetanovo nábřeží - 3</title>
+      <title>Most legií: Smetanovo nábřeží &gt; Janáčkovo nábř. - 1</title>
+      <title>Moulíkova: Smíchovské nádraží &gt; Strakonická - 1</title>
+      <title>Moulíkova: Strakonická &gt; Smíchovské nádraží - 1</title>
+      <title>Mozartova: Strahovský tunel &gt; Kartouzská - 1</title>
+      <title>Mukařovského: Jeremiášova &gt; U Jezera - 1</title>
+      <title>Mukařovského: Oistrachova &gt; U Jezera - 1</title>
+      <title>Mukařovského: U Jezera &gt; Jeremiášova - 1</title>
+      <title>Mukařovského: U Jezera &gt; Oistrachova - 1</title>
+      <title>Myslbekova: Bělohorská &gt; Patočkova - 1</title>
+      <title>Myslbekova: Patočkova &gt; Bělohorská - 1</title>
+      <title>Myslíkova: Masarykovo nábř. &gt; Odborů - 1</title>
+      <title>Myslíkova: Odborů &gt; Masarykovo nábř. - 1</title>
+      <title>Myslíkova: Odborů &gt; Spálená - 1</title>
+      <title>Na Cikánce: Cikánka &gt; Radotín-cementárna - 1</title>
+      <title>Na Cikánce: Radotín-cementárna &gt; Cikánka - 1</title>
+      <title>Na dolinách/Lomnického: Na Zlatnici &gt; Pod Děkankou - 1</title>
+      <title>Na dolinách/Lomnického: Na Zlatnici &gt; Podolská - 1</title>
+      <title>Na dolinách/Lomnického: Pod Děkankou &gt; Na Zlatnici - 1</title>
+      <title>Na dolinách/Lomnického: Pod Děkankou &gt; Pražského povstání - 1</title>
+      <title>Na dolinách/Lomnického: Podolská &gt; Na Zlatnici - 1</title>
+      <title>Na dolinách/Lomnického: Podolská &gt; Podolské nábř - 1</title>
+      <title>Na dolinách/Lomnického: Podolské nábř &gt; Podolská - 1</title>
+      <title>Na dolinách/Lomnického: Pražského povstání &gt; Pod Děkankou - 1</title>
+      <title>Na hřebenech II: Ke Klaudiánce &gt; Pod Děkankou - 1</title>
+      <title>Na hřebenech II: nám. Hrdinů &gt; Pujmanové - 1</title>
+      <title>Na hřebenech II: Pod Děkankou &gt; Ke Klaudiánce - 1</title>
+      <title>Na hřebenech II: Pod Děkankou &gt; Pujmanové - 1</title>
+      <title>Na hřebenech II: Pujmanové &gt; nám. Hrdinů - 1</title>
+      <title>Na Hřebenkách: Nad Klikovkou &gt; Turistická - 1</title>
+      <title>Na Hřebenkách: Švédská &gt; Turistická - 1</title>
+      <title>Na Hřebenkách: Turistická &gt; Nad Klikovkou - 1</title>
+      <title>Na Hřebenkách: Turistická &gt; Švédská - 1</title>
+      <title>Na Jarově: Koněvova &gt; Malešická - 1</title>
+      <title>Na Jarově: Malešická &gt; Koněvova - 1</title>
+      <title>Na jelenách: Brněnská &gt; Kunratická spojka - 1</title>
+      <title>Na jelenách: Kunratická spojka &gt; Brněnská - 1</title>
+      <title>Na Jezerce: Nuselská &gt; U Libušských lázní - 1</title>
+      <title>Na Jezerce: Sdružební &gt; U Libušských lázní - 1</title>
+      <title>Na Jezerce: U Libušských lázní &gt; Nuselská - 1</title>
+      <title>Na Jezerce: U Libušských lázní &gt; Sdružební - 1</title>
+      <title>Na Konvářce: Křížová &gt; Pod Děvínem - 1</title>
+      <title>Na Moráni: Karlovo nám. &gt; Palackého nám. - 1</title>
+      <title>Na Ořechovce: Patočkova &gt; Starodejvická - 1</title>
+      <title>Na Ořechovce: Starodejvická &gt; Patočkova - 1</title>
+      <title>Na padesátém: metro Skalka &gt; Na padesátém - 1</title>
+      <title>Na padesátém: metro Skalka &gt; Štěchovická - 1</title>
+      <title>Na padesátém: Na padesátém &gt; metro Skalka - 1</title>
+      <title>Na padesátém: Štěchovická &gt; metro Skalka - 1</title>
+      <title>Na Palouku: Černokostelecká &gt; Počernická - 1</title>
+      <title>Na Palouku: Počernická &gt; Černokostelecká - 2</title>
+      <title>Na Pankráci: Děkanská vinice &gt; Na Veselí - 1</title>
+      <title>Na Pankráci: Děkanská vinice &gt; Pražského povstání - 1</title>
+      <title>Na Pankráci: Hvězdova &gt; Na strži - 1</title>
+      <title>Na Pankráci: Hvězdova &gt; Na Veselí - 1</title>
+      <title>Na Pankráci: Lumírova &gt; odb. 5. května - 1</title>
+      <title>Na Pankráci: Na strži &gt; Hvězdova - 1</title>
+      <title>Na Pankráci: Na Veselí &gt; Děkanská vinice - 1</title>
+      <title>Na Pankráci: Na Veselí &gt; Hvězdova - 1</title>
+      <title>Na Pankráci: odb. 5. května &gt; Lumírova - 1</title>
+      <title>Na Pankráci: odb. 5. května &gt; Sinkulova - 1</title>
+      <title>Na Pankráci: Pražského povstání &gt; Děkanská vinice - 1</title>
+      <title>Na Pankráci: Pražského povstání &gt; Sinkulova - 1</title>
+      <title>Na Pankráci: Sinkulova &gt; odb. 5. května - 1</title>
+      <title>Na Pankráci: Sinkulova &gt; Pražského povstání - 1</title>
+      <title>Na Petřinách: Ankarská &gt; Čílova - 1</title>
+      <title>Na Petřinách: Ankarská &gt; Veleslavínská - 1</title>
+      <title>Na Petřinách: Čílova &gt; Ankarská - 1</title>
+      <title>Na Petřinách: Čílova &gt; Heyrovského nám. - 1</title>
+      <title>Na Petřinách: Heyrovského nám. &gt; Čílova - 1</title>
+      <title>Na Petřinách: U Vojenské nemocnice &gt; V průhledu - 1</title>
+      <title>Na Petřinách: U Vojenské nemocnice &gt; Veleslavínská - 1</title>
+      <title>Na Petřinách: V průhledu &gt; U Vojenské nemocnice - 1</title>
+      <title>Na Petřinách: Veleslavínská &gt; Ankarská - 1</title>
+      <title>Na Petřinách: Veleslavínská &gt; U Vojenské nemocnice - 1</title>
+      <title>Na pískách: Evropská &gt; Šárecká - 1</title>
+      <title>Na pískách: Šárecká &gt; Evropská - 1</title>
+      <title>Na Radosti: Hrozenkovská &gt; Plzeňská - 1</title>
+      <title>Na Radosti: Hrozenkovská &gt; Řevnická - 1</title>
+      <title>Na Radosti: odb. Sobín &gt; Řevnická - 1</title>
+      <title>Na Radosti: Plzeňská &gt; Hrozenkovská - 1</title>
+      <title>Na Radosti: Řevnická &gt; Hrozenkovská - 1</title>
+      <title>Na Radosti: Řevnická &gt; odb. Sobín - 1</title>
+      <title>Na rejdišti: Alšovo nábř. &gt; 17. listopadu - 1</title>
+      <title>Na slupi: Benátská &gt; Svobodova - 1</title>
+      <title>Na slupi: Ostrčilovo nám. &gt; Svobodova - 1</title>
+      <title>Na slupi: Svobodova &gt; Benátská - 1</title>
+      <title>Na slupi: Svobodova &gt; Ostrčilovo nám. - 1</title>
+      <title>Na strži: 5. května &gt; Budějovická - 1</title>
+      <title>Na strži: Antala Staška &gt; Branická - 1</title>
+      <title>Na strži: Antala Staška &gt; Olbrachtova - 1</title>
+      <title>Na strži: Branická &gt; Antala Staška - 1</title>
+      <title>Na strži: Branická &gt; Jižní spojka - 1</title>
+      <title>Na strži: Budějovická &gt; 5. května - 1</title>
+      <title>Na strži: Budějovická &gt; Milevská - 1</title>
+      <title>Na strži: Jižní spojka &gt; Branická - 1</title>
+      <title>Na strži: Milevská &gt; Budějovická - 1</title>
+      <title>Na strži: Milevská &gt; Olbrachtova - 1</title>
+      <title>Na strži: Olbrachtova &gt; Antala Staška - 1</title>
+      <title>Na strži: Olbrachtova &gt; Milevská - 1</title>
+      <title>Na Šťáhlavce: Matějská &gt; nám. Na Santince - 1</title>
+      <title>Na Šťáhlavce: nám. Na Santince &gt; Matějská - 1</title>
+      <title>Na Václavce: Radlická &gt; U smíchovského hřbitova - 1</title>
+      <title>Na Václavce: U smíchovského hřbitova &gt; Radlická - 1</title>
+      <title>Na valech: Badeniho &gt; Milady Horákové - 1</title>
+      <title>Na valech: Milady Horákové &gt; Badeniho - 1</title>
+      <title>Na Vypichu: Ankarská &gt; U Hvězdy - 1</title>
+      <title>Na Vypichu: U Hvězdy &gt; Ankarská - 1</title>
+      <title>Na záhonech: Krajová &gt; Podle kačerova - 1</title>
+      <title>Na záhonech: Krajová &gt; V zápolí - 1</title>
+      <title>Na záhonech: Michelská &gt; Podle kačerova - 1</title>
+      <title>Na záhonech: Podle kačerova &gt; Krajová - 1</title>
+      <title>Na záhonech: V zápolí &gt; Krajová - 1</title>
+      <title>Na Zlatnici: Na dolinách &gt; Pod Klaudiánkou - 1</title>
+      <title>Na Zlatnici: Pod Klaudiánkou &gt; Na dolinách - 1</title>
+      <title>Na Zlíchově: Hlubočepská &gt; Nad Zlíchovem - 1</title>
+      <title>Na Zlíchově: Křížová &gt; Nad Zlíchovem - 1</title>
+      <title>Na Zlíchově: Křížová &gt; Nádražní - 1</title>
+      <title>Na Zlíchově: Nad Zlíchovem &gt; Hlubočepská - 1</title>
+      <title>Na Zlíchově: Nad Zlíchovem &gt; Křížová - 1</title>
+      <title>Na Zlíchově: Nádražní &gt; Křížová - 1</title>
+      <title>nábř. Edvarda Beneše: Čechův most &gt; Štefánikův most - 1</title>
+      <title>nábř. Edvarda Beneše: Čechův most &gt; U Bruských kasáren - 1</title>
+      <title>nábř. Edvarda Beneše: Klárov &gt; U Bruských kasáren - 1</title>
+      <title>nábř. Edvarda Beneše: Štefánikův most &gt; Čechův most - 1</title>
+      <title>nábř. Edvarda Beneše: U Bruských kasáren &gt; Čechův most - 1</title>
+      <title>nábř. Edvarda Beneše: U Bruských kasáren &gt; Klárov - 1</title>
+      <title>nábř. Kapitána Jaroše: Dukelských hrdinů &gt; Hlávkův most - 1</title>
+      <title>nábř. Kapitána Jaroše: Dukelských hrdinů &gt; Štefánikův most - 1</title>
+      <title>nábř. Kapitána Jaroše: Hlávkův most &gt; Dukelských hrdinů - 1</title>
+      <title>nábř. Kapitána Jaroše: Hlávkův most &gt; Za viaduktem - 2</title>
+      <title>nábř. Kapitána Jaroše: Štefánikův most &gt; Dukelských hrdinů - 1</title>
+      <title>nábř. Kapitána Jaroše: Za viaduktem &gt; Hlávkův most - 1</title>
+      <title>nábř. Ludvíka Svobody: Klimentská &gt; Nové mlýny - 1</title>
+      <title>nábř. Ludvíka Svobody: Nové mlýny &gt; Klimentská - 1</title>
+      <title>Nábřežní: Hořejší nábř. &gt; Kořenského - 1</title>
+      <title>Nad koupadly: Na dlouhé mezi &gt; U koupadel - 1</title>
+      <title>Nad koupadly: U koupadel &gt; Na dlouhé mezi - 1</title>
+      <title>Nad Krocínkou: Klíčovská &gt; Vysočanská - 1</title>
+      <title>Nad Krocínkou: Vysočanská &gt; Klíčovská - 1</title>
+      <title>Nad Štukou: Pod sídlištěm &gt; Zenklova - 1</title>
+      <title>Nad Štukou: Zenklova &gt; Pod sídlištěm - 1</title>
+      <title>Nádražní: Lidická &gt; Ostrovského - 1</title>
+      <title>Nádražní: Na Valentince &gt; U Královské louky - 1</title>
+      <title>Nádražní: Na Valentince &gt; Za Ženskými domovy - 1</title>
+      <title>Nádražní: Na Zlíchově &gt; Smíchovské nádraží - 1</title>
+      <title>Nádražní: Na Zlíchově &gt; Strakonická - 1</title>
+      <title>Nádražní: Ostrovského &gt; Lidická - 1</title>
+      <title>Nádražní: Ostrovského &gt; Za Ženskými domovy - 1</title>
+      <title>Nádražní: Smíchovské nádraží &gt; Na Zlíchově - 1</title>
+      <title>Nádražní: Smíchovské nádraží &gt; U Královské louky - 1</title>
+      <title>Nádražní: U Královské louky &gt; Na Valentince - 1</title>
+      <title>Nádražní: U Královské louky &gt; Smíchovské nádraží - 1</title>
+      <title>Nádražní: Za Ženskými domovy &gt; Na Valentince - 1</title>
+      <title>Nádražní: Za Ženskými domovy &gt; Ostrovského - 1</title>
+      <title>Náchodská (II/611): Bártlova &gt; Ve Žlíbku - 1</title>
+      <title>Náchodská (II/611): Božanovská &gt; Bystrá - 1</title>
+      <title>Náchodská (II/611): Božanovská &gt; Stoliňská - 1</title>
+      <title>Náchodská (II/611): Bystrá &gt; Božanovská - 1</title>
+      <title>Náchodská (II/611): Bystrá &gt; Jívanská - 1</title>
+      <title>Náchodská (II/611): Chlumecká &gt; Stoliňská - 1</title>
+      <title>Náchodská (II/611): Jívanská &gt; Bystrá - 1</title>
+      <title>Náchodská (II/611): Jívanská &gt; Ve Žlíbku - 1</title>
+      <title>Náchodská (II/611): Stoliňská &gt; Božanovská - 1</title>
+      <title>Náchodská (II/611): Stoliňská &gt; Chlumecká - 1</title>
+      <title>Náchodská (II/611): Ve Žlíbku &gt; Bártlova - 1</title>
+      <title>Náchodská (II/611): Ve Žlíbku &gt; Jívanská - 1</title>
+      <title>nám. Míru: Anglická &gt; Rumunská - 1</title>
+      <title>nám. Míru: Francouzská &gt; Korunní - 1</title>
+      <title>nám. Míru: Korunní &gt; Slezská - 1</title>
+      <title>nám. Míru: Rumunská &gt; Francouzská - 1</title>
+      <title>nám. Míru: Slezská &gt; Anglická - 1</title>
+      <title>Národních hrdinů: Českobrodská &gt; Nad rybníkem - 1</title>
+      <title>Národních hrdinů: Českobrodská &gt; Štěrboholská spojka - 1</title>
+      <title>Národních hrdinů: Nad rybníkem &gt; Českobrodská - 1</title>
+      <title>Národních hrdinů: Štěrboholská spojka &gt; Českobrodská - 2</title>
+      <title>Nárožní: Bavorská &gt; Pod Hranicí - 1</title>
+      <title>Nárožní: Bavorská &gt; Pod Kulturní domem - 1</title>
+      <title>Nárožní: Bucharova &gt; Pod Hranicí - 1</title>
+      <title>Nárožní: Pod Hranicí &gt; Bavorská - 1</title>
+      <title>Nárožní: Pod Hranicí &gt; Bucharova - 1</title>
+      <title>Nárožní: Pod Kulturní domem &gt; Bavorská - 1</title>
+      <title>Nebušická: Horoměřická &gt; Nebušice - 1</title>
+      <title>Nebušická: Nebušice &gt; Horoměřická - 1</title>
+      <title>Nedokončená: Kyje &gt; Štěrboholy - 1</title>
+      <title>Nedokončená: Štěrboholy &gt; Kyje - 1</title>
+      <title>Novodvorská: Durychova &gt; Zálesí - 1</title>
+      <title>Novodvorská: Durychova &gt; Zbudovská - 1</title>
+      <title>Novodvorská: Generála Šišky &gt; Zbudovská - 1</title>
+      <title>Novodvorská: Vavřenova &gt; Zálesí - 1</title>
+      <title>Novodvorská: Zálesí &gt; Durychova - 1</title>
+      <title>Novodvorská: Zálesí &gt; Vavřenova - 1</title>
+      <title>Novodvorská: Zbudovská &gt; Durychova - 1</title>
+      <title>Novodvorská: Zbudovská &gt; Generála Šišky - 1</title>
+      <title>Novopetrovická: Archimédova &gt; Hornoměcholupská - 1</title>
+      <title>Novopetrovická: Archimédova &gt; Štychova - 1</title>
+      <title>Novopetrovická: Euklidova &gt; Opatovská - 1</title>
+      <title>Novopetrovická: Euklidova &gt; Štychova - 1</title>
+      <title>Novopetrovická: Hornoměcholupská &gt; Archimédova - 1</title>
+      <title>Novopetrovická: Opatovská &gt; Euklidova - 1</title>
+      <title>Novopetrovická: Štychova &gt; Archimédova - 1</title>
+      <title>Novopetrovická: Štychova &gt; Euklidova - 1</title>
+      <title>Novosibřinská (I/12): Rohožnická &gt; Úvaly-Klostermannova - 1</title>
+      <title>Novosibřinská (I/12): Rohožnická &gt; Zaříčanská - 1</title>
+      <title>Novosibřinská (I/12): Staroklánovická &gt; Zaříčanská - 1</title>
+      <title>Novosibřinská (I/12): Úvaly-Klostermannova &gt; Rohožnická - 1</title>
+      <title>Novosibřinská (I/12): Zaříčanská &gt; Rohožnická - 1</title>
+      <title>Novosibřinská (I/12): Zaříčanská &gt; Staroklánovická - 1</title>
+      <title>Novovysočanská: K Fišpance &gt; Na Krejcárku - 1</title>
+      <title>Novovysočanská: K Fišpance &gt; Vysočanské nám. - 1</title>
+      <title>Novovysočanská: Na Krejcárku &gt; K Fišpance - 1</title>
+      <title>Novovysočanská: Vysočanské nám. &gt; K Fišpance - 1</title>
+      <title>Nuselská: Častmírova &gt; nám. Bratří Synků - 1</title>
+      <title>Nuselská: Častmírova &gt; Táborská - 1</title>
+      <title>Nuselská: K podjezdu &gt; Na Jezerce - 1</title>
+      <title>Nuselská: K podjezdu &gt; Pod Stárkou - 1</title>
+      <title>Nuselská: Michelská &gt; Pod Stárkou - 1</title>
+      <title>Nuselská: Na Jezerce &gt; K podjezdu - 1</title>
+      <title>Nuselská: Na Jezerce &gt; V Horkách - 1</title>
+      <title>Nuselská: nám. Bratří Synků &gt; Častmírova - 1</title>
+      <title>Nuselská: nám. Bratří Synků &gt; Vršovická - 1</title>
+      <title>Nuselská: Pod Stárkou &gt; K podjezdu - 1</title>
+      <title>Nuselská: Pod Stárkou &gt; Michelská - 1</title>
+      <title>Nuselská: Táborská &gt; Častmírova - 1</title>
+      <title>Nuselská: Táborská &gt; V Horkách - 1</title>
+      <title>Nuselská: V Horkách &gt; Na Jezerce - 1</title>
+      <title>Nuselská: V Horkách &gt; Táborská - 1</title>
+      <title>Nuselská: Vršovická &gt; nám. Bratří Synků - 1</title>
+      <title>Nuselský most: Kongresové centrum &gt; Legerova - 2</title>
+      <title>Nuselský most: Legerova &gt; Kongresové centrum - 1</title>
+      <title>Ocelkova: Broumarská &gt; Generála Janouška - 1</title>
+      <title>Ocelkova: Bryksova &gt; Cíglerova - 1</title>
+      <title>Ocelkova: Bryksova &gt; Generála Janouška - 1</title>
+      <title>Ocelkova: Cíglerova &gt; Bryksova - 1</title>
+      <title>Ocelkova: Cíglerova &gt; Chlumecká - 1</title>
+      <title>Ocelkova: Generála Janouška &gt; Broumarská - 1</title>
+      <title>Ocelkova: Generála Janouška &gt; Bryksova - 1</title>
+      <title>Ocelkova: Chlumecká &gt; Cíglerova - 1</title>
+      <title>Odborů: Karlovo nám. &gt; Myslíkova - 1</title>
+      <title>Odříčkova: Bořivojova &gt; Táboritská - 1</title>
+      <title>Odříčkova: Bořivojova &gt; Velehradská - 1</title>
+      <title>Odříčkova: Fibichova &gt; Slavíkova - 1</title>
+      <title>Odříčkova: Milešovská &gt; Fibichova - 1</title>
+      <title>Odříčkova: Milešovská &gt; Velehradská - 1</title>
+      <title>Odříčkova: Slavíkova &gt; Fibichova - 1</title>
+      <title>Odříčkova: Táboritská &gt; Bořivojova - 1</title>
+      <title>Odříčkova: Velehradská &gt; Bořivojova - 1</title>
+      <title>Odříčkova: Velehradská &gt; Milešovská - 1</title>
+      <title>Oistrachova: Jeremiášova &gt; Mukařovského - 1</title>
+      <title>Oistrachova: Kovářova &gt; Mukařovského - 1</title>
+      <title>Oistrachova: Mukařovského &gt; Jeremiášova - 1</title>
+      <title>Oistrachova: Mukařovského &gt; Kovářova - 1</title>
+      <title>Olbrachtova: Budějovická &gt; Na strži - 1</title>
+      <title>Olbrachtova: Na strži &gt; Budějovická - 1</title>
+      <title>Olšanská: Nákladové nádraží Praha Žižkov &gt; Olšanské nám. - 1</title>
+      <title>Olšanská: Olšanské nám. &gt; Nákladové nádraží Praha Žižkov - 1</title>
+      <title>Opatovská: Chilská &gt; Ke Kateřinkám - 1</title>
+      <title>Opatovská: Ke Kateřinkám &gt; Chilská - 1</title>
+      <title>Opatovská: Ke Kateřinkám &gt; Metodějova - 1</title>
+      <title>Opatovská: Metodějova &gt; Ke Kateřinkám - 1</title>
+      <title>Opatovská: Metodějova &gt; U modré školy - 1</title>
+      <title>Opatovská: U modré školy &gt; Metodějova - 1</title>
+      <title>Opatovská: U modré školy &gt; Výstavní - 1</title>
+      <title>Opatovská: Výstavní &gt; U modré školy - 1</title>
+      <title>Opletalova: Hybernská &gt; Senovážné nám. - 1</title>
+      <title>Opletalova: Politických vězňů &gt; Senovážné nám. - 1</title>
+      <title>Opletalova: Senovážné nám. &gt; Hybernská - 1</title>
+      <title>Opletalova: Senovážné nám. &gt; Politických vězňů - 1</title>
+      <title>Opletalova: Václavské nám. &gt; Politických vězňů - 1</title>
+      <title>Ořešská: Ořech &gt; Řeporyjské nám. - 1</title>
+      <title>Ořešská: Řeporyjské nám. &gt; Ořech - 2</title>
+      <title>Ostrovského: Radlická &gt; Nádražní - 1</title>
+      <title>Palackého most: Janáčkovo nábřeží &gt; Rašínovo nábř. - 1</title>
+      <title>Palackého most: Rašínovo nábř. &gt; Janáčkovo nábřeží - 1</title>
+      <title>Pankrácké nám.: 5. května &gt; Na Pankráci - 1</title>
+      <title>Pankrácké nám.: Na Pankráci &gt; 5. května - 1</title>
+      <title>Partyzánská: Na zátorách &gt; T-Mobile Arena - 1</title>
+      <title>Partyzánská: Na zátorách &gt; Vrbenského - 1</title>
+      <title>Partyzánská: T-Mobile Arena &gt; Na zátorách - 1</title>
+      <title>Partyzánská: Vrbenského &gt; Na zátorách - 1</title>
+      <title>Patočkova: Bělohorská &gt; Pod Dinopolem - 1</title>
+      <title>Patočkova: Myslbekova &gt; Patočkova - 1</title>
+      <title>Patočkova: Myslbekova &gt; Střešovická - 1</title>
+      <title>Patočkova: Patočkova &gt; Myslbekova - 1</title>
+      <title>Patočkova: Patočkova &gt; Pod Královkou - 1</title>
+      <title>Patočkova: Pod Dinopolem &gt; Bělohorská - 1</title>
+      <title>Patočkova: Pod Dinopolem &gt; Pod Královkou - 1</title>
+      <title>Patočkova: Pod Královkou &gt; Patočkova - 1</title>
+      <title>Patočkova: Pod Královkou &gt; Pod Dinopolem - 1</title>
+      <title>Patočkova: Střešovická &gt; Myslbekova - 1</title>
+      <title>Patočkova: Střešovická &gt; U Brusnice/Pevnostní - 2</title>
+      <title>Patočkova: U Brusnice/Pevnostní &gt; Střešovická - 2</title>
+      <title>Pelléova: Milady Horáové &gt; Jeselská - 1</title>
+      <title>Permerova: Prvního pluku &gt; Thámova - 1</title>
+      <title>Permerova: Šaldova &gt; Thámova - 2</title>
+      <title>Permerova: Thámova &gt; Prvního pluku - 1</title>
+      <title>Permerova: Thámova &gt; Šaldova - 1</title>
+      <title>Peroutkova: Jinonická &gt; Xaveriova - 1</title>
+      <title>Peroutkova: Konečná &gt; U smíchovského hřbitova - 1</title>
+      <title>Peroutkova: Konečná &gt; Xaveriova - 1</title>
+      <title>Peroutkova: U smíchovského hřbitova &gt; Konečná - 1</title>
+      <title>Peroutkova: Xaveriova &gt; Jinonická - 1</title>
+      <title>Peroutkova: Xaveriova &gt; Konečná - 1</title>
+      <title>Petrohradská: Rostovská &gt; Vršovická - 1</title>
+      <title>Petrohradská: U Seřadiště &gt; Vršovická - 1</title>
+      <title>Petrohradská: Vršovická &gt; Rostovská - 1</title>
+      <title>Petrohradská: Vršovická &gt; U Seřadiště - 1</title>
+      <title>Plynární: Argentinská &gt; Železničářů - 1</title>
+      <title>Plynární: Ortenovo nám. &gt; Argentinská - 1</title>
+      <title>Plynární: Partyzánská &gt; Železničářů - 1</title>
+      <title>Plynární: Železničářů &gt; Argentinská - 1</title>
+      <title>Plynární: Železničářů &gt; Partyzánská - 1</title>
+      <title>Plzěňská: 5. máje &gt; Kukulova - 1</title>
+      <title>Plzěňská: 5. máje &gt; Makovského - 1</title>
+      <title>Plzeňská: Erbenova &gt; Holečkova - 1</title>
+      <title>Plzeňská: Holečkova &gt; Podbělohorská - 1</title>
+      <title>Plzeňská: Jinonická &gt; Vrchlického - 1</title>
+      <title>Plzeňská: Kartouzská &gt; Radlická - 1</title>
+      <title>Plzeňská: Kartouzská &gt; Tomáškova - 1</title>
+      <title>Plzěňská: Kukulova &gt; 5. máje - 1</title>
+      <title>Plzěňská: Kukulova &gt; Motol - 1</title>
+      <title>Plzeňská: Lidická &gt; Stroupežnického - 1</title>
+      <title>Plzěňská: Makovského &gt; 5. máje - 1</title>
+      <title>Plzěňská: Makovského &gt; Slánská - 1</title>
+      <title>Plzěňská: Motol &gt; Kukulova - 1</title>
+      <title>Plzěňská: Motol &gt; Zahradníčkova - 1</title>
+      <title>Plzěňská: Musílkova &gt; Pod Kotlářkou - 1</title>
+      <title>Plzěňská: Musílkova &gt; Vrchlického - 1</title>
+      <title>Plzěňská: Na Radosti &gt; Slánská - 1</title>
+      <title>Plzěňská: Pod Kotlářkou &gt; Musílkova - 1</title>
+      <title>Plzěňská: Pod Kotlářkou &gt; Zahradníčkova - 1</title>
+      <title>Plzeňská: Podbělohorská &gt; Jinonická - 1</title>
+      <title>Plzeňská: Radlická &gt; Kartouzská - 1</title>
+      <title>Plzeňská: Radlická &gt; Stroupežnického - 1</title>
+      <title>Plzěňská: Slánská &gt; Makovského - 1</title>
+      <title>Plzěňská: Slánská &gt; Na Radosti - 1</title>
+      <title>Plzeňská: Stroupežnického &gt; Lidická - 1</title>
+      <title>Plzeňská: Stroupežnického &gt; Radlická - 1</title>
+      <title>Plzeňská: Tomáškova &gt; U Trojice - 1</title>
+      <title>Plzeňská: U Trojice &gt; Erbenova - 1</title>
+      <title>Plzěňská: Vrchlického &gt; Musílkova - 1</title>
+      <title>Plzěňská: Zahradníčkova &gt; Motol - 1</title>
+      <title>Plzěňská: Zahradníčkova &gt; Pod Kotlářkou - 1</title>
+      <title>Počernická: Cerhenická &gt; Limuzská - 1</title>
+      <title>Počernická: Cerhenická &gt; Na Palouku - 1</title>
+      <title>Počernická: Dřevčická &gt; Limuzská - 1</title>
+      <title>Počernická: Limuzská &gt; Cerhenická - 1</title>
+      <title>Počernická: Limuzská &gt; Dřevčická - 1</title>
+      <title>Počernická: Na Palouku &gt; Cerhenická - 1</title>
+      <title>Počernická: Na Palouku &gt; Vinohradská - 1</title>
+      <title>Počernická: Vinohradská &gt; Na Palouku - 1</title>
+      <title>Pod Bruskou: Malostranská &gt; Valdštejnská - 1</title>
+      <title>Pod Bruskou: U Brusných kasáren &gt; Valdštejnská - 1</title>
+      <title>Pod Bruskou: Valdštejnská &gt; Malostranská - 1</title>
+      <title>Pod Bruskou: Valdštejnská &gt; U Brusných kasáren - 1</title>
+      <title>Pod Děvínem: Na Konvářce &gt; Kroupova - 1</title>
+      <title>Pod Hrachovkou: K Bohnicím &gt; Trojská - 1</title>
+      <title>Pod Hrachovkou: Trojská &gt; K Bohnicím - 1</title>
+      <title>Pod Hranicí: Armády &gt; Nárožní - 1</title>
+      <title>Pod Hranicí: Armády &gt; Petříkova - 1</title>
+      <title>Pod Hranicí: Jeremiášova &gt; Petříkova - 1</title>
+      <title>Pod Hranicí: Nárožní &gt; Armády - 1</title>
+      <title>Pod Hranicí: Petříkova &gt; Armády - 1</title>
+      <title>Pod Hranicí: Petříkova &gt; Jeremiášova - 1</title>
+      <title>Pod Chodovem: Chodov-obchodní centrum &gt; Roztylská - 1</title>
+      <title>Pod Chodovem: Chodov-obchodní centrum &gt; Türkova - 1</title>
+      <title>Pod Chodovem: Roztylská &gt; Chodov-obchodní centrum - 1</title>
+      <title>Pod Chodovem: Türkova &gt; Chodov-obchodní centrum - 1</title>
+      <title>Pod Kaštany: Čs. armády &gt; nám. Pod Kaštany - 1</title>
+      <title>Pod Kaštany: nám. Pod Kaštany &gt; Čs. armády - 1</title>
+      <title>Pod Klapicí (II/599): nám. Osvoboditelů &gt; Prvomájová - 1</title>
+      <title>Pod Klapicí (II/599): Prvomájová &gt; nám. Osvoboditelů - 1</title>
+      <title>Pod Klapicí (II/599): Prvomájová &gt; Strážovská - 1</title>
+      <title>Pod Klapicí (II/599): Strážovská &gt; Prvomájová - 1</title>
+      <title>Pod Klaudiánkou: Ke Klaudiánce &gt; Na Zlatnici - 1</title>
+      <title>Pod Klaudiánkou: Na Zlatnici &gt; Ke Klaudiánce - 1</title>
+      <title>Pod Kotlářkou: Kotlářka &gt; Plzeňská - 1</title>
+      <title>Pod Kotlářkou: Plzeňská &gt; Kotlářka - 1</title>
+      <title>Pod Královkou: Bělohorská &gt; Patočkova - 1</title>
+      <title>Pod Královkou: Patočkova &gt; Bělohorská - 1</title>
+      <title>Pod Krejcárkem: Koněvova &gt; Na Krejcárku - 1</title>
+      <title>Pod Krejcárkem: Na Krejcárku &gt; Koněvova - 1</title>
+      <title>Pod Lisem: Povltavská &gt; Trojská - 1</title>
+      <title>Pod Lisem: Trojská &gt; Povltavská - 1</title>
+      <title>Pod Lochkovem (II/599): Cementářská &gt; Lochkov-Pražský okruh - 1</title>
+      <title>Pod Lochkovem (II/599): Lochkov-Pražský okruh &gt; Cementářská - 1</title>
+      <title>Pod Pekařkou: Jeremenkova &gt; V rovinách - 1</title>
+      <title>Pod Pekařkou: V rovinách &gt; Jeremenkova - 1</title>
+      <title>Pod plynojemem: Novovysočanská &gt; Sokolovská - 1</title>
+      <title>Pod plynojemem: Rohanské nábřeží &gt; Sokolovská - 1</title>
+      <title>Pod plynojemem: Sokolovská &gt; Novovysočanská - 1</title>
+      <title>Pod plynojemem: Sokolovská &gt; Rohanské nábřeží - 1</title>
+      <title>Pod stadiony: Podbělohorská &gt; Vaníčkova - 1</title>
+      <title>Pod stadiony: Vaníčkova &gt; Podbělohorská - 1</title>
+      <title>Pod Višňovkou: Matek &gt; Štůrova - 1</title>
+      <title>Pod Višňovkou: Štůrova &gt; Matek - 1</title>
+      <title>Podbabská: Jugoslávských partyzánů &gt; Papírenská - 1</title>
+      <title>Podbabská: Papírenská &gt; Jugoslávských partyzánů - 1</title>
+      <title>Podbabská: Papírenská &gt; V Podbabě - 1</title>
+      <title>Podbabská: V Podbabě &gt; Papírenská - 1</title>
+      <title>Podbělohorská: Kukulova &gt; Spiritka - 1</title>
+      <title>Podbělohorská: Na Hřebenkách &gt; Plzeňská - 1</title>
+      <title>Podbělohorská: Na Hřebenkách &gt; Třístoličná - 1</title>
+      <title>Podbělohorská: Plzeňská &gt; Na Hřebenkách - 1</title>
+      <title>Podbělohorská: Pod stadiony &gt; Spiritka - 1</title>
+      <title>Podbělohorská: Pod stadiony &gt; Třístoličná - 1</title>
+      <title>Podbělohorská: Spiritka &gt; Kukulova - 1</title>
+      <title>Podbělohorská: Spiritka &gt; Pod stadiony - 1</title>
+      <title>Podbělohorská: Třístoličná &gt; Na Hřebenkách - 1</title>
+      <title>Podbělohorská: Třístoličná &gt; Pod stadiony - 1</title>
+      <title>Poděbradská: Kolbenova &gt; Slévačská - 1</title>
+      <title>Poděbradská: Praha Libeň &gt; U Elektry - 1</title>
+      <title>Poděbradská: Průmyslová &gt; Slévačská - 1</title>
+      <title>Poděbradská: Průmyslová &gt; U Elektry - 1</title>
+      <title>Poděbradská: Slévačská &gt; Kolbenova - 1</title>
+      <title>Poděbradská: Slévačská &gt; Průmyslová - 1</title>
+      <title>Poděbradská: U Elektry &gt; Praha Libeň - 1</title>
+      <title>Poděbradská: U Elektry &gt; Průmyslová - 1</title>
+      <title>Podle kačerova: Na záhonech &gt; Michelská - 1</title>
+      <title>Podle kačerova: Na záhonech &gt; Sliačská - 1</title>
+      <title>Podle kačerova: Sliačská &gt; Na záhonech - 1</title>
+      <title>Podleská: Františka Diviše &gt; Přátelství - 1</title>
+      <title>Podleská: Přátelství &gt; Františka Diviše - 1</title>
+      <title>Podolské nábřeží: Jeremenkova &gt; Vodárenská - 1</title>
+      <title>Podolské nábřeží: Vodárenská &gt; Jeremenkova - 1</title>
+      <title>Podolské nábřeží: Vodárenská &gt; Vyšehradský - 1</title>
+      <title>Podolské nábřeží: Vyšehradský &gt; Vodárenská - 1</title>
+      <title>Povltavská: Bulovka &gt; most Barikádníků - 1</title>
+      <title>Povltavská: Čuprova &gt; Bulovka - 1</title>
+      <title>Povltavská: most Barikádníků &gt; Bulovka - 1</title>
+      <title>Povltavská: most Barikádníků &gt; Pod Lisem - 1</title>
+      <title>Povltavská: Pod Lisem &gt; most Barikádníků - 1</title>
+      <title>Práčská: Švehlova &gt; Topolová - 1</title>
+      <title>Práčská: Topolová &gt; Švehlova - 1</title>
+      <title>Práčská: Topolová &gt; Záběhlická - 1</title>
+      <title>Práčská: Záběhlická &gt; Topolová - 1</title>
+      <title>Prachnerova: Plzeňská &gt; Vrchlického - 1</title>
+      <title>Prachnerova: Vrchlického &gt; Plzeňská - 1</title>
+      <title>Pražský okruh: Běchovice &gt; Běchovice - 1</title>
+      <title>Pražský okruh: Běchovice &gt; Horní Počernice - 1</title>
+      <title>Pražský okruh: Břežany &gt; Písnice - 1</title>
+      <title>Pražský okruh: Břežany &gt; sjezd správy komunikací (km 6,5) - 1</title>
+      <title>Pražský okruh: Horní Počernice &gt; Běchovice - 1</title>
+      <title>Pražský okruh: Horní Počernice &gt; Chlumecká - 1</title>
+      <title>Pražský okruh: Chlumecká &gt; Horní Počernice - 1</title>
+      <title>Pražský okruh: Chlumecká &gt; Satalice - 1</title>
+      <title>Pražský okruh: Chrášťany &gt; Jinočany - 1</title>
+      <title>Pražský okruh: Chrášťany &gt; Třebonice - 1</title>
+      <title>Pražský okruh: Jinočany &gt; Chrášťany - 1</title>
+      <title>Pražský okruh: Jinočany &gt; Ořech - 1</title>
+      <title>Pražský okruh: Komořanský &gt; sjezd správy komunikací (km 6,5) - 1</title>
+      <title>Pražský okruh: Lahovice &gt; Slavíčí údolí - 1</title>
+      <title>Pražský okruh: Lipská &gt; Ruzyně - 1</title>
+      <title>Pražský okruh: Lochkov &gt; Slavíčí údolí - 1</title>
+      <title>Pražský okruh: Lochkov &gt; Slivenec - 1</title>
+      <title>Pražský okruh: Lochkovský tunel &gt; Zbraslav - 1</title>
+      <title>Pražský okruh: Ořech &gt; Jinočany - 1</title>
+      <title>Pražský okruh: Ořech &gt; Slivenec - 1</title>
+      <title>Pražský okruh: Písnice &gt; Břežany - 1</title>
+      <title>Pražský okruh: Ruzyně &gt; odb. Horoměřice - 1</title>
+      <title>Pražský okruh: Ruzyně &gt; Řepy - 1</title>
+      <title>Pražský okruh: Řepy &gt; Ruzyně - 1</title>
+      <title>Pražský okruh: Řepy &gt; Třebonice - 1</title>
+      <title>Pražský okruh: Satalice &gt; Chlumecká - 1</title>
+      <title>Pražský okruh: sjezd správy komunikací (km 6,5) &gt; Břežany - 1</title>
+      <title>Pražský okruh: sjezd správy komunikací (km 6,5) &gt; Komořanský - 1</title>
+      <title>Pražský okruh: Slavíčí údolí &gt; Lahovice - 1</title>
+      <title>Pražský okruh: Slavíčí údolí &gt; Lochkov - 1</title>
+      <title>Pražský okruh: Slivenec &gt; Lochkov - 1</title>
+      <title>Pražský okruh: Slivenec &gt; Ořech - 1</title>
+      <title>Pražský okruh: Šabatka &gt; Komořanský tunel - 1</title>
+      <title>Pražský okruh: Šabatka &gt; Zbraslav - 1</title>
+      <title>Pražský okruh: Třebonice &gt; Chrášťany - 1</title>
+      <title>Pražský okruh: Třebonice &gt; Řepy - 1</title>
+      <title>Pražský okruh: Zbraslav &gt; Lochkovský tunel - 1</title>
+      <title>Pražský vnější okruh: Dolní Břežany-Pražská &gt; Komořanská - 1</title>
+      <title>Pražský vnější okruh: Komořanská &gt; Dolní Břežany-Pražská - 1</title>
+      <title>Pražský vnější okruh: odb. Kosoř &gt; Radotín-Karlická - 1</title>
+      <title>Pražský vnější okruh: Radotín-Karlická &gt; odb. Kosoř - 1</title>
+      <title>Pražský vnější okruh: Zbraslav-odb. Slapy &gt; Zbraslav-Komořanská - 1</title>
+      <title>Preslova: Arbesovo nám. &gt; V Botanice - 1</title>
+      <title>Preslova: Matoušova &gt; V Botanice - 1</title>
+      <title>Preslova: V Botanice &gt; Arbesovo nám. - 1</title>
+      <title>Preslova: V Botanice &gt; Matoušova - 1</title>
+      <title>Prokopova: Chlumova &gt; Jeseniova - 1</title>
+      <title>Prokopova: Chlumova &gt; Koněvova - 1</title>
+      <title>Prokopova: Jeseniova &gt; Chlumova - 1</title>
+      <title>Prokopova: Jeseniova &gt; Olšanské nám. - 1</title>
+      <title>Prokopova: Koněvova &gt; Chlumova - 1</title>
+      <title>Prokopova: Olšanské nám. &gt; Jeseniova - 1</title>
+      <title>propojka: nájezd Pražský okruh &gt; odb. Brno - 1</title>
+      <title>propojka: nájezd Pražský okruh &gt; odb. Štěchovice - 1</title>
+      <title>propojka: nájezd Strakonická &gt; odb. Strakonice - 1</title>
+      <title>propojka: nájezd Strakonická &gt; přípojka Brno - 1</title>
+      <title>propojka: odb. Brno &gt; přípojka Plzeň - 1</title>
+      <title>propojka: odb. centrum &gt; přípojka Brno - 1</title>
+      <title>propojka: odb. centrum &gt; přípojka Strakonice - 1</title>
+      <title>propojka: odb. Jesenice &gt; Pražský okruh - 1</title>
+      <title>propojka: odb. Plzeň &gt; odb. Jesenice - 1</title>
+      <title>propojka: odb. Plzeň &gt; přípojka Brno - 1</title>
+      <title>propojka: odb. Plzeň &gt; přípojka Brno - 1</title>
+      <title>propojka: odb. Plzeň &gt; přípojka centrum - 1</title>
+      <title>propojka: odb. Strakonice &gt; odb. Štěchovice - 1</title>
+      <title>propojka: odb. Strakonice &gt; přípojka centrum - 1</title>
+      <title>propojka: odb. Strakonice &gt; přípojka Plzeň - 1</title>
+      <title>propojka: odb. Štěchovice &gt; přípojka Strakonice - 1</title>
+      <title>propojka: odb. Štěchovice &gt; přípojka Strakonice - 1</title>
+      <title>propojka: odb. Štěchovice &gt; Strakonická - 1</title>
+      <title>propojka: přípojka Brno &gt; odb. Strakonice - 1</title>
+      <title>propojka: přípojka centrum &gt; Pražský okruh - 1</title>
+      <title>propojka: přípojka centrum &gt; přípojka Plzeň - 1</title>
+      <title>propojka: přípojka Plzeň &gt; odb. Štěchovice - 1</title>
+      <title>propojka: přípojka Plzeň &gt; Strakonická - 1</title>
+      <title>propojka: přípojka Strakonice &gt; odb. Plzeň - 1</title>
+      <title>propojka: přípojka Strakonice &gt; odb. Plzeň - 1</title>
+      <title>Prosecká: Čakovická &gt; Lovosická - 1</title>
+      <title>Prosecká: Čakovická &gt; Vysočanská - 1</title>
+      <title>Prosecká: Františka Kadlece &gt; Na rozhraní - 1</title>
+      <title>Prosecká: Františka Kadlece &gt; Zenklova - 1</title>
+      <title>Prosecká: Kbelská &gt; Lovosická - 1</title>
+      <title>Prosecká: Kbelská &gt; Tupolevova - 1</title>
+      <title>Prosecká: Lovosická &gt; Čakovická - 1</title>
+      <title>Prosecká: Lovosická &gt; Kbelská - 1</title>
+      <title>Prosecká: Na rozhraní &gt; Františka Kadlece - 1</title>
+      <title>Prosecká: Na rozhraní &gt; Na Vyhlídce - 1</title>
+      <title>Prosecká: Na Vyhlídce &gt; Na rozhraní - 1</title>
+      <title>Prosecká: Na Vyhlídce &gt; Vysočanská - 1</title>
+      <title>Prosecká: Tupolevova &gt; Kbelská - 1</title>
+      <title>Prosecká: Vysočanská &gt; Čakovická - 1</title>
+      <title>Prosecká: Vysočanská &gt; Na Vyhlídce - 1</title>
+      <title>Prosecká: Zenklova &gt; Čuprova - 1</title>
+      <title>Prosecká: Zenklova &gt; Františka Kadlece - 1</title>
+      <title>Průběžná: Dubečská &gt; Průběžná - 1</title>
+      <title>Průběžná: Dubečská &gt; V korytech - 1</title>
+      <title>Průběžná: Jižní spojka &gt; Průběžná - 1</title>
+      <title>Průběžná: Průběžná &gt; Dubečská - 1</title>
+      <title>Průběžná: Průběžná &gt; Jižní spojka - 1</title>
+      <title>Průběžná: V korytech &gt; Dubečská - 1</title>
+      <title>Průběžná: V korytech &gt; V olšinách - 1</title>
+      <title>Průběžná: V olšinách &gt; V korytech - 1</title>
+      <title>Průmyslová: Českobrodská &gt; Objízdná - 1</title>
+      <title>Průmyslová: Českobrodská &gt; Poděbradská - 1</title>
+      <title>Průmyslová: Jižní spojka &gt; Rabakovská - 1</title>
+      <title>Průmyslová: Jižní spojka &gt; Zamenhofova - 1</title>
+      <title>Průmyslová: Objízdná &gt; Českobrodská - 1</title>
+      <title>Průmyslová: Objízdná &gt; Tiskařská - 1</title>
+      <title>Průmyslová: Poděbradská &gt; Českobrodská - 1</title>
+      <title>Průmyslová: Rabakovská &gt; Jižní spojka - 1</title>
+      <title>Průmyslová: Rabakovská &gt; V Chotejně-Tesla Karlín - 1</title>
+      <title>Průmyslová: Švehlova &gt; V Chotejně-Tesla Karlín - 1</title>
+      <title>Průmyslová: Tiskařská &gt; Objízdná - 1</title>
+      <title>Průmyslová: Tiskařská &gt; Zamenhofova - 1</title>
+      <title>Průmyslová: V Chotejně-Tesla Karlín &gt; Rabakovská - 1</title>
+      <title>Průmyslová: V Chotejně-Tesla Karlín &gt; Švehlova - 1</title>
+      <title>Průmyslová: Zamenhofova &gt; Jižní spojka - 1</title>
+      <title>Průmyslová: Zamenhofova &gt; Tiskařská - 1</title>
+      <title>Prvního pluku/Trocnovská: Husitská &gt; Pernerova - 1</title>
+      <title>Prvního pluku/Trocnovská: Křižíkova &gt; Pernerova - 1</title>
+      <title>Prvního pluku/Trocnovská: Pernerova &gt; Husitská - 1</title>
+      <title>Prvního pluku/Trocnovská: Pernerova &gt; Křižíkova - 1</title>
+      <title>Přátelství: K Dubečku &gt; K Měcholupům - 1</title>
+      <title>Přátelství: K Měcholupům &gt; K Dubečku - 1</title>
+      <title>Přátelství: K Měcholupům &gt; Podleská - 1</title>
+      <title>Přátelství: Ke kříži &gt; Bečovská - 1</title>
+      <title>Přátelství: Ke kříži &gt; nám. Protifašistických bojovníků - 1</title>
+      <title>Přátelství: nám. Protifašistických bojovníků &gt; Uhříněves-ul. K Netlukám - 1</title>
+      <title>Přátelství: odb. Kolovraty &gt; Praha-Nedvězí - 1</title>
+      <title>Přátelství: odb. Kolovraty &gt; Uhříněves-ul. K Netlukám - 1</title>
+      <title>Přátelství: Podleská &gt; K Měcholupům - 1</title>
+      <title>Přátelství: Podleská &gt; Uhříněves-Bečovská - 1</title>
+      <title>Přátelství: Praha-Nedvězí &gt; odb. Kolovraty - 1</title>
+      <title>Přátelství: Praha-Nedvězí &gt; Říčany-Radošovice - 1</title>
+      <title>Přátelství: Říčany-Radošovice &gt; Praha-Nedvězí - 1</title>
+      <title>Přátelství: Uhříněves-Bečovská &gt; Podleská - 1</title>
+      <title>Přátelství: Uhříněves-ul. K Netlukám &gt; nám. Protifašistických bojovníků - 1</title>
+      <title>Přátelství: Uhříněves-ul. K Netlukám &gt; odb. Kolovraty - 1</title>
+      <title>Přemyšlenská: Čimická &gt; Horňátecká - 1</title>
+      <title>Přemyšlenská: Horňátecká &gt; Čimická - 1</title>
+      <title>Přemyšlenská: Horňátecká &gt; Klapkova - 2</title>
+      <title>Přemyšlenská: Klapkova &gt; Čumpelíkova - 1</title>
+      <title>Přemyšlenská: Klapkova &gt; Horňátecká - 1</title>
+      <title>Přeštínská: Radotínská &gt; Výpadová - 1</title>
+      <title>Přeštínská: Výpadová &gt; Radotínská - 1</title>
+      <title>Přetlucká: Na padesátém &gt; Rabakovská - 1</title>
+      <title>Přetlucká: Rabakovská &gt; Na padesátém - 1</title>
+      <title>přiváděč Písnice: Písnice &gt; Vídeňská - 1</title>
+      <title>přiváděč Písnice: Vídeňská &gt; Písnice - 1</title>
+      <title>přiváděč Zbraslav: K Přehradám &gt; Pražský okruh - 1</title>
+      <title>přiváděč Zbraslav: K Přehradám &gt; Strakonická - 1</title>
+      <title>přiváděč Zbraslav: Pražský okruh &gt; K Přehradám - 1</title>
+      <title>přiváděč Zbraslav: Strakonická &gt; K Přehradám - 1</title>
+      <title>Pujmanové: Hvězdova &gt; Milevská - 1</title>
+      <title>Pujmanové: Hvězdova &gt; Na hřebenech II - 1</title>
+      <title>Pujmanové: Milevská &gt; Hvězdova - 1</title>
+      <title>Pujmanové: Milevská &gt; V rovinách - 1</title>
+      <title>Pujmanové: Na hřebenech II &gt; Hvězdova - 1</title>
+      <title>Pujmanové: V rovinách &gt; Milevská - 1</title>
+      <title>R10: km 7 &gt; Radonice - 1</title>
+      <title>R10: Radonice &gt; Satalice - 1</title>
+      <title>R10: Satalice &gt; Radonice - 1</title>
+      <title>R4: hranice hl. m. Prahy &gt; Jíloviště - 1</title>
+      <title>R6: km 3 &gt; Řepy - 1</title>
+      <title>Rabakovská: Průmyslová &gt; Přetlucká - 1</title>
+      <title>Rabakovská: Přetlucká &gt; Průmyslová - 1</title>
+      <title>Radlická: Bieblova &gt; tunel Mrázovka - 1</title>
+      <title>Radlická: Bieblova &gt; Za Ženskými domovy - 1</title>
+      <title>Radlická: Bucharova &gt; Butovická - 1</title>
+      <title>Radlická: Butovická &gt; Bucharova - 1</title>
+      <title>Radlická: Butovická &gt; Puchmajerova - 1</title>
+      <title>Radlická: K Vodojemu &gt; Křížová - 1</title>
+      <title>Radlická: K Vodojemu &gt; Kurtvirtova - 1</title>
+      <title>Radlická: Kartouzská &gt; Plzeňská - 1</title>
+      <title>Radlická: Křížová &gt; K Vodojemu - 1</title>
+      <title>Radlická: Křížová &gt; tunel Mrázovka - 1</title>
+      <title>Radlická: Kurtvirtova &gt; K Vodojemu - 1</title>
+      <title>Radlická: Kurtvirtova &gt; Puchmajerova - 1</title>
+      <title>Radlická: Ostrovského &gt; Plzeňská - 1</title>
+      <title>Radlická: Ostrovského &gt; Za Ženskými domovy - 1</title>
+      <title>Radlická: Plzeňská &gt; Kartouzská - 1</title>
+      <title>Radlická: Plzeňská &gt; Ostrovského - 1</title>
+      <title>Radlická: Puchmajerova &gt; Butovická - 1</title>
+      <title>Radlická: Puchmajerova &gt; Kurtvirtova - 1</title>
+      <title>Radlická: tunel Mrázovka &gt; Bieblova - 1</title>
+      <title>Radlická: tunel Mrázovka &gt; Křížová - 1</title>
+      <title>Radlická: Za Ženskými domovy &gt; Bieblova - 1</title>
+      <title>Radlická: Za Ženskými domovy &gt; Ostrovského - 1</title>
+      <title>Radotínská: Dostihová &gt; Přeštínská - 1</title>
+      <title>Radotínská: Přeštínská &gt; Dostihová - 1</title>
+      <title>rampa-Jižní spojka: Jižní spojka &gt; Modřanská - 1</title>
+      <title>rampa-Jižní spojka: Modřanská &gt; Jižní spojka - 1</title>
+      <title>Rašínovo nábřeží: Jiráskovo nám. &gt; Trojanova - 1</title>
+      <title>Rašínovo nábřeží: Libušina &gt; Vnislavova - 1</title>
+      <title>Rašínovo nábřeží: Libušina &gt; Vyšehradský - 1</title>
+      <title>Rašínovo nábřeží: Palackého nám. &gt; Trojanova - 1</title>
+      <title>Rašínovo nábřeží: Palackého nám. &gt; Výtoň - 1</title>
+      <title>Rašínovo nábřeží: Trojanova &gt; Jiráskovo nám. - 1</title>
+      <title>Rašínovo nábřeží: Trojanova &gt; Palackého nám. - 1</title>
+      <title>Rašínovo nábřeží: Vnislavova &gt; Libušina - 1</title>
+      <title>Rašínovo nábřeží: Vnislavova &gt; Výtoň - 1</title>
+      <title>Rašínovo nábřeží: Vyšehradský &gt; Libušina - 1</title>
+      <title>Rašínovo nábřeží: Výtoň &gt; Palackého nám. - 2</title>
+      <title>Rašínovo nábřeží: Výtoň &gt; Vnislavova - 1</title>
+      <title>Resslova: Gorazdova &gt; Karlovo nám. - 2</title>
+      <title>Resslova: Gorazdova &gt; Rašínovo nábř. - 1</title>
+      <title>Resslova: Karlovo nám. &gt; Gorazdova - 4</title>
+      <title>Resslova: Rašínovo nábř. &gt; Gorazdova - 1</title>
+      <title>Roentgenova: Motolská &gt; Weberova - 1</title>
+      <title>Roentgenova: Weberova &gt; Motolská - 1</title>
+      <title>Rohanské nábřeží: Ke Štvanici &gt; Zábranská - 1</title>
+      <title>Rohanské nábřeží: Šaldova &gt; Voctářovská - 1</title>
+      <title>Rohanské nábřeží: Šaldova &gt; Zábranská - 1</title>
+      <title>Rohanské nábřeží: Voctářovská &gt; Šaldova - 1</title>
+      <title>Rohanské nábřeží: Zábranská &gt; Ke Štvanici - 1</title>
+      <title>Rohanské nábřeží: Zábranská &gt; Šaldova - 1</title>
+      <title>Rooseveltova: Sibiřské nám. &gt; Terronská - 1</title>
+      <title>Rooseveltova: Terronská &gt; Sibiřské nám. - 1</title>
+      <title>Roztylská: Láskova &gt; Na jelenách - 1</title>
+      <title>Roztylská: Láskova &gt; Pod Chodovem - 1</title>
+      <title>Roztylská: Na jelenách &gt; Láskova - 1</title>
+      <title>Roztylská: Pod Chodovem &gt; Láskova - 1</title>
+      <title>Rozvadovská spojka: Bucharova &gt; Jeremiášova - 1</title>
+      <title>Rozvadovská spojka: Jeremiášova &gt; Bucharova - 1</title>
+      <title>Rozvadovská spojka: Jeremiášova &gt; Řevnická - 1</title>
+      <title>Rozvadovská spojka: Řevnická &gt; Jeremiášova - 1</title>
+      <title>Rozvadovská spojka: Řevnická &gt; Třebonice - 1</title>
+      <title>Rozvadovská spojka: Třebonice &gt; Řevnická - 1</title>
+      <title>Rumunská: Bělehradská &gt; nám. Míru - 1</title>
+      <title>Rumunská: Legerova &gt; Bělehradská - 1</title>
+      <title>Rumunská: Sokolská &gt; Legerova - 1</title>
+      <title>Ruská: Bělocerkevská &gt; Litevská - 1</title>
+      <title>Ruská: Bělocerkevská &gt; Vlašimská - 1</title>
+      <title>Ruská: Chorvatská &gt; Moskevská - 1</title>
+      <title>Ruská: Chorvatská &gt; Žitomírská - 1</title>
+      <title>Ruská: Litevská &gt; Bělocerkevská - 2</title>
+      <title>Ruská: Litevská &gt; V olšinách - 1</title>
+      <title>Ruská: Moskevská &gt; Chorvatská - 1</title>
+      <title>Ruská: V olšinách &gt; Litevská - 1</title>
+      <title>Ruská: Vlašimská &gt; Bělocerkevská - 1</title>
+      <title>Ruská: Vlašimská &gt; Žitomírská - 1</title>
+      <title>Ruská: Žitomírská &gt; Chorvatská - 1</title>
+      <title>Ruská: Žitomírská &gt; Vlašimská - 1</title>
+      <title>Ruzyňská: Libocká &gt; Stochovská - 1</title>
+      <title>Ruzyňská: Stochovská &gt; Libocká - 1</title>
+      <title>Ruzyňská: Stochovská &gt; Stochovská-směr Drnovská - 1</title>
+      <title>Ruzyňská: Stochovská-směr Drnovská &gt; Stochovská - 1</title>
+      <title>Ryšavého: 5. května &gt; Komárkova - 1</title>
+      <title>Ryšavého: Komárkova &gt; 5. května - 1</title>
+      <title>Ryšavého: Komárkova &gt; Pod Chodovem - 1</title>
+      <title>Ryšavého: Pod Chodovem &gt; Komárkova - 1</title>
+      <title>Řeporyjská: Bucharova &gt; Tichnova - 1</title>
+      <title>Řeporyjská: Na Vidouli &gt; Tichnova - 1</title>
+      <title>Řeporyjská: Tichnova &gt; Bucharova - 1</title>
+      <title>Řeporyjská: Tichnova &gt; Na Vidouli - 1</title>
+      <title>Řevnická: Na Radosti &gt; Rozvadovská spojka - 1</title>
+      <title>Řevnická: Rozvadovská spojka &gt; Na Radosti - 1</title>
+      <title>Sazečská: Černokostelecká &gt; Tiskařská/Teplárenská - 1</title>
+      <title>Sazečská: Tiskařská/Teplárenská &gt; Černokostelecká - 1</title>
+      <title>Sdružební: Hvězdova &gt; Na Jelence - 1</title>
+      <title>Sdružební: Na Jelence &gt; Hvězdova - 1</title>
+      <title>Seifertova: Bulhar &gt; Husitská - 1</title>
+      <title>Seifertova: Cimburkova &gt; Krásova - 1</title>
+      <title>Seifertova: Cimburkova &gt; Lipanská - 1</title>
+      <title>Seifertova: Havelkova &gt; Husinecká - 1</title>
+      <title>Seifertova: Havelkova &gt; Italská - 1</title>
+      <title>Seifertova: Husinecká &gt; Havelkova - 1</title>
+      <title>Seifertova: Husinecká &gt; Krásova - 1</title>
+      <title>Seifertova: Husitská &gt; Bulhar - 1</title>
+      <title>Seifertova: Husitská &gt; Italská - 1</title>
+      <title>Seifertova: Italská &gt; Havelkova - 1</title>
+      <title>Seifertova: Italská &gt; Husitská - 1</title>
+      <title>Seifertova: Krásova &gt; Cimburkova - 1</title>
+      <title>Seifertova: Krásova &gt; Husinecká - 1</title>
+      <title>Seifertova: Lipanská &gt; Cimburkova - 1</title>
+      <title>Sekaninova: Křesomyslova &gt; Nezamyslova - 1</title>
+      <title>Sekaninova: Nezamyslova &gt; Ostrčilovo nám. - 1</title>
+      <title>Semilská: Bohdanečská &gt; Cukrovarská - 1</title>
+      <title>Semilská: Bohdanečská &gt; Toužimská - 1</title>
+      <title>Semilská: Cukrovarská &gt; Bohdanečská - 1</title>
+      <title>Semilská: Mladoboleslavská &gt; Toužimská - 1</title>
+      <title>Semilská: Toužimská &gt; Bohdanečská - 1</title>
+      <title>Semilská: Toužimská &gt; Mladoboleslavská - 1</title>
+      <title>Senohrabská: Choceradská &gt; Hlavní - 1</title>
+      <title>Senohrabská: Choceradská &gt; Türkova - 1</title>
+      <title>Senohrabská: Türkova &gt; Choceradská - 1</title>
+      <title>Severní I: Hlavní &gt; Severovýchodní I - 1</title>
+      <title>Severní I: Severovýchodní I &gt; Hlavní - 1</title>
+      <title>Severní I: Spořilovská &gt; Severovýchodní I - 1</title>
+      <title>Severní XI: Hlavní &gt; Severozápadní IV - 1</title>
+      <title>Severní XI: Severozápadní IV &gt; Hlavní - 1</title>
+      <title>Severní XI: Severozápadní IV &gt; Sliačská - 1</title>
+      <title>Severovýchodní I: Roztylské nám. &gt; Severní I - 1</title>
+      <title>Severovýchodní I: Roztylské nám. &gt; Sliačská - 1</title>
+      <title>Severovýchodní I: Severní I &gt; Roztylské nám. - 1</title>
+      <title>Severovýchodní I: Sliačská &gt; Roztylské nám. - 1</title>
+      <title>Sezimova: nám. Bratří Synků &gt; Táborská - 1</title>
+      <title>Schoellerova: Cukrovarská &gt; Třeboradice - 1</title>
+      <title>Schoellerova: Třeboradice &gt; Cukrovarská - 1</title>
+      <title>Schoellerova: Za tratí &gt; Slaviborské nám. - 1</title>
+      <title>Skokanská: Atletická &gt; Tomanova - 1</title>
+      <title>Skokanská: Tomanova &gt; Atletická - 1</title>
+      <title>Slánská: Bazovského &gt; Plzeňská - 1</title>
+      <title>Slánská: Bazovského &gt; Žalanského - 1</title>
+      <title>Slánská: Karlovarská &gt; Žalanského - 1</title>
+      <title>Slánská: Plzeňská &gt; Bazovského - 1</title>
+      <title>Slánská: Žalanského &gt; Bazovského - 1</title>
+      <title>Slánská: Žalanského &gt; Karlovarská - 1</title>
+      <title>Slatina: Dubeč &gt; K Lesíku - 1</title>
+      <title>Slatina: K Lesíku &gt; Dubeč - 1</title>
+      <title>Slavíkova: Kubelíkova &gt; Ondříčkova - 1</title>
+      <title>Slavíkova: Mánesova &gt; Ondříčkova - 1</title>
+      <title>Slavíkova: Mánesova &gt; Vinohradská - 1</title>
+      <title>Slavíkova: Ondříčkova &gt; Kubelíkova - 1</title>
+      <title>Slavíkova: Ondříčkova &gt; Mánesova - 1</title>
+      <title>Slavíkova: Vinohradská &gt; Mánesova - 1</title>
+      <title>Slezská: Blanická &gt; nám. Míru - 1</title>
+      <title>Slezská: Boleslavská &gt; Perunova - 1</title>
+      <title>Slezská: Budečská &gt; Blanická - 1</title>
+      <title>Slezská: Jičínská &gt; Boleslavská - 1</title>
+      <title>Slezská: Perunova &gt; U vodárny - 1</title>
+      <title>Slezská: Šumavská &gt; Budečská - 1</title>
+      <title>Slezská: U vodárny &gt; Šumavská - 1</title>
+      <title>Sliačská: Podle kačerova &gt; Severovýchodní I - 1</title>
+      <title>Sliačská: Severovýchodní I &gt; Podle kačerova - 1</title>
+      <title>Slivenecká: Hlubočepská &gt; K Barrandovu - 1</title>
+      <title>Slivenecká: K Barrandovu &gt; Hlubočepská - 1</title>
+      <title>Smetanovo nábř.: Betlémská &gt; Karoliny Světlé - 1</title>
+      <title>Smetanovo nábř.: Betlémská &gt; Národní - 1</title>
+      <title>Smetanovo nábř.: Karlův most &gt; Karoliny Světlé - 1</title>
+      <title>Smetanovo nábř.: Karoliny Světlé &gt; Betlémská - 1</title>
+      <title>Smetanovo nábř.: Karoliny Světlé &gt; Karlův most - 1</title>
+      <title>Smetanovo nábř.: Národní &gt; Betlémská - 1</title>
+      <title>Smíchovská: Jáhymovská &gt; Jeremiášova - 1</title>
+      <title>Smíchovská: Jáhymovská &gt; Řeporyje-K Třebonicům - 1</title>
+      <title>Smíchovská: Jeremiášova &gt; Jáhymovská - 1</title>
+      <title>Smíchovská: Řeporyje-K Třebonicům &gt; Jáhymovská - 1</title>
+      <title>Soběslavská/Votická: Kouřimská &gt; Šrobárova - 1</title>
+      <title>Soběslavská/Votická: Kouřimská &gt; Vinohradská - 1</title>
+      <title>Soběslavská/Votická: Šrobárova &gt; Kouřimská - 1</title>
+      <title>Soběslavská/Votická: Vinohradská &gt; Kouřimská - 1</title>
+      <title>Sokolovská: Freyova &gt; Na Břehu - 1</title>
+      <title>Sokolovská: K Olympiku &gt; Nad Plynojemem - 1</title>
+      <title>Sokolovská: Kovářská &gt; Na Balabence - 1</title>
+      <title>Sokolovská: Kovářská &gt; poliklinika Vysočany - 1</title>
+      <title>Sokolovská: Na Balabence &gt; Kovářská - 1</title>
+      <title>Sokolovská: Na Balabence &gt; U Balabenky - 1</title>
+      <title>Sokolovská: Na Břehu &gt; Freyova - 1</title>
+      <title>Sokolovská: Na Břehu &gt; poliklinika Vysočany - 1</title>
+      <title>Sokolovská: Nad Plynojemem &gt; K Olympiku - 1</title>
+      <title>Sokolovská: Nad Plynojemem &gt; Palmovka - 1</title>
+      <title>Sokolovská: Palmovka &gt; Pod Plynojemem - 1</title>
+      <title>Sokolovská: Palmovka &gt; U Balabenky - 1</title>
+      <title>Sokolovská: poliklinika Vysočany &gt; Kovářská - 1</title>
+      <title>Sokolovská: poliklinika Vysočany &gt; Na Břehu - 1</title>
+      <title>Sokolovská: U Balabenky &gt; Na Balabence - 1</title>
+      <title>Sokolovská: U Balabenky &gt; Palmovka - 2</title>
+      <title>Sokolská: Fügnerovo nám. &gt; Nuselský most - 1</title>
+      <title>Sokolská: I.P. Pavlova &gt; Rumunská - 1</title>
+      <title>Sokolská: Rumunská &gt; Fügnerovo nám. - 1</title>
+      <title>Sokolská: Žitná &gt; I.P. Pavlova - 1</title>
+      <title>Spálená: Karlovo nám. &gt; Myslíkova - 1</title>
+      <title>Spálená: Lazarská &gt; Myslíkova - 1</title>
+      <title>Spálená: Lazarská &gt; Purkyňova - 1</title>
+      <title>Spálená: Myslíkova &gt; Karlovo nám. - 1</title>
+      <title>Spálená: Myslíkova &gt; Lazarská - 1</title>
+      <title>Spálená: Národní třída &gt; Purkyňova - 1</title>
+      <title>Spálená: Purkyňova &gt; Lazarská - 1</title>
+      <title>Spálená: Purkyňova &gt; Národní třída - 1</title>
+      <title>Spojovací: Českobrodská &gt; Na Balkáně - 1</title>
+      <title>Spojovací: K Žižkovu &gt; Pod šancemi - 1</title>
+      <title>Spojovací: K Žižkovu &gt; Vysočanské nám. - 1</title>
+      <title>Spojovací: Na Balabence &gt; Vysočanské nám. - 1</title>
+      <title>Spojovací: Na Balkáně &gt; Českobrodská - 1</title>
+      <title>Spojovací: Na Balkáně &gt; Pod šancemi - 1</title>
+      <title>Spojovací: Pod šancemi &gt; K Žižkovu - 1</title>
+      <title>Spojovací: Pod šancemi &gt; Na Balkáně - 1</title>
+      <title>Spojovací: Vysočanské nám. &gt; K Žižkovu - 1</title>
+      <title>Spojovací: Vysočanské nám. &gt; Na Balabence - 1</title>
+      <title>Spořická: Čimická &gt; Ústecká - 1</title>
+      <title>Spořická: Šenovská &gt; Ústecká - 1</title>
+      <title>Spořická: Ústecká &gt; Čimická - 1</title>
+      <title>Spořická: Ústecká &gt; Šenovská - 1</title>
+      <title>Spořilovská/D1: Brněnská-nájezd D1 &gt; Chodov-obchodní centrum - 1</title>
+      <title>Spořilovská/D1: Chodov-obchodní centrum &gt; Brněnská-nájezd D1 - 1</title>
+      <title>Spořilovská/D1: Chodov-obchodní centrum &gt; Spořilov - 1</title>
+      <title>Spořilovská/D1: Jižní spojka &gt; sjezd Severní I-Záběhlice - 1</title>
+      <title>Spořilovská/D1: sjezd Severní I-Záběhlice &gt; Türkova - 1</title>
+      <title>Spořilovská/D1: Spořilov &gt; Chodov-obchodní centrum - 1</title>
+      <title>Spořilovská/D1: Spořilov &gt; Türkova - 1</title>
+      <title>Spořilovská/D1: Türkova &gt; Jižní spojka - 1</title>
+      <title>Spořilovská/D1: Türkova &gt; Spořilov - 1</title>
+      <title>Starodejvická: Evropská &gt; U dejvického rybníčku - 1</title>
+      <title>Starodejvická: Na Ořechovce &gt; U dejvického rybníčku - 1</title>
+      <title>Starodejvická: U dejvického rybníčku &gt; Evropská - 1</title>
+      <title>Starodejvická: U dejvického rybníčku &gt; Na Ořechovce - 1</title>
+      <title>Starodubečská: Dubeč-Ke Křížkám &gt; Dubeč-Městská - 1</title>
+      <title>Starodubečská: Dubeč-Městská &gt; Dubeč-Ke Křížkám - 1</title>
+      <title>Starodubečská: Dubeč-Městská &gt; Lipové nám. - 1</title>
+      <title>Starodubečská: Lipové nám. &gt; Dubeč-Městská - 1</title>
+      <title>Starochuchelská: K vápence &gt; Radotínská - 1</title>
+      <title>Starochuchelská: Radotínská &gt; K vápence - 1</title>
+      <title>Staroklánovická: Slavětínská &gt; Novosibřinská - 1</title>
+      <title>Starokolínská (I/12): Českobrodská &gt; Nadějovská - 1</title>
+      <title>Starokolínská (I/12): Českobrodská &gt; Staroklánovická - 1</title>
+      <title>Starokolínská (I/12): Staroklánovická &gt; Českobrodská - 1</title>
+      <title>Stochovská: Drnovská &gt; Ruzyňská - 1</title>
+      <title>Stochovská: Ruzyňská &gt; Drnovská - 1</title>
+      <title>Stochovská: Ruzyňská &gt; Ruzyňská-směr Libocká - 1</title>
+      <title>Stochovská: Ruzyňská-směr Libocká &gt; Ruzyňská - 1</title>
+      <title>Strahovský tunel: Plzeňská &gt; Malovanka - 2</title>
+      <title>Strakonická: Barrandovský most &gt; Zbraslavská - 1</title>
+      <title>Strakonická: Barrandovský most &gt; Zlíchovský tunel - 1</title>
+      <title>Strakonická: Dostihová &gt; Výpadová - 1</title>
+      <title>Strakonická: Hořejší nábřeží &gt; U Královské louky - 1</title>
+      <title>Strakonická: Jílovišťská &gt; Ke Krňovu - 1</title>
+      <title>Strakonická: Ke Krňovu &gt; Jílovišťská - 1</title>
+      <title>Strakonická: Moulíkova &gt; Nádražní - 1</title>
+      <title>Strakonická: Moulíkova &gt; U Královské louky - 1</title>
+      <title>Strakonická: Nádražní &gt; Moulíkova - 1</title>
+      <title>Strakonická: Nádražní &gt; Zlíchovský tunel - 1</title>
+      <title>Strakonická: U Královské louky &gt; Hořejší nábřeží - 1</title>
+      <title>Strakonická: U Královské louky &gt; Moulíkova - 1</title>
+      <title>Strakonická: Výpadová &gt; Mezichuchelská - 2</title>
+      <title>Strakonická: Výpadová &gt; Zbraslav - 1</title>
+      <title>Strakonická: Zbraslav &gt; Výpadová - 1</title>
+      <title>Strakonická: Zbraslav &gt; Zbraslav-západ - 1</title>
+      <title>Strakonická: Zbraslavská &gt; Barrandovský most - 1</title>
+      <title>Strakonická: Zbraslavská &gt; Dostihová - 1</title>
+      <title>Strakonická: Zbraslav-západ &gt; Zbraslav - 1</title>
+      <title>Strakonická: Zlíchovský tunel &gt; Barrandovský most - 1</title>
+      <title>Strakonická: Zlíchovský tunel &gt; Nádražní - 1</title>
+      <title>Strojírenská: Engelmüllerova &gt; Hrozenkovská - 1</title>
+      <title>Strojírenská: Hrozenkovská &gt; Engelmüllerova - 1</title>
+      <title>Strojnická: U Výstaviště &gt; Bubenská - 1</title>
+      <title>Strojnická: U Výstaviště &gt; Veletžní - 1</title>
+      <title>Strojnická: Veletžní &gt; U Výstaviště - 1</title>
+      <title>Střelničná: Čumpelíkova &gt; Davídkova - 1</title>
+      <title>Střelničná: Čumpelíkova &gt; Klapkova - 1</title>
+      <title>Střelničná: Ďáblická &gt; Davídkova - 1</title>
+      <title>Střelničná: Ďáblická &gt; Rochlická - 1</title>
+      <title>Střelničná: Davídkova &gt; Čumpelíkova - 1</title>
+      <title>Střelničná: Davídkova &gt; Ďáblická - 1</title>
+      <title>Střelničná: Klapkova &gt; Čumpelíkova - 1</title>
+      <title>Střelničná: Klapkova &gt; Kobyliské nám. - 1</title>
+      <title>Střelničná: Kobyliské nám. &gt; Klapkova - 1</title>
+      <title>Střelničná: Levínská &gt; Rochlická - 1</title>
+      <title>Střelničná: Rochlická &gt; Ďáblická - 1</title>
+      <title>Střelničná: Rochlická &gt; Levínská - 1</title>
+      <title>Střešovická: Patočkova &gt; V průhledu - 1</title>
+      <title>Střešovická: V průhledu &gt; Patočkova - 1</title>
+      <title>Sulická: Jižní spojka &gt; U krčského nádraží - 1</title>
+      <title>Sulická: Matek &gt; U krčského nádraží - 1</title>
+      <title>Sulická: U krčského nádraží &gt; Jižní spojka - 1</title>
+      <title>Sulická: U krčského nádraží &gt; Matek - 1</title>
+      <title>Svatovítská: Generála Píky &gt; Milady Horákové - 1</title>
+      <title>Svatovítská: Generála Píky &gt; Vítězné nám. - 1</title>
+      <title>Svatovítská: Milady Horákové &gt; Generála Píky - 1</title>
+      <title>Svatovítská: Vítězné nám. &gt; Generála Píky - 1</title>
+      <title>Svobodova: Na slupi &gt; Vyšehradská - 1</title>
+      <title>Svobodova: Vyšehradská &gt; Na slupi - 1</title>
+      <title>Svobodova: Vyšehradská &gt; Výtoň - 1</title>
+      <title>Svobodova: Výtoň &gt; Vyšehradská - 1</title>
+      <title>Svornosti: Lidická &gt; Vltavská - 1</title>
+      <title>Svornosti: Vltavská &gt; Strakonická - 1</title>
+      <title>Šafránecká: Kukulova &gt; Motolská - 1</title>
+      <title>Šafránecká: Motolská &gt; Kukulova - 1</title>
+      <title>Šaldova: Permerova &gt; Sokolovská - 1</title>
+      <title>Šaldova: Rohanské nábřeží &gt; Sokolovská - 1</title>
+      <title>Šaldova: Sokolovská &gt; Permerova - 1</title>
+      <title>Šaldova: Sokolovská &gt; Rohanské nábřeží - 1</title>
+      <title>Šárecká: Evropská &gt; Na pískách - 1</title>
+      <title>Šárecká: Matějská &gt; Na pískách - 1</title>
+      <title>Šárecká: Na pískách &gt; Evropská - 1</title>
+      <title>Šárecká: Na pískách &gt; Matějská - 1</title>
+      <title>Šenovská: Ďáblická &gt; Spořická - 1</title>
+      <title>Šenovská: Spořická &gt; Ďáblická - 1</title>
+      <title>Štefánikova: Arbesovo nám. &gt; Kartouzská - 1</title>
+      <title>Štefánikova: Arbesovo nám. &gt; nám. Kinských - 1</title>
+      <title>Štefánikova: Kartouzská &gt; Arbesovo nám. - 1</title>
+      <title>Štefánikova: Kartouzská &gt; nám. 14. října - 2</title>
+      <title>Štefánikova: Lidická &gt; nám. 14. října - 1</title>
+      <title>Štefánikova: nám. 14. října &gt; Lidická - 1</title>
+      <title>Štefánikova: nám. Kinských &gt; Arbesovo nám. - 1</title>
+      <title>Štefánikův most: nábř. Kapitána Jaroše &gt; Revoluční - 1</title>
+      <title>Štefánikův most: Revoluční &gt; nábř. Kapitána Jaroše - 1</title>
+      <title>Štěpánská: Ječná &gt; Žitná - 1</title>
+      <title>Štěpánská: Žitná &gt; Ječná - 1</title>
+      <title>Štěpánská: Žitná &gt; Václavské nám. - 1</title>
+      <title>Štěrboholská spojka: Běchovice &gt; sjezd Štěrboholy - 2</title>
+      <title>Štěrboholská spojka: Průmyslová &gt; sjezd Štěrboholy - 1</title>
+      <title>Štěrboholská spojka: sjezd Štěrboholy &gt; Běchovice - 1</title>
+      <title>Štěrboholská spojka: sjezd Štěrboholy &gt; Průmyslová - 2</title>
+      <title>Štorchova: Libeňský most &gt; Voctářova - 1</title>
+      <title>Štorchova: Voctářova &gt; Libeňský most - 1</title>
+      <title>Štúrova: Pod Višňovkou &gt; Zálesí - 1</title>
+      <title>Štúrova: V Štíhlách &gt; Zálesí - 1</title>
+      <title>Štúrova: Zálesí &gt; Pod Višňovkou - 1</title>
+      <title>Štúrova: Zálesí &gt; V Štíhlách - 1</title>
+      <title>Štychova: Křeslice &gt; Pitkovice - 1</title>
+      <title>Štychova: Křeslice &gt; Prtrovice - 1</title>
+      <title>Štychova: Pitkovice &gt; Křeslice - 1</title>
+      <title>Štychova: Prtrovice &gt; Křeslice - 1</title>
+      <title>Švehlova: Jahodová &gt; Práčská - 1</title>
+      <title>Švehlova: Jahodová &gt; Topolová - 1</title>
+      <title>Švehlova: Jižní spojka &gt; Topolová - 1</title>
+      <title>Švehlova: Práčská &gt; Jahodová - 1</title>
+      <title>Švehlova: Práčská &gt; Pražská - 1</title>
+      <title>Švehlova: Pražská &gt; Práčská - 1</title>
+      <title>Švehlova: Pražská &gt; Průmyslová - 1</title>
+      <title>Švehlova: Průmyslová &gt; Pražská - 1</title>
+      <title>Švehlova: Topolová &gt; Jahodová - 1</title>
+      <title>Švehlova: Topolová &gt; Jižní spojka - 1</title>
+      <title>Táboritská: Lipanská &gt; Ondříčkova - 1</title>
+      <title>Táboritská: Olšanské nám. &gt; Ondříčkova - 1</title>
+      <title>Táboritská: Ondříčkova &gt; Lipanská - 1</title>
+      <title>Táboritská: Ondříčkova &gt; Olšanské nám. - 1</title>
+      <title>Táborská: Lounských &gt; Pražského povstání - 1</title>
+      <title>Táborská: Lounských &gt; Sezimova - 1</title>
+      <title>Táborská: Nuselská &gt; Sezimova - 3</title>
+      <title>Táborská: Pražského povstání &gt; Lounských - 1</title>
+      <title>Táborská: Sezimova &gt; Lounských - 1</title>
+      <title>Táborská: Sezimova &gt; Nuselská - 1</title>
+      <title>Teplická: Litoměřická &gt; Vysočanská - 1</title>
+      <title>Teplická: Vysočanská &gt; Litoměřická - 1</title>
+      <title>Terronská: nám. Svobody &gt; Rooseveltova - 1</title>
+      <title>Terronská: Podbabská &gt; Zelená - 1</title>
+      <title>Terronská: Rooseveltova &gt; nám. Svobody - 1</title>
+      <title>Terronská: Rooseveltova &gt; Zelená - 1</title>
+      <title>Terronská: Zelená &gt; Podbabská - 1</title>
+      <title>Terronská: Zelená &gt; Rooseveltova - 1</title>
+      <title>Těšnovský tunel: Holbova/Klimentská &gt; Ke Štvanici - 1</title>
+      <title>Těšnovský tunel: Ke Štvanici &gt; Holbova/Klimentská - 1</title>
+      <title>Tiskařská/Teplárenská: Průmyslová &gt; Sazečská - 1</title>
+      <title>Tiskařská/Teplárenská: Sazečská &gt; Průmyslová - 1</title>
+      <title>Tomanova: Bělohorská &gt; Skokanská - 1</title>
+      <title>Tomanova: Skokanská &gt; Bělohorská - 1</title>
+      <title>Tomáškova: Plzeňská &gt; Duškova - 1</title>
+      <title>Topolová: Jabloňová &gt; Práčská - 1</title>
+      <title>Topolová: Jabloňová &gt; Švehlova - 1</title>
+      <title>Topolová: Práčská &gt; Jabloňová - 1</title>
+      <title>Topolová: Švehlova &gt; Jabloňová - 1</title>
+      <title>Toužimská: odb. Mladoboleslavská &gt; Beranových - 1</title>
+      <title>Toužimská: odb. Mladoboleslavská &gt; Semilská - 1</title>
+      <title>Trabantská: Hornopočernická &gt; Satalice - 1</title>
+      <title>Trabantská: Satalice &gt; Hornopočernická - 1</title>
+      <title>Trojanova: Gorazdova &gt; Rašínovo nábř. - 1</title>
+      <title>Trojská: Pod Havránkou &gt; Pod Hrachovkou - 1</title>
+      <title>Trojská: Pod Havránkou &gt; Pod Lisem - 1</title>
+      <title>Třístoličná: Nad Klikovkou &gt; Podbělohorská - 1</title>
+      <title>Třístoličná: Podbělohorská &gt; Nad Klikovkou - 1</title>
+      <title>Tuchoměřická: Nebušice &gt; odb. Přední Kopanina - 1</title>
+      <title>Tuchoměřická: odb. Přední Kopanina &gt; Nebušice - 1</title>
+      <title>tunel Mrázovka: Dobříšská &gt; odb. Radlická - 1</title>
+      <title>tunel Mrázovka: Plzeňská &gt; odb. Radlická - 1</title>
+      <title>Tupolevova: Beranových &gt; Prosecká - 1</title>
+      <title>Tupolevova: Beranových &gt; Rýmařovská - 1</title>
+      <title>Tupolevova: Kostelecká &gt; Veselská - 1</title>
+      <title>Tupolevova: Křivoklátská &gt; Rýmařovská - 1</title>
+      <title>Tupolevova: Křivoklátská &gt; Veselská - 1</title>
+      <title>Tupolevova: Prosecká &gt; Beranových - 1</title>
+      <title>Tupolevova: Rýmařovská &gt; Beranových - 1</title>
+      <title>Tupolevova: Rýmařovská &gt; Křivoklátská - 1</title>
+      <title>Tupolevova: Veselská &gt; Kostelecká - 1</title>
+      <title>Tupolevova: Veselská &gt; Křivoklátská - 1</title>
+      <title>Turistická: Na Hřebenkách &gt; Pod stadiony - 1</title>
+      <title>Turistická: Pod stadiony &gt; Na Hřebenkách - 1</title>
+      <title>Türkova: 5. května &gt; Spořilovská - 1</title>
+      <title>Türkova: Květnového vítězství &gt; Litochlebské nám. - 1</title>
+      <title>Türkova: Květnového vítězství &gt; V Benátkách-Starochodovská - 1</title>
+      <title>Türkova: Litochlebské nám. &gt; Květnového vítězství - 1</title>
+      <title>Türkova: Mírového hnutí &gt; Spořilovská - 1</title>
+      <title>Türkova: Mírového hnutí &gt; V Benátkách-Starochodovská - 1</title>
+      <title>Türkova: Spořilovská &gt; 5. května - 1</title>
+      <title>Türkova: Spořilovská &gt; Mírového hnutí - 1</title>
+      <title>Türkova: V Benátkách-Starochodovská &gt; Květnového vítězství - 1</title>
+      <title>Türkova: V Benátkách-Starochodovská &gt; Mírového hnutí - 1</title>
+      <title>U Bruských kasáren: nábř. Edvarda Beneše &gt; Chotkova - 1</title>
+      <title>U Brusnice: Jelení &gt; Patočkova - 1</title>
+      <title>U Brusnice: Patočkova &gt; Jelení - 1</title>
+      <title>U Hvězdy: Heyrovského nám. &gt; Na Vypichu - 1</title>
+      <title>U Hvězdy: Na Vypichu &gt; Heyrovského nám. - 1</title>
+      <title>U Kamýku: Durychova &gt; Lhotecká - 1</title>
+      <title>U Kamýku: Lhotecká &gt; Durychova - 1</title>
+      <title>U koupadel: Mariánská &gt; Nad koupadly - 1</title>
+      <title>U koupadel: Nad koupadly &gt; Mariánská - 1</title>
+      <title>U Královské louky: Nádražní &gt; Strakonická - 1</title>
+      <title>U Královské louky: Strakonická &gt; Nádražní - 1</title>
+      <title>U krčského nádraží: Sulická &gt; Vídeňská - 1</title>
+      <title>U krčského nádraží: Vídeňská &gt; Sulická - 1</title>
+      <title>U Kunratického lesa: K Veteránům &gt; Kunratická spojka - 1</title>
+      <title>U Kunratického lesa: K Veteránům &gt; Roztylská - 1</title>
+      <title>U Kunratického lesa: Kunratická spojka &gt; K Veteránům - 1</title>
+      <title>U Kunratického lesa: Roztylská &gt; K Veteránům - 1</title>
+      <title>U nákladového nádraží: Jana Želivského &gt; K Černému dvoru - 1</title>
+      <title>U nákladového nádraží: K Černému dvoru &gt; Jana Želivského - 1</title>
+      <title>U nákladového nádraží: K Černému dvoru &gt; Malešická - 1</title>
+      <title>U nákladového nádraží: Malešická &gt; K Černému dvoru - 1</title>
+      <title>U plynárny: Chodovská &gt; Nuselská - 1</title>
+      <title>U plynárny: Nuselská &gt; Chodovská - 1</title>
+      <title>U Rajské zahrady: Havelkova &gt; Kubelíkova - 1</title>
+      <title>U Rajské zahrady: Kubelíkova &gt; Havelkova - 1</title>
+      <title>U Seřadiště: Bartoškova &gt; Moskevská - 1</title>
+      <title>U Seřadiště: Moskevská &gt; Bartoškova - 1</title>
+      <title>U Slavie: FK Slavia &gt; Vršovická - 1</title>
+      <title>U Slavie: Vršovická &gt; FK Slavia - 1</title>
+      <title>U smíchovskkého hřbitova: K Vodojemu &gt; Xavierova - 1</title>
+      <title>U smíchovskkého hřbitova: Peroutkova &gt; U Malvazinky - 1</title>
+      <title>U smíchovskkého hřbitova: U Malvazinky &gt; Peroutkova - 1</title>
+      <title>U smíchovskkého hřbitova: Xavierova &gt; K Vodojemu - 1</title>
+      <title>U smíchovskkého hřbitova: Xavierova &gt; U Malvazinky - 1</title>
+      <title>U továren: Dolnoměcholupská &gt; Průmyslová - 1</title>
+      <title>U továren: Průmyslová &gt; Dolnoměcholupská - 1</title>
+      <title>U Uranie: Jankovcova &gt; Ortenovo nám. - 1</title>
+      <title>U Uranie: Ortenovo nám. &gt; Jankovcova - 1</title>
+      <title>U vršovického hřbitova: Bohdalecká-Moskevská &gt; FK Slavia - 1</title>
+      <title>U vršovického hřbitova: FK Slavia &gt; Bohdalecká-Moskevská - 1</title>
+      <title>U Výstaviště: Strojnická &gt; T-Mobile Arena - 1</title>
+      <title>U Výstaviště: T-Mobile Arena &gt; Strojnická - 1</title>
+      <title>U zdravotního ústavu: Benešovská &gt; Šrobárova - 1</title>
+      <title>U zdravotního ústavu: Šrobárova &gt; Benešovská - 2</title>
+      <title>Údolní: Psohlavců &gt; Vavřenova - 1</title>
+      <title>Údolní: Vavřenova &gt; Psohlavců - 1</title>
+      <title>Újezd: Karmelitská &gt; Vítězná - 1</title>
+      <title>Újezd: nám. Kinských &gt; Vítězná - 1</title>
+      <title>Újezd: Vítězná &gt; Karmelitská - 2</title>
+      <title>Újezd: Vítězná &gt; nám. Kinských - 1</title>
+      <title>Ústecká: hranice hl. m. Prahy &gt; Spořická - 1</title>
+      <title>Ústecká: K Ládví &gt; Spořická - 1</title>
+      <title>Ústecká: Spořická &gt; hranice hl. m. Prahy - 1</title>
+      <title>Ústecká: Spořická &gt; K Ládví - 1</title>
+      <title>Ústřední: Černokostelecká &gt; Nedokončená - 1</title>
+      <title>Ústřední: K Lesíku &gt; Nedokončená - 1</title>
+      <title>Ústřední: K Lesíku &gt; Štěrboholská spojka - 1</title>
+      <title>Ústřední: Nedokončená &gt; Černokostelecká - 1</title>
+      <title>Ústřední: Nedokončená &gt; K Lesíku - 1</title>
+      <title>Ústřední: Štěrboholská spojka &gt; K Lesíku - 1</title>
+      <title>Úvalská: Černokostelecká &gt; V olšinách - 1</title>
+      <title>Úvalská: Štěchovická &gt; V olšinách - 1</title>
+      <title>Úvalská: V olšinách &gt; Černokostelecká - 1</title>
+      <title>Úvalská: V olšinách &gt; Štěchovická - 1</title>
+      <title>V Botanice: Jiráskův most &gt; Zborovská - 1</title>
+      <title>V Botanice: Preslova &gt; Štefánikova - 1</title>
+      <title>V Botanice: Zborovská &gt; Preslova - 1</title>
+      <title>V dolích: K Homolce &gt; K vápence - 1</title>
+      <title>V dolích: K vápence &gt; K Homolce - 1</title>
+      <title>V Hodkovičkách: Modřanská &gt; Psohlavců - 1</title>
+      <title>V Hodkovičkách: Psohlavců &gt; Modřanská - 1</title>
+      <title>V Holešovičkách: Liberecká &gt; most Barikádníků - 2</title>
+      <title>V Holešovičkách: most Barikádníků &gt; Liberecká - 1</title>
+      <title>V Horkách: Bartoškova &gt; Nuselská - 1</title>
+      <title>V Horkách: Nuselská &gt; Bartoškova - 1</title>
+      <title>V korytech: Jabloňová &gt; Jižní spojka - 1</title>
+      <title>V korytech: Jižní spojka &gt; Jabloňová - 1</title>
+      <title>V korytech: Jižní spojka &gt; Průběžná - 1</title>
+      <title>V korytech: Průběžná &gt; Jižní spojka - 1</title>
+      <title>V olšinách: Kubánské nám. &gt; Ruská - 1</title>
+      <title>V olšinách: Průběžná &gt; Ruská - 1</title>
+      <title>V olšinách: Průběžná &gt; Solidarity - 1</title>
+      <title>V olšinách: Ruská &gt; Kubánské nám. - 1</title>
+      <title>V olšinách: Ruská &gt; Průběžná - 1</title>
+      <title>V olšinách: Solidarity &gt; Průběžná - 1</title>
+      <title>V olšinách: Solidarity &gt; Úvalská - 1</title>
+      <title>V olšinách: Úvalská &gt; Solidarity - 1</title>
+      <title>V průhledu: Na Ořechovce &gt; Střešovická - 1</title>
+      <title>V průhledu: Střešovická &gt; Na Ořechovce - 1</title>
+      <title>V rovinách: Jeremenkova &gt; Pujmanové - 1</title>
+      <title>V rovinách: K sídlišti &gt; Pod Pekařkou - 1</title>
+      <title>V rovinách: Pod Pekařkou &gt; K sídlišti - 1</title>
+      <title>V rovinách: Pujmanové &gt; Jeremenkova - 1</title>
+      <title>V rovinách: Pujmanové &gt; V rovinách - 1</title>
+      <title>V rovinách: V rovinách &gt; Pod Pekařkou - 1</title>
+      <title>V rovinách: V rovinách &gt; Pujmanové - 1</title>
+      <title>V Šáreckém údolí: Horoměřická &gt; Lysolaje - 1</title>
+      <title>V Šáreckém údolí: Lysolaje &gt; Horoměřická - 1</title>
+      <title>V úvalu: Weberova &gt; Zahradníčkova - 1</title>
+      <title>V úvalu: Zahradníčkova &gt; Weberova - 1</title>
+      <title>V zápolí: Michelská &gt; Pekárenská - 1</title>
+      <title>V zápolí: Na lánech &gt; Na záhonech - 1</title>
+      <title>V zápolí: Na záhonech &gt; Pekárenská - 1</title>
+      <title>V zápolí: Pekárenská &gt; Michelská - 1</title>
+      <title>Václavské nám.: Jindřišská &gt; Štěpánská - 1</title>
+      <title>Václavské nám.: Krakovská &gt; Mezibranská - 1</title>
+      <title>Václavské nám.: Opletalova &gt; Jindřišská - 1</title>
+      <title>Václavské nám.: Štěpánská &gt; Krakovská - 1</title>
+      <title>Václavské nám.: Wilsonova &gt; Opletalova - 1</title>
+      <title>Valdštejnská/Tomášská: Klárov &gt; Valdštejnské nám. - 1</title>
+      <title>Valdštejnská/Tomášská: Valdštejnské nám. &gt; Malostranské nám. - 2</title>
+      <title>Vaníčkova: Atletická &gt; Pod stadiony - 1</title>
+      <title>Vaníčkova: Atletická &gt; stadion Strahov - 1</title>
+      <title>Vaníčkova: Bělohorská &gt; Diskařská - 1</title>
+      <title>Vaníčkova: Diskařská &gt; Bělohorská - 1</title>
+      <title>Vaníčkova: Diskařská &gt; stadion Strahov - 1</title>
+      <title>Vaníčkova: Pod stadiony &gt; Atletická - 1</title>
+      <title>Vaníčkova: stadion Strahov &gt; Atletická - 1</title>
+      <title>Vaníčkova: stadion Strahov &gt; Diskařská - 1</title>
+      <title>Vavřenova: Filosofská &gt; Na výspě - 1</title>
+      <title>Vavřenova: Na výspě &gt; Filosofská - 1</title>
+      <title>Vavřenova: Na výspě &gt; Údolní - 1</title>
+      <title>Vavřenova: Novodvorská &gt; Údolní - 1</title>
+      <title>Vavřenova: Údolní &gt; Na výspě - 1</title>
+      <title>Vavřenova: Údolní &gt; Novodvorská - 1</title>
+      <title>Ve Žlíbku: Božanovská &gt; Českobrodská - 1</title>
+      <title>Ve Žlíbku: Božanovská &gt; Náchodská - 1</title>
+      <title>Ve Žlíbku: Českobrodská &gt; Božanovská - 1</title>
+      <title>Ve Žlíbku: Náchodská &gt; Božanovská - 1</title>
+      <title>Ve Žlíbku: Náchodská &gt; Radonice - 1</title>
+      <title>Ve Žlíbku: Radonice &gt; Náchodská - 1</title>
+      <title>Veletržní: Bubenská &gt; Dukelských hrdinů - 1</title>
+      <title>Veletržní: Dukelských hrdinů &gt; Bubenská - 1</title>
+      <title>Veletržní: Dukelských hrdinů &gt; Fraňtiška Křížka - 1</title>
+      <title>Veletržní: Fraňtiška Křížka &gt; Dukelských hrdinů - 1</title>
+      <title>Veletržní: Fraňtiška Křížka &gt; Strojnická - 1</title>
+      <title>Veletržní: Milady Hrákové &gt; Letenské nám. - 1</title>
+      <title>Veletržní: Milady Hrákové &gt; Strojnická - 1</title>
+      <title>Veletržní: Strojnická &gt; Fraňtiška Křížka - 1</title>
+      <title>Veletržní: Strojnická &gt; Milady Hrákové - 1</title>
+      <title>Veselská: Beranových &gt; Tupolevova - 1</title>
+      <title>Veselská: Kbelská &gt; Letňany - 1</title>
+      <title>Veselská: Kbelská &gt; Liberecká - 1</title>
+      <title>Veselská: Letňany &gt; Kbelská - 1</title>
+      <title>Veselská: Letňany &gt; Tupolevova - 1</title>
+      <title>Veselská: Liberecká &gt; Kbelská - 1</title>
+      <title>Veselská: Tupolevova &gt; Beranových - 1</title>
+      <title>Veselská: Tupolevova &gt; Letňany - 1</title>
+      <title>Vídeňská: Dobronická/K Libuši &gt; K Zeleným domkům - 1</title>
+      <title>Vídeňská: Dobronická/K Libuši &gt; Pod javory - 1</title>
+      <title>Vídeňská: hranice hl. m. Prahy &gt; Kunratická spojka - 1</title>
+      <title>Vídeňská: Jalodvorská &gt; K Zeleným domkům - 1</title>
+      <title>Vídeňská: Jalodvorská &gt; V Štíhlách - 1</title>
+      <title>Vídeňská: Jižní spojka &gt; U krčského nádraží - 1</title>
+      <title>Vídeňská: K Zeleným domkům &gt; Dobronická/K Libuši - 1</title>
+      <title>Vídeňská: K Zeleným domkům &gt; Jalodvorská - 1</title>
+      <title>Vídeňská: Kunratická spojka &gt; Pod javory - 1</title>
+      <title>Vídeňská: Pod javory &gt; Dobronická/K Libuši - 1</title>
+      <title>Vídeňská: Pod javory &gt; Kunratická spojka - 1</title>
+      <title>Vídeňská: U krčského nádraží &gt; Jižní spojka - 1</title>
+      <title>Vídeňská: U krčského nádraží &gt; Zálesí - 1</title>
+      <title>Vídeňská: V Štíhlách &gt; Jalodvorská - 1</title>
+      <title>Vídeňská: V Štíhlách &gt; Zálesí - 1</title>
+      <title>Vídeňská: Zálesí &gt; U krčského nádraží - 1</title>
+      <title>Vídeňská: Zálesí &gt; V Štíhlách - 1</title>
+      <title>Vinohradská: Blanická &gt; Budečská - 1</title>
+      <title>Vinohradská: Blanická &gt; Italská - 2</title>
+      <title>Vinohradská: Boleslavská &gt; Jičínská - 1</title>
+      <title>Vinohradská: Boleslavská &gt; Kolínská - 1</title>
+      <title>Vinohradská: Budečská &gt; Blanická - 1</title>
+      <title>Vinohradská: Budečská &gt; Třebízského - 1</title>
+      <title>Vinohradská: Italská &gt; Blanická - 1</title>
+      <title>Vinohradská: Italská &gt; Legerova - 4</title>
+      <title>Vinohradská: Jičínská &gt; Boleslavská - 1</title>
+      <title>Vinohradská: Jičínská &gt; nám. Jiřího z Lobkovic - 1</title>
+      <title>Vinohradská: Kolínská &gt; Boleslavská - 1</title>
+      <title>Vinohradská: Kolínská &gt; Perunova - 1</title>
+      <title>Vinohradská: Legerova &gt; Italská - 1</title>
+      <title>Vinohradská: Legerova &gt; Wilsonova - 1</title>
+      <title>Vinohradská: Na Palouku &gt; Počernická - 1</title>
+      <title>Vinohradská: nám. Jiřího z Lobkovic &gt; Jičínská - 1</title>
+      <title>Vinohradská: nám. Jiřího z Lobkovic &gt; Votická - 1</title>
+      <title>Vinohradská: Perunova &gt; Kolínská - 1</title>
+      <title>Vinohradská: Perunova &gt; Řípská - 1</title>
+      <title>Vinohradská: Počernická &gt; Na Palouku - 1</title>
+      <title>Vinohradská: Počernická &gt; Votická - 1</title>
+      <title>Vinohradská: Řípská &gt; Perunova - 1</title>
+      <title>Vinohradská: Řípská &gt; Slavíkova - 1</title>
+      <title>Vinohradská: Slavíkova &gt; Řípská - 1</title>
+      <title>Vinohradská: Slavíkova &gt; Třebízského - 1</title>
+      <title>Vinohradská: Třebízského &gt; Budečská - 1</title>
+      <title>Vinohradská: Třebízského &gt; Slavíkova - 1</title>
+      <title>Vinohradská: Votická &gt; nám. Jiřího z Lobkovic - 1</title>
+      <title>Vinohradská: Votická &gt; Počernická - 1</title>
+      <title>Vinohradská: Wilsonova &gt; Legerova - 1</title>
+      <title>Vítězná: Janáčkovo nábř. &gt; Zborovská - 1</title>
+      <title>Vítězná: Újezd &gt; Zborovská - 1</title>
+      <title>Vítězná: Zborovská &gt; Janáčkovo nábř. - 1</title>
+      <title>Vítězná: Zborovská &gt; Újezd - 1</title>
+      <title>Vltavská: Nádražní &gt; Svornosti - 1</title>
+      <title>Vltavská: Svornosti &gt; Hořejší nábřeží - 1</title>
+      <title>Vnislavova: Čiklova &gt; Libušina - 1</title>
+      <title>Vnislavova: Libušina &gt; Čiklova - 1</title>
+      <title>Vnislavova: Libušina &gt; Rašínovo nábř. - 1</title>
+      <title>Vnislavova: Rašínovo nábř. &gt; Libušina - 1</title>
+      <title>Voctářova/Švábky: Elsnicovo nám. &gt; Libeňský most - 1</title>
+      <title>Voctářova/Švábky: Libeňský most &gt; Elsnicovo nám. - 1</title>
+      <title>Voctářova/Švábky: Libeňský most &gt; Štorchova - 1</title>
+      <title>Voctářova/Švábky: Rohanské nábřeží &gt; Štorchova - 1</title>
+      <title>Voctářova/Švábky: Štorchova &gt; Libeňský most - 1</title>
+      <title>Voctářova/Švábky: Štorchova &gt; Rohanské nábřeží - 1</title>
+      <title>Vosmíkových: Zenklova &gt; nám. Na Stráži - 1</title>
+      <title>Vrážská: Karlická &gt; Na betonce - 1</title>
+      <title>Vrážská: Na betonce &gt; Karlická - 1</title>
+      <title>Vrážská: Na betonce &gt; Přeštínská - 1</title>
+      <title>Vrážská: Přeštínská &gt; Na betonce - 1</title>
+      <title>Vrbenského: Bondyho &gt; Partyzánská - 1</title>
+      <title>Vrbenského: Ortenovo nám. &gt; Bondyho - 1</title>
+      <title>Vrbenského: Partyzánská &gt; Bondyho - 1</title>
+      <title>Vrbova: Branické nám. &gt; Ve studeném - 1</title>
+      <title>Vrbova: Vavřenova &gt; Ve studeném - 1</title>
+      <title>Vrbova: Ve studeném &gt; Branické nám. - 1</title>
+      <title>Vrbova: Ve studeném &gt; Vavřenova - 1</title>
+      <title>Vrchlického: Jinonická &gt; Prachnerova - 1</title>
+      <title>Vrchlického: Plzeňská &gt; Jinonická - 1</title>
+      <title>Vrchlického: Prachnerova &gt; Erbenova/Malostranský hřbitov - 1</title>
+      <title>Vršovická: Bělehradská &gt; U vršovického nádraží - 1</title>
+      <title>Vršovická: Kodaňská &gt; Moskevská - 1</title>
+      <title>Vršovická: Kodaňská &gt; U Slavie - 1</title>
+      <title>Vršovická: Kubánské nám. &gt; U Slavie - 1</title>
+      <title>Vršovická: Moskevská &gt; Kodaňská - 1</title>
+      <title>Vršovická: Moskevská &gt; Sportovní - 1</title>
+      <title>Vršovická: Petrohradská &gt; Sportovní - 1</title>
+      <title>Vršovická: Petrohradská &gt; U vršovického nádraží - 1</title>
+      <title>Vršovická: Sportovní &gt; Moskevská - 1</title>
+      <title>Vršovická: Sportovní &gt; Petrohradská - 1</title>
+      <title>Vršovická: U Slavie &gt; Kodaňská - 1</title>
+      <title>Vršovická: U Slavie &gt; Kubánské nám. - 1</title>
+      <title>Vršovická: U vršovického nádraží &gt; Bělehradská - 1</title>
+      <title>Vršovická: U vršovického nádraží &gt; Petrohradská - 1</title>
+      <title>Vyskočilova: 5. května &gt; Budějovická - 1</title>
+      <title>Vyskočilova: 5. května &gt; Michelská - 1</title>
+      <title>Vyskočilova: Budějovická &gt; 5. května - 1</title>
+      <title>Vyskočilova: Michelská &gt; 5. května - 1</title>
+      <title>Vysočanská radiála: Satalice &gt; Satalice-východ - 1</title>
+      <title>Vysočanská radiála: Satalice-východ &gt; Satalice - 1</title>
+      <title>Vysočanská radiála: Satalice-východ &gt; Vysočanská - 1</title>
+      <title>Vysočanská radiála: Vysočanská &gt; Satalice-východ - 1</title>
+      <title>Vysočanská: Jiřetínská &gt; Litoměřická - 1</title>
+      <title>Vysočanská: Jiřetínská &gt; Lovosická - 1</title>
+      <title>Vysočanská: Ke Klíčovu &gt; Na Krocínce - 1</title>
+      <title>Vysočanská: Ke Klíčovu &gt; Sokolovská - 1</title>
+      <title>Vysočanská: Levínská &gt; Lovosická - 1</title>
+      <title>Vysočanská: Litoměřická &gt; Jiřetínská - 1</title>
+      <title>Vysočanská: Litoměřická &gt; Prosecká - 1</title>
+      <title>Vysočanská: Lovosická &gt; Jiřetínská - 1</title>
+      <title>Vysočanská: Lovosická &gt; Levínská - 1</title>
+      <title>Vysočanská: Na Krocínce &gt; Ke Klíčovu - 1</title>
+      <title>Vysočanská: Na Krocínce &gt; Nad Krocínkou - 1</title>
+      <title>Vysočanská: Nad Krocínkou &gt; Na Krocínce - 1</title>
+      <title>Vysočanská: Nad Krocínkou &gt; Prosecká - 1</title>
+      <title>Vysočanská: Prosecká &gt; Litoměřická - 1</title>
+      <title>Vysočanská: Prosecká &gt; Nad Krocínkou - 1</title>
+      <title>Vysočanská: Sokolovská &gt; Ke Klíčovu - 1</title>
+      <title>Výstavní: Hviezdoslavova &gt; Květnového vítězství - 1</title>
+      <title>Výstavní: Hviezdoslavova &gt; Opatovská - 1</title>
+      <title>Výstavní: Květnového vítězství &gt; Hviezdoslavova - 1</title>
+      <title>Výstavní: Opatovská &gt; Hviezdoslavova - 1</title>
+      <title>Vyšehradská: Benátská &gt; Botičská - 1</title>
+      <title>Vyšehradská: Benátská &gt; Karlovo nám. - 1</title>
+      <title>Vyšehradská: Botičská &gt; Benátská - 1</title>
+      <title>Vyšehradská: Botičská &gt; Svobodova - 1</title>
+      <title>Vyšehradská: Karlovo nám. &gt; Benátská - 1</title>
+      <title>Vyšehradská: Svobodova &gt; Botičská - 1</title>
+      <title>Vyšehradská: Svobodova &gt; Vnislavova - 1</title>
+      <title>Vyšehradská: Vnislavova &gt; Svobodova - 1</title>
+      <title>Weberova: Kotlářka &gt; Roentgenova - 1</title>
+      <title>Weberova: Roentgenova &gt; Kotlářka - 1</title>
+      <title>Weberova: Roentgenova &gt; V úvalu - 1</title>
+      <title>Weberova: V úvalu &gt; Roentgenova - 1</title>
+      <title>Wilsonova: Bulhar &gt; Hlavní nádraží - 2</title>
+      <title>Wilsonova: Bulhar &gt; Klimentská - 1</title>
+      <title>Wilsonova: Hlavní nádraží &gt; Bulhar - 1</title>
+      <title>Wilsonova: Hlavní nádraží &gt; Václavské nám.-nájezd - 2</title>
+      <title>Wilsonova: Klimentská &gt; Bulhar - 1</title>
+      <title>Wolkerova: nám. Pod Kaštany &gt; Sibiřské nám. - 1</title>
+      <title>Wolkerova: Sibiřské nám. &gt; nám. Pod Kaštany - 1</title>
+      <title>Za viaduktem: Argentinská &gt; nábř. Kapitána Jaroše - 1</title>
+      <title>Za Ženskými domovy: Nádražní &gt; Radlická - 1</title>
+      <title>Za Ženskými domovy: Radlická &gt; Nádražní - 1</title>
+      <title>Záběhlická: Bohdalecká &gt; V korytech - 1</title>
+      <title>Záběhlická: Práčská &gt; V korytech - 1</title>
+      <title>Záběhlická: V korytech &gt; Bohdalecká - 1</title>
+      <title>Záběhlická: V korytech &gt; Práčská - 1</title>
+      <title>Zahradníčkova: Kukulova &gt; V úvalu - 1</title>
+      <title>Zahradníčkova: Plzeňská &gt; V úvalu - 1</title>
+      <title>Zahradníčkova: V úvalu &gt; Kukulova - 1</title>
+      <title>Zahradníčkova: V úvalu &gt; Plzeňská - 1</title>
+      <title>Zálesí: Novodvorská &gt; Sulická - 1</title>
+      <title>Zálesí: Sulická &gt; Novodvorská - 1</title>
+      <title>Zálesí: Sulická &gt; Zálesí - 1</title>
+      <title>Zálesí: Vídeňská &gt; Zálesí - 1</title>
+      <title>Zálesí: Zálesí &gt; Sulická - 1</title>
+      <title>Zálesí: Zálesí &gt; Vídeňská - 1</title>
+      <title>Zapova/Švédská: Holečkova &gt; Mošnova - 1</title>
+      <title>Zapova/Švédská: Mošnova &gt; Holečkova - 1</title>
+      <title>Zapova/Švédská: Mošnova &gt; Švédská - 1</title>
+      <title>Zapova/Švédská: Na Hřebenkách &gt; Švédská - 1</title>
+      <title>Zapova/Švédská: Švédská &gt; Mošnova - 1</title>
+      <title>Zapova/Švédská: Švédská &gt; Na Hřebenkách - 1</title>
+      <title>Zborovská: Matoušova &gt; Lidická - 1</title>
+      <title>Zborovská: Pavla Švandy &gt; V Botanice - 1</title>
+      <title>Zborovská: Petřínská &gt; Vodní - 1</title>
+      <title>Zborovská: V Botanice &gt; Matoušova - 1</title>
+      <title>Zborovská: Vítězná &gt; Petřínská - 1</title>
+      <title>Zborovská: Vodní &gt; Pavla Švandy - 1</title>
+      <title>Zelená: Jugoslávských partyzánů &gt; Koulova - 1</title>
+      <title>Zelená: Jugoslávských partyzánů &gt; Terronská - 1</title>
+      <title>Zelená: Koulova &gt; Jugoslávských partyzánů - 1</title>
+      <title>Zelená: Koulova &gt; nám. Na Santince - 1</title>
+      <title>Zelená: nám. Na Santince &gt; Koulova - 1</title>
+      <title>Zelená: Terronská &gt; Jugoslávských partyzánů - 1</title>
+      <title>Zelený pruh: Hudečkova &gt; K Ryšánce - 1</title>
+      <title>Zelený pruh: Jasná &gt; Mezivrší - 1</title>
+      <title>Zelený pruh: K Ryšánce &gt; Hudečkova - 1</title>
+      <title>Zelený pruh: K Ryšánce &gt; U družstva Práce - 1</title>
+      <title>Zelený pruh: Mezivrší &gt; Jasná - 1</title>
+      <title>Zelený pruh: Mezivrší &gt; Vlnitá - 1</title>
+      <title>Zelený pruh: U družstva Práce &gt; K Ryšánce - 1</title>
+      <title>Zelený pruh: U družstva Práce &gt; Vlnitá - 1</title>
+      <title>Zelený pruh: Vlnitá &gt; Mezivrší - 1</title>
+      <title>Zelený pruh: Vlnitá &gt; U družstva Práce - 1</title>
+      <title>Zenklova: Elsnicovo nám. &gt; Prosecká - 1</title>
+      <title>Zenklova: Hejtmánkova &gt; Prosecká - 1</title>
+      <title>Zenklova: Hejtmánkova &gt; Vosmíkových - 1</title>
+      <title>Zenklova: Liberecká &gt; nám. Na Stráži - 1</title>
+      <title>Zenklova: nám. Na Stráži &gt; Liberecká - 1</title>
+      <title>Zenklova: nám. Na Stráži &gt; Primátorská - 1</title>
+      <title>Zenklova: Primátorská &gt; Vosmíkových - 1</title>
+      <title>Zenklova: Prosecká &gt; Elsnicovo nám. - 1</title>
+      <title>Zenklova: S. K. Neumanna &gt; Liberecká - 1</title>
+      <title>Zenklova: S. K. Neumanna &gt; Trojská - 1</title>
+      <title>Žalanského: Engelmüllerova &gt; Galandova - 1</title>
+      <title>Žalanského: Galandova &gt; Engelmüllerova - 1</title>
+      <title>Žalanského: Galandova &gt; Slánská - 1</title>
+      <title>Žalanského: Slánská &gt; Galandova - 1</title>
+      <title>Železničářů: Bubenská &gt; Plynární - 1</title>
+      <title>Železničářů: Plynární &gt; Bubenská - 1</title>
+      <title>Žernosecká: Čumpelíkova &gt; Ďáblická - 1</title>
+      <title>Žernosecká: Čumpelíkova &gt; Ústecká - 1</title>
+      <title>Žernosecká: Ďáblická &gt; Čumpelíkova - 1</title>
+      <title>Žernosecká: Ústecká &gt; Čumpelíkova - 1</title>
+      <title>Žitavského: K Přehradám &gt; Na Plácku - 3</title>
+      <title>Žitavského: Most Závodu míru &gt; Na Plácku - 1</title>
+      <title>Žitavského: Most Závodu míru &gt; Zbraslavské nám. - 1</title>
+      <title>Žitavského: Na Plácku &gt; K Přehradám - 1</title>
+      <title>Žitavského: Na Plácku &gt; Most Závodu míru - 1</title>
+      <title>Žitavského: Zbraslavské nám. &gt; Most Závodu míru - 1</title>
+      <title>Žitná: Fakultní poliklinika &gt; Karlovo nám. - 1</title>
+      <title>Žitná: Krakovská &gt; Štěpánská - 1</title>
+      <title>Žitná: Legerova &gt; Sokolská - 1</title>
+      <title>Žitná: Sokolská &gt; Krakovská - 1</title>
+      <title>Žitná: Štěpánská &gt; Fakultní poliklinika - 1</title>
+  </channel>
+</rss>
+

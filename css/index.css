@@ -1,0 +1,141 @@
+body {
+    -webkit-text-size-adjust: 100% !important;
+}
+
+
+@media only screen and (min-width: 640px)  and (max-width: 2080px)
+{
+    body {
+        font-size: 28px!important;
+    }
+    div {
+        font-size: 25px!important;
+    }
+    label {
+        font-size: 25px!important;
+    }
+
+    .ui-btn.ui-checkbox-off:after, .ui-btn.ui-checkbox-on:after, .ui-btn.ui-radio-off:after, .ui-btn.ui-radio-on:after {
+        width: 35px !important;
+        height: 30px !important;
+        margin: -12px 2px 0 2px !important;
+    }
+}
+
+
+@media only screen and (min-width: 0px)  and (max-width: 639px)
+{
+    body {
+        font-size: 23px!important;
+        -webkit-text-size-adjust: none;
+    }
+    div {
+        font-size: 20px!important;
+    }
+    label {
+        font-size: 20px!important;
+    }
+}
+
+@media screen and (max-device-width: 480px), screen and (max-device-width: 960px) and (-webkit-min-device-pixel-ratio: 2) {
+    /* iPhone CSS rules here */
+    body {
+        font-size: 13px!important;
+        -webkit-text-size-adjust: none;
+    }
+    div {
+        font-size: 10px!important;
+    }
+    label {
+        font-size: 10px!important;
+    }
+}
+
+
+@media only screen and (min-width: 0px)  and (max-width: 480px)
+{/* testovani iPhone v local browseru */
+    body {
+        font-size: 13px!important;
+        -webkit-text-size-adjust: none;
+    }
+    div {
+        font-size: 10px!important;
+    }
+    label {
+        font-size: 10px!important;
+    }
+}
+
+
+
+.main {
+
+}
+
+body {
+    background: url(../img/background.png) !important;
+    background-repeat:repeat-y;
+    background-position:center center;
+    background-attachment:scroll;
+    background-size:100% 100% !important;
+}
+.ui-page {
+    background: transparent;
+}
+.ui-content{
+    background: transparent;
+}
+.ui-checkbox input {
+    -webkit-appearance: none;
+}
+
+
+.backgrdEfect {
+    background: rgba(255, 255, 255, 0.5);
+    border-color: #000;
+}
+.ui-field-contain {
+    background: rgba(255, 255, 255, 0.5);
+    border-color: #000;
+    border-radius: .3125em;
+    border: 0px solid;
+    padding-left: 10px;
+}
+
+#infoContainer {
+    height: 5em;
+    line-height: 1.2em;
+    border: 2px solid black;
+    overflow: auto;
+    -webkit-border-radius: .3125em;
+    border-radius: .3125em;
+    padding: 0.5em;
+    font-size: 1em;
+    color: white;
+}
+
+
+.ui-selectmenu.ui-popup .ui-input-search {
+    margin-left: .5em;
+    margin-right: .5em;
+}
+.ui-selectmenu.ui-dialog .ui-content {
+    padding-top: 0;
+}
+.ui-selectmenu.ui-dialog .ui-selectmenu-list {
+    margin-top: 0;
+}
+.ui-selectmenu.ui-popup .ui-selectmenu-list li.ui-first-child .ui-btn {
+    border-top-width: 1px;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+}
+.ui-selectmenu.ui-dialog .ui-header {
+    border-bottom-width: 1px;
+}
+.ui-checkbox, .ui-radio {
+    margin: .5em 1em;
+}
+.ui-overlay-a, .ui-page-theme-a, .ui-page-theme-a .ui-panel-wrapper {
+    text-shadow: 0px !important;
+}

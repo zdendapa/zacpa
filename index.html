@@ -1,0 +1,200 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="format-detection" content="telephone=no" />
+    <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+    <meta name="viewport" content="user-scalable=yes, initial-scale=1, maximum-scale=2, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+    <title>Zácpa warning</title>
+</head>
+<body>
+
+
+
+<link rel="stylesheet" href="css/jquery.mobile-1.4.1_z.css" />
+<link rel="stylesheet" href="css/index.css" />
+<!--<script type="text/javascript" charset="utf-8" src="cordova-2.2.0.js"></script>-->
+<script type="text/javascript" charset="utf-8" src="js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="PushNotification.js"></script>
+<script type="text/javascript" src="phonegap.js"></script>
+<script type="text/javascript" src="js/scripts.js"></script>
+<script type="text/javascript" src="js/jquery.mobile-1.4.1.min.js"></script>
+<script type="text/javascript">
+
+    if (navigator.userAgent.match(/(iPhone|iPod|iPad|Android|BlackBerry|IEMobile)/)) {
+        document.addEventListener("deviceready", onDeviceReady, false);
+    } else {
+        //window.addEventListener("load", onDeviceReady, false);
+    }
+
+    if(lokal)
+    {
+        //onDeviceReady();
+        window.addEventListener("load", onDeviceReady, false);
+    }
+
+
+    $.mobile.document
+        // "filter-menu-menu" is the ID generated for the listview when it is created
+        // by the custom selectmenu plugin. Upon creation of the listview widget we
+        // want to prepend an input field to the list to be used for a filter.
+            .on( "listviewcreate", "#ulice-menu", function( e ) {
+                var input,
+                        listbox = $( "#ulice-listbox" ),
+                        form = listbox.jqmData( "filter-form" ),
+                        listview = $( e.target );
+                // We store the generated form in a variable attached to the popup so we
+                // avoid creating a second form/input field when the listview is
+                // destroyed/rebuilt during a refresh.
+                if ( !form ) {
+                    input = $( "<input data-type='search'></input>" );
+                    form = $( "<form></form>" ).append( input );
+                    input.textinput();
+                    $( "#ulice-listbox" )
+                            .prepend( form )
+                            .jqmData( "filter-form", form );
+                }
+                // Instantiate a filterable widget on the newly created listview and
+                // indicate that the generated input is to be used for the filtering.
+                listview.filterable({ input: input });
+            })
+        // The custom select list may show up as either a popup or a dialog,
+        // depending how much vertical room there is on the screen. If it shows up
+        // as a dialog, then the form containing the filter input field must be
+        // transferred to the dialog so that the user can continue to use it for
+        // filtering list items.
+        //
+        // After the dialog is closed, the form containing the filter input is
+        // transferred back into the popup.
+            .on( "pagebeforeshow pagehide", "#ulice-dialog", function( e ) {
+                var form = $( "#ulice-listbox" ).jqmData( "filter-form" ),
+                        placeInDialog = ( e.type === "pagebeforeshow" ),
+                        destination = placeInDialog ? $( e.target ).find( ".ui-content" ) : $( "#ulice-listbox" );
+                form
+                        .find( "input" )
+                    // Turn off the "inset" option when the filter input is inside a dialog
+                    // and turn it back on when it is placed back inside the popup, because
+                    // it looks better that way.
+                        .textinput( "option", "inset", !placeInDialog )
+                        .end()
+                        .prependTo( destination );
+            });
+
+
+</script>
+<div id="main" class="main" data-role="page">
+    <div id="infoContainer" class="backgrdEfect">
+        <div id="info">Spouštím</div>
+    </div>
+    <label class="label" for="checkBoxVypZap">Dostávat upozornění:</label>
+    <input class="checkBox" type="checkbox" value="vyzvednout" id="checkBoxVypZap" data-iconpos="right" onchange="checkBoxVypDnesChange()" />
+    <label style="color: grey; display: none" class="label" id="lableBoxVypDnes" for="checkBoxVypDnes">Dnes už neupozorňovat</label>
+    <input style="display: none" class="checkBox" type="checkbox" id="checkBoxVypDnes" data-iconpos="right" onchange="nastaveniZmena()" />
+
+    <ul class="list" data-role="listview" data-inset="true">
+        <li>
+            <form>
+                <div class="ui-field-contain">
+                    <label for="ulice">Ulice:</label>
+                    <select id="ulice" data-native-menu="false" name="ulice" onchange="nactiSmer()">
+                    </select>
+                </div>
+            </form>
+            <form>
+                <div class="ui-field-contain">
+                    <label for="smer">Směr</label>
+                    <select id="smer" data-native-menu="false" name="smer">
+                    </select>
+                </div>
+            </form>
+            <form>
+                <div class="ui-field-contain">
+                    <label for="stav">Stav:</label>
+                    <select name="stav" id="stav">
+                        <option value="1">plynulý provoz (tedy stále)</option>
+                        <option value="2">houstnoucí provoz</option>
+                        <option value="3">silný provoz</option>
+                        <option value="4">tvorba kolon vozidel</option>
+                    </select>
+                </div>
+            </form>
+            <form>
+                <div class="ui-field-contain">
+                    <label for="casOd">Od:</label>
+                    <select name="casOd" id="casOd">
+                        <option value="0:00">VYBERTE hodinu od</option>
+                        <option value="0:00">0h</option>
+                        <option value="1:00">1h</option>
+                        <option value="2:00">2h</option>
+                        <option value="3:00">3h</option>
+                        <option value="4:00">4h</option>
+                        <option value="5:00">5h</option>
+                        <option value="6:00">6h</option>
+                        <option value="7:00">7h</option>
+                        <option value="8:00">8h</option>
+                        <option value="9:00">9h</option>
+                        <option value="10:00">10h</option>
+                        <option value="11:00">11h</option>
+                        <option value="12:00">12h</option>
+                        <option value="13:00">13h</option>
+                        <option value="14:00">14h</option>
+                        <option value="15:00">15h</option>
+                        <option value="16:00">16h</option>
+                        <option value="17:00">17h</option>
+                        <option value="18:00">18h</option>
+                        <option value="19:00">19h</option>
+                        <option value="20:00">20h</option>
+                        <option value="21:00">21h</option>
+                        <option value="22:00">22h</option>
+                        <option value="23:00">23h</option>
+                    </select>
+                </div>
+            </form>
+            <div>
+                <form>
+                    <div class="ui-field-contain">
+                        <label for="casDo">Do:</label>
+                        <select name="casDo" id="casDo">
+                            <option value="30:00">VYBERTE hodinu do</option>
+                            <option value="0:00">0h</option>
+                            <option value="1:00">1h</option>
+                            <option value="2:00">2h</option>
+                            <option value="3:00">3h</option>
+                            <option value="4:00">4h</option>
+                            <option value="5:00">5h</option>
+                            <option value="6:00">6h</option>
+                            <option value="7:00">7h</option>
+                            <option value="8:00">8h</option>
+                            <option value="9:00">9h</option>
+                            <option value="10:00">10h</option>
+                            <option value="11:00">11h</option>
+                            <option value="12:00">12h</option>
+                            <option value="13:00">13h</option>
+                            <option value="14:00">14h</option>
+                            <option value="15:00">15h</option>
+                            <option value="16:00">16h</option>
+                            <option value="17:00">17h</option>
+                            <option value="18:00">18h</option>
+                            <option value="19:00">19h</option>
+                            <option value="20:00">20h</option>
+                            <option value="21:00">21h</option>
+                            <option value="22:00">22h</option>
+                            <option value="23:00">23h</option>
+                        </select>
+                    </div>
+                </form>
+            </div>
+            <input id="stavTedButton" type="button" value="Stav právě teď" onclick="stavTed()">
+        </li>
+
+        <input id="zmenitNastaveniButton" type="button" value="Uložit nastavení" onclick="nastaveniZmena()">
+        <input id="buttonPoslatNotifikaci" type="button" value="Poslat zkušební notifikaci" onclick="zkusebniPozadavekOdeslat()">
+        <input id="localStorageDelete" style="display: none"  data-role="none" type="button" value="localStorageDelete" onclick="localStorageDelete()">
+    </ul>
+
+
+
+    <div id="verzeApp">beta 0.2</div>
+</div>
+</body>
+</html>

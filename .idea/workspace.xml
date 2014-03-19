@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aab975f2-6226-4112-a012-090c50f3b9e5" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="webStorm.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="webStorm" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5076356">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/config.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="105" column="0" selection-start="5077" selection-end="5077" vertical-scroll-proportion="0.070194386" vertical-offset="1720" max-vertical-offset="2669">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="91" column="138" selection-start="4754" selection-end="4754" vertical-scroll-proportion="0.0" vertical-offset="1513" max-vertical-offset="3485">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/css/index.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="64" column="14" selection-start="1418" selection-end="1419" vertical-scroll-proportion="0.0" vertical-offset="1088" max-vertical-offset="2482">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="30" column="5" selection-start="1343" selection-end="1343" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="3485">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="scripts.js" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/js/scripts.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="39" column="0" selection-start="861" selection-end="861" vertical-scroll-proportion="-0.01835853" vertical-offset="663" max-vertical-offset="9911">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/js/scripts.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/config.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1592" />
+    <option name="y" value="-188" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webStorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webStorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zacpa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webStorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zacpa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="screen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webStorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zacpa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="screen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ios" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webStorm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zacpa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="settings.github" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="C:/eclipseWorkspace/fajnsvaca/WebContent" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" editBeforeRun="true" singleton="true" uri="http://localhost:63333/WebContent/student2.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">C:\Users\Zdenda.Zdenek-T420\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aab975f2-6226-4112-a012-090c50f3b9e5" name="Default" comment="" />
+      <created>1392280450492</created>
+      <updated>1392280450492</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit&#10;">
+      <created>1392289104968</created>
+      <updated>1392289104968</updated>
+    </task>
+    <task id="LOCAL-00002" summary="registrace do CRX">
+      <created>1392301916850</created>
+      <updated>1392301916850</updated>
+    </task>
+    <task id="LOCAL-00003" summary="registrace do CRX&#10;">
+      <created>1392301923768</created>
+      <updated>1392301923768</updated>
+    </task>
+    <task id="LOCAL-00004" summary="registrace do CRX&#10;">
+      <created>1392304203692</created>
+      <updated>1392304203692</updated>
+    </task>
+    <task id="LOCAL-00005" summary="registrace do CRX&#10;">
+      <created>1392304802674</created>
+      <updated>1392304802674</updated>
+    </task>
+    <task id="LOCAL-00006" summary="registrace do CRX&#10;">
+      <created>1392307644555</created>
+      <updated>1392307644555</updated>
+    </task>
+    <task id="LOCAL-00007" summary="registrace do CRX&#10;">
+      <created>1392640518875</created>
+      <updated>1392640518875</updated>
+    </task>
+    <task id="LOCAL-00008" summary="registrace do CRX&#10;">
+      <created>1392641483343</created>
+      <updated>1392641483343</updated>
+    </task>
+    <task id="LOCAL-00009" summary="pridan cas">
+      <created>1392654247759</created>
+      <updated>1392654247759</updated>
+    </task>
+    <task id="LOCAL-00010" summary="pridan cas&#10;">
+      <created>1392655214712</created>
+      <updated>1392655214712</updated>
+    </task>
+    <task id="LOCAL-00011" summary="pridan cas&#10;">
+      <created>1392655256415</created>
+      <updated>1392655256415</updated>
+    </task>
+    <task id="LOCAL-00012" summary="        0.0.6&#10;        - jquery mobile&#10;        - vyber ulice s filtrem, pridan stupneprovozu.xml">
+      <created>1392893702130</created>
+      <updated>1392893702130</updated>
+    </task>
+    <task id="LOCAL-00013" summary="        0.0.6&#10;        - jquery mobile&#10;        - vyber ulice s filtrem, pridan stupneprovozu.xml&#10;">
+      <created>1392900178933</created>
+      <updated>1392900178933</updated>
+    </task>
+    <task id="LOCAL-00014" summary="        0.0.6&#10;        - jquery mobile&#10;        - vyber ulice s filtrem, pridan stupneprovozu.xml&#10;">
+      <created>1392900666521</created>
+      <updated>1392900666521</updated>
+    </task>
+    <task id="LOCAL-00015" summary="        0.0.6&#10;        - jquery mobile&#10;        - vyber ulice s filtrem, pridan stupneprovozu.xml&#10;">
+      <created>1392900877207</created>
+      <updated>1392900877207</updated>
+    </task>
+    <task id="LOCAL-00016" summary="        0.0.6&#10;        - jquery mobile&#10;        - vyber ulice s filtrem, pridan stupneprovozu.xml&#10;">
+      <created>1392901375804</created>
+      <updated>1392901375804</updated>
+    </task>
+    <task id="LOCAL-00017" summary="        0.0.7&#10;        - pridan &quot;stav prave ted&quot;&#10;        - zvetseny font">
+      <created>1392908867994</created>
+      <updated>1392908867994</updated>
+    </task>
+    <task id="LOCAL-00018" summary="        0.0.7&#10;        - pridan &quot;stav prave ted&quot;&#10;        - zvetseny font&#10;">
+      <created>1392910242405</created>
+      <updated>1392910242405</updated>
+    </task>
+    <task id="LOCAL-00019" summary="        0.0.8&#10;        - oprava localStorage&#10;        - oprava zobrazovani APSN message">
+      <created>1392913178508</created>
+      <updated>1392913178508</updated>
+    </task>
+    <task id="LOCAL-00020" summary="        0.0.9&#10;        - uprava css&#10;        - orientation - portrait">
+      <created>1392972871800</created>
+      <updated>1392972871800</updated>
+    </task>
+    <task id="LOCAL-00021" summary="- registrace pro colBootu">
+      <created>1392992985827</created>
+      <updated>1392992985828</updated>
+    </task>
+    <task id="LOCAL-00022" summary="- registrace pro colBootu&#10;">
+      <created>1392993883899</created>
+      <updated>1392993883899</updated>
+    </task>
+    <task id="LOCAL-00023" summary="- registrace pro colBootu&#10;">
+      <created>1392994504771</created>
+      <updated>1392994504771</updated>
+    </task>
+    <task id="LOCAL-00024" summary="- konfigurac certifikatu&#10;">
+      <created>1393234834795</created>
+      <updated>1393234834795</updated>
+    </task>
+    <task id="LOCAL-00025" summary="        b&#10;        - uprava iPhone registrace">
+      <created>1393426387007</created>
+      <updated>1393426387007</updated>
+    </task>
+    <task id="LOCAL-00026" summary="        b&#10;        - uprava iPhone registrace&#10;">
+      <created>1393426475985</created>
+      <updated>1393426475985</updated>
+    </task>
+    <task id="LOCAL-00027" summary="        c&#10;        - zmena select bez jquery mobile&#10;        - css styl pro iPhone">
+      <created>1393500256428</created>
+      <updated>1393500256428</updated>
+    </task>
+    <task id="LOCAL-00028" summary="        c&#10;        - zmena select bez jquery mobile&#10;        - css styl pro iPhone&#10;">
+      <created>1393500728826</created>
+      <updated>1393500728826</updated>
+    </task>
+    <task id="LOCAL-00029" summary="        c&#10;        - zmena select bez jquery mobile&#10;        - css styl pro iPhone&#10;">
+      <created>1393501014764</created>
+      <updated>1393501014764</updated>
+    </task>
+    <task id="LOCAL-00030" summary="        c&#10;        - zmena select bez jquery mobile&#10;        - css styl pro iPhone&#10;">
+      <created>1393515997947</created>
+      <updated>1393515997947</updated>
+    </task>
+    <task id="LOCAL-00031" summary="        0.0.10&#10;        - rozdeleni ulice na ulici a smer. Vyreseno rychle vybirani&#10;        - info se zobrazuje smerem dolu + autoscroll">
+      <created>1393516014380</created>
+      <updated>1393516014380</updated>
+    </task>
+    <task id="LOCAL-00032" summary="        0.0.10&#10;        - rozdeleni ulice na ulici a smer. Vyreseno rychle vybirani&#10;        - info se zobrazuje smerem dolu + autoscroll&#10;">
+      <created>1393516973493</created>
+      <updated>1393516973493</updated>
+    </task>
+    <task id="LOCAL-00033" summary="    0.1.0&#10;        - beta, pripraveno pro publikaci na store&#10;        - poslat zkusebni notifikaci&#10;        - zobrazeni zpravy zpet i pri ulozeni a zkusebni notifikaci&#10;        - pridano dnes uz neupozornovat&#10;        - oprava chyb">
+      <created>1394014428856</created>
+      <updated>1394014428856</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Initial commit&#10;">
+      <created>1394721293235</created>
+      <updated>1394721293235</updated>
+    </task>
+    <task id="LOCAL-00035" summary="splash screen&#10;">
+      <created>1394785249590</created>
+      <updated>1394785249590</updated>
+    </task>
+    <task id="LOCAL-00036" summary="splash screen&#10;">
+      <created>1394785503349</created>
+      <updated>1394785503349</updated>
+    </task>
+    <task id="LOCAL-00037" summary="splash screen&#10;">
+      <created>1394785555785</created>
+      <updated>1394785555785</updated>
+    </task>
+    <task id="LOCAL-00038" summary="splash screen&#10;">
+      <created>1394785627870</created>
+      <updated>1394785627870</updated>
+    </task>
+    <task id="LOCAL-00039" summary="splash screen&#10;">
+      <created>1394785678393</created>
+      <updated>1394785678393</updated>
+    </task>
+    <task id="LOCAL-00040" summary="splash screen&#10;">
+      <created>1394785710685</created>
+      <updated>1394785710685</updated>
+    </task>
+    <task id="LOCAL-00041" summary="grafika Z">
+      <created>1395216620617</created>
+      <updated>1395216620617</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1592" y="-188" width="1936" height="1096" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32953367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32953367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18799368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32953367" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32953367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="registrace do CRX" />
+    <MESSAGE value="registrace do CRX&#10;" />
+    <MESSAGE value="pridan cas" />
+    <MESSAGE value="pridan cas&#10;" />
+    <MESSAGE value="        0.0.6&#10;        - jquery mobile&#10;        - vyber ulice s filtrem, pridan stupneprovozu.xml" />
+    <MESSAGE value="        0.0.6&#10;        - jquery mobile&#10;        - vyber ulice s filtrem, pridan stupneprovozu.xml&#10;" />
+    <MESSAGE value="        0.0.7&#10;        - pridan &quot;stav prave ted&quot;&#10;        - zvetseny font" />
+    <MESSAGE value="        0.0.7&#10;        - pridan &quot;stav prave ted&quot;&#10;        - zvetseny font&#10;" />
+    <MESSAGE value="        0.0.8&#10;        - oprava localStorage&#10;        - oprava zobrazovani APSN message" />
+    <MESSAGE value="        0.0.9&#10;        - uprava css&#10;        - orientation - portrait" />
+    <MESSAGE value="- registrace pro colBootu" />
+    <MESSAGE value="- registrace pro colBootu&#10;" />
+    <MESSAGE value="- konfigurac certifikatu&#10;" />
+    <MESSAGE value="        b&#10;        - uprava iPhone registrace" />
+    <MESSAGE value="        b&#10;        - uprava iPhone registrace&#10;" />
+    <MESSAGE value="        c&#10;        - zmena select bez jquery mobile&#10;        - css styl pro iPhone" />
+    <MESSAGE value="        c&#10;        - zmena select bez jquery mobile&#10;        - css styl pro iPhone&#10;" />
+    <MESSAGE value="        0.0.10&#10;        - rozdeleni ulice na ulici a smer. Vyreseno rychle vybirani&#10;        - info se zobrazuje smerem dolu + autoscroll" />
+    <MESSAGE value="        0.0.10&#10;        - rozdeleni ulice na ulici a smer. Vyreseno rychle vybirani&#10;        - info se zobrazuje smerem dolu + autoscroll&#10;" />
+    <MESSAGE value="    0.1.0&#10;        - beta, pripraveno pro publikaci na store&#10;        - poslat zkusebni notifikaci&#10;        - zobrazeni zpravy zpet i pri ulozeni a zkusebni notifikaci&#10;        - pridano dnes uz neupozornovat&#10;        - oprava chyb" />
+    <MESSAGE value="Initial commit&#10;" />
+    <MESSAGE value="splash screen&#10;" />
+    <MESSAGE value="grafika Z" />
+    <option name="LAST_COMMIT_MESSAGE" value="grafika Z" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="105" column="0" selection-start="5077" selection-end="5077" vertical-scroll-proportion="0.0" vertical-offset="1785" max-vertical-offset="2669">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="14" selection-start="1418" selection-end="1419" vertical-scroll-proportion="0.0" vertical-offset="1088" max-vertical-offset="2482">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="5" selection-start="1343" selection-end="1343" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="3485">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="0" selection-start="861" selection-end="861" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="9928">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="16" selection-start="1224" selection-end="1225" vertical-scroll-proportion="0.0" vertical-offset="635" max-vertical-offset="1887">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="186" column="14" selection-start="9341" selection-end="9346" vertical-scroll-proportion="0.0" vertical-offset="2506" max-vertical-offset="3383">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="1" selection-start="327" selection-end="327" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="8772">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="8" selection-start="818" selection-end="953" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="2482">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="16" selection-start="1224" selection-end="1225" vertical-scroll-proportion="0.0" vertical-offset="635" max-vertical-offset="1887">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="152" column="17" selection-start="7399" selection-end="7399" vertical-scroll-proportion="0.0" vertical-offset="2584" max-vertical-offset="3383">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="1" selection-start="327" selection-end="327" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="8755">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="7" selection-start="818" selection-end="953" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2482">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="16" selection-start="1224" selection-end="1225" vertical-scroll-proportion="0.0" vertical-offset="635" max-vertical-offset="1887">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="152" column="17" selection-start="7399" selection-end="7399" vertical-scroll-proportion="0.0" vertical-offset="2584" max-vertical-offset="3383">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="1" selection-start="327" selection-end="327" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="8772">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="33" selection-start="696" selection-end="696" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2346">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="18" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="1275">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="104" column="19" selection-start="5368" selection-end="5368" vertical-scroll-proportion="0.0" vertical-offset="1301" max-vertical-offset="3196">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="419" column="0" selection-start="11859" selection-end="11859" vertical-scroll-proportion="0.0" vertical-offset="7123" max-vertical-offset="7701">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="579" selection-end="646" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="2312">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="18" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="970" selection-end="1046" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="3196">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="45" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0" vertical-offset="578" max-vertical-offset="7514">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="493" selection-end="578" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2244">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="13" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="47" selection-start="1299" selection-end="1299" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="3196">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="7327">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="421" selection-end="492" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="2193">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="13" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="47" selection-start="1299" selection-end="1299" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="3196">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="281" column="47" selection-start="6660" selection-end="6660" vertical-scroll-proportion="0.0" vertical-offset="4777" max-vertical-offset="7004">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="0" selection-start="4217" selection-end="5474" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2091">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="122" column="16" selection-start="3785" selection-end="3785" vertical-scroll-proportion="0.0" vertical-offset="1706" max-vertical-offset="2788">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="41" selection-start="3982" selection-end="3982" vertical-scroll-proportion="0.0" vertical-offset="1411" max-vertical-offset="2159">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="25" selection-start="758" selection-end="758" vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="6069">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="26" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="2074">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="146" column="16" selection-start="4111" selection-end="4111" vertical-scroll-proportion="0.0" vertical-offset="2482" max-vertical-offset="2601">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="103" selection-start="1676" selection-end="1676" vertical-scroll-proportion="0.0" vertical-offset="646" max-vertical-offset="1445">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="120" column="30" selection-start="2468" selection-end="2486" vertical-scroll-proportion="0.0" vertical-offset="2040" max-vertical-offset="5151">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="26" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2074">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="36" selection-start="2131" selection-end="2131" vertical-scroll-proportion="0.0" vertical-offset="387" max-vertical-offset="1445">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="146" column="16" selection-start="4111" selection-end="4111" vertical-scroll-proportion="0.0" vertical-offset="2482" max-vertical-offset="2601">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="30" selection-start="2155" selection-end="2155" vertical-scroll-proportion="0.0" vertical-offset="1464" max-vertical-offset="5083">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2074">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="346" column="23" selection-start="7843" selection-end="7843" vertical-scroll-proportion="0.33333334" vertical-offset="5569" max-vertical-offset="10132" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="14" selection-start="1418" selection-end="1419" vertical-scroll-proportion="0.0" vertical-offset="1088" max-vertical-offset="1870">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="0" selection-start="861" selection-end="861" vertical-scroll-proportion="-0.01835853" vertical-offset="663" max-vertical-offset="9911">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="5" selection-start="1343" selection-end="1343" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="3485">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="105" column="0" selection-start="5077" selection-end="5077" vertical-scroll-proportion="0.070194386" vertical-offset="1720" max-vertical-offset="2669">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
