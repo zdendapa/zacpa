@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aab975f2-6226-4112-a012-090c50f3b9e5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/screen/ios/Default-568h@2x.png" afterPath="$PROJECT_DIR$/res/screen/ios/Default-568h@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/screen/ios/Default-Portrait.png" afterPath="$PROJECT_DIR$/res/screen/ios/Default-Portrait.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/screen/ios/Default.png" afterPath="$PROJECT_DIR$/res/screen/ios/Default.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/screen/ios/Default@2x.png" afterPath="$PROJECT_DIR$/res/screen/ios/Default@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/screen/android/res-cz-long-port-hdpi/default.png" afterPath="$PROJECT_DIR$/res/screen/android/res-cz-long-port-hdpi/default.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/screen/android/res-cz-long-port-ldpi/default.png" afterPath="$PROJECT_DIR$/res/screen/android/res-cz-long-port-ldpi/default.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/screen/android/res-cz-long-port-xhdpi/default.png" afterPath="$PROJECT_DIR$/res/screen/android/res-cz-long-port-xhdpi/default.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/screen/android/res-cz-notlong-port-hdpi/default.png" afterPath="$PROJECT_DIR$/res/screen/android/res-cz-notlong-port-hdpi/default.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/screen/android/res-cz-notlong-port-ldpi/default.png" afterPath="$PROJECT_DIR$/res/screen/android/res-cz-notlong-port-ldpi/default.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/screen/android/res-cz-notlong-port-mdpi/default.png" afterPath="$PROJECT_DIR$/res/screen/android/res-cz-notlong-port-mdpi/default.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/screen/android/res-cz-notlong-port-xhdpi/default.png" afterPath="$PROJECT_DIR$/res/screen/android/res-cz-notlong-port-xhdpi/default.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="aab975f2-6226-4112-a012-090c50f3b9e5" name="Default" comment="Initial commit&#10;">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/scripts.js" afterPath="$PROJECT_DIR$/js/scripts.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="webStorm.iws" />
@@ -36,13 +27,13 @@
     <favorites_list name="webStorm" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5076356">
+    <splitter split-orientation="horizontal" split-proportion="0.41548184">
       <split-first>
         <leaf>
           <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/config.xml">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="105" column="0" selection-start="5077" selection-end="5077" vertical-scroll-proportion="0.070194386" vertical-offset="1720" max-vertical-offset="2669">
+                <state line="57" column="69" selection-start="1638" selection-end="1640" vertical-scroll-proportion="0.33333334" vertical-offset="668" max-vertical-offset="2703">
                   <folding />
                 </state>
               </provider>
@@ -70,19 +61,19 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="30" column="5" selection-start="1343" selection-end="1343" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="3485">
+                <state line="196" column="31" selection-start="10050" selection-end="10050" vertical-scroll-proportion="0.8255416" vertical-offset="2608" max-vertical-offset="3485">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="scripts.js" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="scripts.js" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/js/scripts.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="39" column="0" selection-start="861" selection-end="861" vertical-scroll-proportion="-0.01835853" vertical-offset="663" max-vertical-offset="9911">
+                <state line="11" column="13" selection-start="210" selection-end="210" vertical-scroll-proportion="-5.92" vertical-offset="22" max-vertical-offset="9928">
                   <folding />
                 </state>
               </provider>
@@ -105,8 +96,8 @@
       <list>
         <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/js/scripts.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -278,14 +269,6 @@
     <property name="restartRequiresConfirmation" value="true" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -296,15 +279,23 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" editBeforeRun="true" singleton="true" uri="http://localhost:63333/WebContent/student2.html">
@@ -505,19 +496,22 @@
       <created>1395216620617</created>
       <updated>1395216620617</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Initial commit&#10;">
+      <created>1395217110147</created>
+      <updated>1395217110147</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1592" y="-188" width="1936" height="1096" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32953367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32953367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18799368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18799368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32953367" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -525,11 +519,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32953367" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32953367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -564,10 +559,10 @@
     <MESSAGE value="        0.0.10&#10;        - rozdeleni ulice na ulici a smer. Vyreseno rychle vybirani&#10;        - info se zobrazuje smerem dolu + autoscroll" />
     <MESSAGE value="        0.0.10&#10;        - rozdeleni ulice na ulici a smer. Vyreseno rychle vybirani&#10;        - info se zobrazuje smerem dolu + autoscroll&#10;" />
     <MESSAGE value="    0.1.0&#10;        - beta, pripraveno pro publikaci na store&#10;        - poslat zkusebni notifikaci&#10;        - zobrazeni zpravy zpet i pri ulozeni a zkusebni notifikaci&#10;        - pridano dnes uz neupozornovat&#10;        - oprava chyb" />
-    <MESSAGE value="Initial commit&#10;" />
     <MESSAGE value="splash screen&#10;" />
     <MESSAGE value="grafika Z" />
-    <option name="LAST_COMMIT_MESSAGE" value="grafika Z" />
+    <MESSAGE value="Initial commit&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -909,21 +904,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="861" selection-end="861" vertical-scroll-proportion="-0.01835853" vertical-offset="663" max-vertical-offset="9911">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="5" selection-start="1343" selection-end="1343" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="3485">
+        <state line="11" column="13" selection-start="210" selection-end="210" vertical-scroll-proportion="-5.92" vertical-offset="22" max-vertical-offset="9928">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="105" column="0" selection-start="5077" selection-end="5077" vertical-scroll-proportion="0.070194386" vertical-offset="1720" max-vertical-offset="2669">
+        <state line="57" column="69" selection-start="1638" selection-end="1640" vertical-scroll-proportion="0.33333334" vertical-offset="668" max-vertical-offset="2703">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="196" column="31" selection-start="10050" selection-end="10050" vertical-scroll-proportion="0.8255416" vertical-offset="2608" max-vertical-offset="3485">
           <folding />
         </state>
       </provider>

@@ -9,7 +9,7 @@
 var lokal = false;
 var currentDate = new Date();
 var pushNotification;
-var token = "345";
+var token = "";
 var xmlFile; //stupneprovozu.xml
 var registraceUkladani = false;  // indikuje proces pri prvni registraci registrovani
 
@@ -24,6 +24,7 @@ function onDeviceReady() {
 
     if(lokal)
     {
+        token = "345";
         $("#localStorageDelete").css("display","block");
     }
 
